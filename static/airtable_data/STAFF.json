@@ -15,33 +15,7 @@
   "GROUP": "合作夥伴組",
   "NAME_EN": "jean",
   "備註": "跨組",
-  "MAIN_GROUP": "籌備大組",
-  "AVATAR": [
-    {
-      "id": "attWDha4lYQXkM6hT",
-      "url": "https://dl.airtable.com/oWku75F8SjqeRwKfP85D_IMG_7154%20-%20Jean%20Kuo.JPG",
-      "filename": "IMG_7154 - Jean Kuo.JPG",
-      "size": 257007,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/blz1rqgCQleM3OJFHDdf_small_IMG_7154%20-%20Jean%20Kuo.JPG",
-          "width": 37,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/vkiM1wZpTQzEsFQWbnUd_large_IMG_7154%20-%20Jean%20Kuo.JPG",
-          "width": 521,
-          "height": 512
-        },
-        "full": {
-          "url": "https://dl.airtable.com/JKT8fAQQajusNI4N8Hfg_full_IMG_7154%20-%20Jean%20Kuo.JPG",
-          "width": 960,
-          "height": 943
-        }
-      }
-    }
-  ]
+  "MAIN_GROUP": "籌備大組"
 },
 {
   "id": "recshp3vXqogiPqXg",
