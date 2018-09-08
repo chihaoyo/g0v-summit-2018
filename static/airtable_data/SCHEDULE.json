@@ -10,7 +10,6 @@
     "recZuck1FGh5wUtli",
     "recc0wWf8wLD5q6r5"
   ],
-  "SLIDE": "https://docs.google.com/presentation/d/1BmqxK26RDYEkMZraRghhfndr7ZglhApnPZU-4ZPjdfQ/edit#slide=id.p",
   "SHOW": true,
   "TITLE_EN": "Participation Officer System: challenges and visions (translated)",
   "ABSTRACT_EN": "Participation officers network in Taiwanese government conduct workshops that engage diverse stakeholders to identify and define core problems, generate meaningful challenge statements, and co-create possible solutions to real issues and public projects. This process helps strengthen the quality of stakeholder collaborations and better inform our public policies. We believe that multi-stakeholder governance processes can reinforce the trust between citizens and the government.\n\nThe PO Network serves to drive cultural change; it plays a key role in Taiwan’s Open Government scene. POs are deeply involved in the conversation with civic society and governmental divisions, by tackling cross-ministerial issues with wider stakeholders openly and creatively. PO Network is a network of around 70 civil servants in the central government.",
@@ -157,7 +156,6 @@
   "VENUE": "R0",
   "START": "2018-10-07T06:10:00.000Z",
   "END": "2018-10-07T06:30:00.000Z",
-  "YOUTUBE": "https://www.youtube.com/watch?v=mEC4MjhZjXU",
   "SPEAKER": [
     "rec3AtjRbmRKWMt59"
   ],
@@ -244,7 +242,6 @@
   "SPEAKER": [
     "rechVSn8f4piEwap2"
   ],
-  "SLIDE": "http://slides.com/howawong/g0vhk_hongkong_civic_tech/",
   "SHOW": true,
   "TITLE_EN": "g0vhk.io and civic hacking in Hong Kong",
   "ABSTRACT_EN": "A brief summary to existing civic tech community and project including PopVote, Civic Data HK, g0vhk.io, collaction.hk and Open Culture Station.",
@@ -388,7 +385,6 @@
   "VENUE": "R1",
   "START": "2018-10-07T05:50:00.000Z",
   "END": "2018-10-07T06:10:00.000Z",
-  "YOUTUBE": "https://www.youtube.com/watch?v=WWYNmtIVWW8",
   "SPEAKER": [
     "recBWdORvLNwvcPoS"
   ],
@@ -447,11 +443,9 @@
   "VENUE": "R2",
   "START": "2018-10-05T03:30:00.000Z",
   "END": "2018-10-05T04:30:00.000Z",
-  "YOUTUBE": "https://www.youtube.com/watch?v=WWYNmtIVWW8",
   "SPEAKER": [
     "recrrdft3AxoRQxMn"
   ],
-  "SLIDE": "https://docs.google.com/presentation/d/1fHpUkaGRxEn-J2g7YQQyeY4hL7JlMJhXL1GaLSLxlDM",
   "SHOW": true,
   "TITLE_EN": "Computational characterization of participation in civic technologies",
   "ABSTRACT_EN": "In this talk, we will focus on practical examples of how interfaces, technical features and algorithms might have influenced behaviour in civic technologies. In particular, using data from platforms like Decide Madrid (https://decide.madrid.es/), Decidim Barcelona (https://www.decidim.barcelona), Avaaz.org (https://avaaz.org/) and Menéame (https://www.meneame.net), we will examine how conversation threading affects the deliberative structures of online discussion and how sorting algorithms explain the dynamics of petition signing. Finally, we will discuss different proposals to improve the performance of civic technologies through various techniques like applying participatory design or mitigating ranking biases through data visualization.",
@@ -689,7 +683,6 @@
   "SPEAKER": [
     "recK0cFa3s8GoKxIu"
   ],
-  "SLIDE": "https://docs.google.com/presentation/d/1_TQOpIiagvkNemYvvwakzbXdAQGs5IGFzVg2Q4EwrEs/edit?usp=sharing",
   "SHOW": true,
   "TITLE_EN": "Community-supported food production system (translated)",
   "TYPE": "talk",
@@ -805,7 +798,6 @@
   "SPEAKER": [
     "recPIVzZ2EoJi1FvT"
   ],
-  "SLIDE": "https://speakerdeck.com/rschiang/fantastic-vote-system-and-where-to-find-em",
   "SHOW": true,
   "TITLE_EN": "OK NTU, let’s cast e-vote!",
   "TYPE": "talk",
@@ -848,7 +840,6 @@
     "recxtPmVAMyW2KKUK",
     "rec0QMNdkmTLx33se"
   ],
-  "SLIDE": "https://docs.google.com/presentation/d/1L8sJ26DiInLLNnVSOgRfGlQCPr5YWbkihFl8PntqUZ0/edit?usp=sharing",
   "SHOW": true,
   "TITLE_EN": "Grow an exhibition from the community: g0v at Ars Electronica Festival 2018 (translated)",
   "ABSTRACT_EN": "g0v is awarded the “Prix Ars Electronica 2018 Digital Communities Award of Distinction” and invited to Ars Electronica Festival: The CyberArts Exhibition. How could a nobody’s community grow an exhibition that is capable of representing itself? This session will share the process from the initiation of the discussion through the completion of the exhibition. Work will be shown at the Summit.",
@@ -888,7 +879,6 @@
   "START": "2018-10-06T07:30:00.000Z",
   "END": "2018-10-06T07:50:00.000Z",
   "ABSTRACT": "因為「薪資與租屋居住品質關聯調查」找資料而到 g0v 挖坑的敬舒，以及跳坑卻又開新案「開放台灣民間租屋資料」的 ddio ，一坑兩案，一邊是有時間限制，過程難以開源的研究計畫，一邊是糾結於技術與法律的開放資料專案，看似簡單的資料供需關係，因為測試需要以及資料分析的需求，讓兩邊不只是單方向的協助，而是雙向的理解與協作，也因為彼此想像的差異，開啟了更多合作的可能。除了用「發包接案」與「挖坑跳坑」來理解開源跨界專案外，這種一坑兩案，獨立卻又共同協作的模式，有沒有可能是另一種跨界合作的方法？它需要哪些條件才能成型，各自又能經驗什麼？讓我們繼續看下去⋯",
-  "YOUTUBE": "https://www.youtube.com/watch?v=mEC4MjhZjXU",
   "SPEAKER": [
     "recKdOszZh2WYVYsl",
     "recmGNT7Vlty0B4vI"
@@ -963,7 +953,6 @@
   "START": "2018-10-07T05:50:00.000Z",
   "END": "2018-10-07T06:10:00.000Z",
   "ABSTRACT": "在臺灣，死刑是一個非常難被討論的議題。首先，民調指出約有八成左右的民眾支持死刑，民意相當的懸殊；其次，死刑也是討論時會變得非常「極化」的議題，無論支持者或反對者都顯現出強烈的意見認同。每當重大刑案發生，死刑議題就變得更加難被冷靜的看待。然而，民間團體「廢除死刑推動聯盟」還是決定跨出一步，不再辯論「廢死與否」，而是設定「死刑替代方案」作為審議的主題，走遍全台灣各縣市，也舉辦了特殊關係人的場次。",
-  "YOUTUBE": "https://www.youtube.com/watch?v=mEC4MjhZjXU",
   "SPEAKER": [
     "recuiPDrKMeiAhWpt"
   ],
@@ -1069,7 +1058,6 @@
   "SPEAKER": [
     "recZ6s3SN0vHU2oEa"
   ],
-  "SLIDE": "http://ethanzuckerman.com",
   "SHOW": true,
   "TITLE_EN": "Mobilizing mistrust",
   "ABSTRACT_EN": "One of the dominant emotions of our time is mistrust: a lack of confidence in institutions of all sorts, from government through commercial, academic or religious. While much of this mistrust is deserved, mistrust can be a dangerous and corrosive force, leading people to disengage from civic life. This talk examines where mistrust comes from, and how activists around the world are harnessing mistrust to make social change.",

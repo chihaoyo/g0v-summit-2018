@@ -1331,11 +1331,11 @@
     "recsBLW3IRjH2UYAI"
   ],
   "TWITTER": "@yutin1987",
+  "NAME_EN": "yutin",
   "TITLE1_EN": "g0v.tw",
   "BIO_EN": "YuTin, g0v contributor start from the 2012 year, also an internet programmer, and cloud architect. For now a chief officer in a company, focus #OpenGov #OpenSource #news.",
   "SHOW": true,
-  "ID": 39,
-  "NAME_EN": "yutin"
+  "ID": 39
 },
 {
   "id": "recw0dp1q0utTdExr",
@@ -2033,7 +2033,7 @@
 },
 {
   "id": "recNapxxGYhwY2GCa",
-  "NAME": "_",
+  "NAME": "洪國鈞",
   "TITLE1": "沃草",
   "CROPPED_AVATAR": [
     {
@@ -2065,6 +2065,7 @@
     "rec4dfybn7e0WkQpc"
   ],
   "BIO": "沃草《國會無雙》專案經理。",
+  "NAME_EN": "Kuochun Hung",
   "TITLE1_EN": "Watchout",
   "SHOW": true,
   "ID": 58
@@ -2164,12 +2165,13 @@
 },
 {
   "id": "recXZa69GkDCDqMJ1",
-  "NAME": "_",
+  "NAME": "王希",
   "TITLE1": "沃草",
   "SCHEDULE": [
     "rec4dfybn7e0WkQpc"
   ],
   "BIO": "沃草專案經理，負責「2016 立委出任務」、「2016 開放國會松」、「2017 給問擂台」、「2018 六都市長給問嗎」等專案。參與過許多公民運動，包含公民 1985 行動聯盟、反黑箱課綱微調、反黑箱服貿佔領立法院行動等。認為台灣過去許多問題來自於民眾對明君聖主的迷信，相信集合群眾智慧才是改變台灣現況的關鍵。",
+  "NAME_EN": "Josh Wang",
   "TITLE1_EN": "Watchout",
   "SHOW": true,
   "ID": 62
@@ -2603,7 +2605,7 @@
 },
 {
   "id": "rec0n0z8TeiOz7gGE",
-  "NAME": "関 治之",
+  "NAME": "関治之",
   "CROPPED_AVATAR": [
     {
       "id": "attxwLrFkwlqmJbN3",
@@ -2877,7 +2879,7 @@
 },
 {
   "id": "recLcBKTDWdZ5n4xp",
-  "NAME": "_",
+  "NAME": "g0v 揪松團",
   "TITLE1": "g0v 揪松團",
   "CROPPED_AVATAR": [
     {
@@ -2909,6 +2911,7 @@
     "recL6A9ldkzf03s84"
   ],
   "BIO": "揪松團是主辦大黑客松與基礎松的工作小組（task force），2012 年底開始舉辦雙月大松，由 clkao、ipa 處理大松行政事務。2014 年後取名為「揪松團」（jothon group），並於 2016 年增加人手，重啟社群基礎建設計畫，希望在大黑客松之餘，線上線下跨界協作更為順暢。2017 年起籌辦 g0v 公民科技創新獎助金（Civic Tech Prototype Grant）。目前揪松團成員有 clkao、ipa、kirby、ttcat、isabel、ronnywang、bess。",
+  "NAME_EN": "g0v jothon",
   "TITLE1_EN": "g0v jothon",
   "SHOW": true,
   "ID": 82
