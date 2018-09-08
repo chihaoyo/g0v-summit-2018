@@ -1566,7 +1566,7 @@
 },
 {
   "id": "recZuck1FGh5wUtli",
-  "NAME": "_",
+  "NAME": "張芳睿",
   "TITLE1": "公共數位創新空間",
   "CROPPED_AVATAR": [
     {
@@ -1602,7 +1602,8 @@
   "TITLE1_EN": "PDIS",
   "BIO_EN": "Fang is currently working as a Service Designer/Consultant at PDIS. She leads workshops and meetings to tackle diverse social issues across departments as well as organisations and private sectors. The aim of this is to deal with cross-ministerial issues and enhance a better organisational culture from inside to outside of the government. She is a hybrid designer who graduated from the Royal College of Art with an MA in Service Design. Over the past 5 years of work experience, she has worked as a multi-dimensional designer covering a wide range of disciplines across diverse industries. Her main body of work has focused on projects in healthcare, education, urban planning, finance, and transport. She strongly believes that a designer has an obligation to work for the benefit of society and the environment as well as the commercial industry.",
   "SHOW": true,
-  "ID": 46
+  "ID": 46,
+  "NAME_EN": "Fang-Jui Chang"
 },
 {
   "id": "rec6sMP9TwkIQYfEk",
@@ -1644,7 +1645,7 @@
 },
 {
   "id": "reczHxpFAHf1zQBNE",
-  "NAME": "_",
+  "NAME": "曾柏瑜",
   "TITLE1": "曾柏瑜競選團隊",
   "CROPPED_AVATAR": [
     {
@@ -1677,7 +1678,8 @@
   ],
   "BIO": "2018新北市議員時代力量參選人，曾任開放文化基金會研究員，出版「2014 - 2016 開放政府觀察報告」。曾任台北市政府媒體事務組專員、亞洲青年民主連線秘書、2016年立委參選人、318佔領立法院運動媒體部。",
   "SHOW": true,
-  "ID": 48
+  "ID": 48,
+  "NAME_EN": "Poyu Tseng"
 },
 {
   "id": "recxtPmVAMyW2KKUK",
@@ -1762,7 +1764,7 @@
 },
 {
   "id": "recVGZtysFMFUOc7z",
-  "NAME": "_",
+  "NAME": "李比鄰",
   "TITLE1": "真的假的",
   "CROPPED_AVATAR": [
     {
@@ -1797,11 +1799,12 @@
   "TITLE1_EN": "Cofacts",
   "BIO_EN": "Contributed to Cofacts, we do fact-checking and meet-up every 2 month. Cofacts is a collaborative system connecting instant messages and fact-check reports together. ",
   "SHOW": true,
-  "ID": 51
+  "ID": 51,
+  "NAME_EN": "Billion Lee"
 },
 {
   "id": "recRKavcd0VT0nLrW",
-  "NAME": "_",
+  "NAME": "林佳怡 ",
   "TITLE1": "iTaigi",
   "CROPPED_AVATAR": [
     {
@@ -1835,11 +1838,11 @@
   "BIO": "iTaigi 愛台語坑主，台語工作者，民視台灣學堂「講台語當著時」主講，過去是教育部台語辭典 ê 編輯。一逝 code 都袂曉寫，煞愛做佮 data 有關係 ê 工課，會做甲家己袂收山。",
   "TITLE1_EN": "iTaigi",
   "SHOW": true,
-  "ID": 52
+  "ID": 52,
+  "NAME_EN": "Liz Lim"
 },
 {
   "id": "rec0D27XWg69ZmSKU",
-  "NAME": "_",
   "TITLE1": "開放文化基金會",
   "CROPPED_AVATAR": [
     {
@@ -1878,7 +1881,6 @@
 },
 {
   "id": "recj60tXpMRloe4of",
-  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attFN9nC8JiEkzref",
@@ -1914,7 +1916,7 @@
 },
 {
   "id": "recc0wWf8wLD5q6r5",
-  "NAME": "_",
+  "NAME": "林雨蒼 ",
   "TITLE1": "公共數位創新空間",
   "CROPPED_AVATAR": [
     {
@@ -1949,7 +1951,8 @@
   "TWITTER": "@billy3321",
   "TITLE1_EN": "PDIS",
   "SHOW": true,
-  "ID": 55
+  "ID": 55,
+  "NAME_EN": "Billy Zhe-Wei Lin"
 },
 {
   "id": "reciJNxqBVuM3rizq",
@@ -2066,14 +2069,15 @@
 },
 {
   "id": "recKdOszZh2WYVYsl",
-  "NAME": "_",
+  "NAME": "洪敬舒",
   "TITLE1": "台灣勞工陣線",
   "SCHEDULE": [
     "recoJUijVzZVQ43OP"
   ],
   "BIO": "曾任媒體記者、國會助理、NPO政策研究與倡議專員、公平稅改聯盟發言人。現任台灣勞工陣線研究部主任、貧窮經濟研究室研究員。研究議題包含勞動貧窮、社會經濟、勞動合作社、社會企業、稅制政策。",
   "SHOW": true,
-  "ID": 59
+  "ID": 59,
+  "NAME_EN": "sue sue hung"
 },
 {
   "id": "rec0QMNdkmTLx33se",
@@ -2118,7 +2122,7 @@
 },
 {
   "id": "recHf9MwpRt1PnPrS",
-  "NAME": "_",
+  "NAME": "王向榮 ",
   "TITLE1": "g0v 參與者",
   "CROPPED_AVATAR": [
     {
@@ -2153,7 +2157,8 @@
   "TWITTER": "@ronnywang",
   "TITLE1_EN": "g0ver",
   "SHOW": true,
-  "ID": 61
+  "ID": 61,
+  "NAME_EN": "Ronny Wang"
 },
 {
   "id": "recXZa69GkDCDqMJ1",
@@ -2209,7 +2214,7 @@
 },
 {
   "id": "recR3u8mf860neBej",
-  "NAME": "_",
+  "NAME": "簡信昌",
   "TITLE1": "g0v 參與者",
   "CROPPED_AVATAR": [
     {
@@ -2244,7 +2249,8 @@
   "BIO": "H.C.，曾經協助舉辦 2003 P3P、2004-2005 YAPC::Taipei、2006-2014 OSDC.tw 及 2014 g0v summit。2015 年進入新聞媒體，歷經報導者與鏡傳媒，目前正在進行一個新的媒體實驗：READr。",
   "TITLE1_EN": "g0ver",
   "SHOW": true,
-  "ID": 64
+  "ID": 64,
+  "NAME_EN": "HC"
 },
 {
   "id": "recUiBQpIFUZZGKtt",
@@ -2326,7 +2332,7 @@
 },
 {
   "id": "recbBOxy3jaIK3cyb",
-  "NAME": "_",
+  "NAME": "蔡明翰",
   "CROPPED_AVATAR": [
     {
       "id": "attnW4196FI1jS7aX",
@@ -2360,11 +2366,12 @@
   "TITLE1_EN": "Taiwan Civil Service Innovation Coalition",
   "BIO_EN": "President of “Taiwan Civil Service Innovation Coalition”, an NGO in Taiwan. ",
   "SHOW": true,
-  "ID": 67
+  "ID": 67,
+  "NAME_EN": "TSAI, MING-HAN"
 },
 {
   "id": "recuZeZzSMseFu8qc",
-  "NAME": "_",
+  "NAME": "蔡淳任",
   "TITLE1": "台灣文化政策研究學會",
   "CROPPED_AVATAR": [
     {
@@ -2398,7 +2405,8 @@
   "BIO": "表演藝術聯盟專案研究員、台灣文化政策研究學會副秘書長、台灣藝術大學藝術管理與文化政策研究所碩士、曾任NCCWP專案網路總監。",
   "TITLE1_EN": "TACPS",
   "SHOW": true,
-  "ID": 68
+  "ID": 68,
+  "NAME_EN": " Tsaia Chun Jen"
 },
 {
   "id": "recLFCTqZQIEPiyAw",
@@ -2479,7 +2487,6 @@
 },
 {
   "id": "recnQtXAKHhIkSvG0",
-  "NAME": "_",
   "TITLE1": "女人迷／#CodeforGender",
   "CROPPED_AVATAR": [
     {
@@ -2517,7 +2524,7 @@
 },
 {
   "id": "recWpEskTXG8rJPzd",
-  "NAME": "_",
+  "NAME": "鄧東波",
   "TITLE1": "開放街圖台灣",
   "CROPPED_AVATAR": [
     {
@@ -2594,7 +2601,7 @@
 },
 {
   "id": "rec0n0z8TeiOz7gGE",
-  "NAME": "_",
+  "NAME": "関 治之",
   "CROPPED_AVATAR": [
     {
       "id": "attxwLrFkwlqmJbN3",
@@ -2628,11 +2635,11 @@
   "TITLE1_EN": "Code for Japan",
   "BIO_EN": "Representative of Code for Japan. ",
   "SHOW": true,
-  "ID": 74
+  "ID": 74,
+  "NAME_EN": " Haruyuki Seki"
 },
 {
   "id": "recMwjcXwOl1bUbB0",
-  "NAME": "_",
   "TITLE1": "女人迷／#CodeforGender",
   "SCHEDULE": [
     "recc415V4ubnKQuWS"
@@ -2752,7 +2759,7 @@
 },
 {
   "id": "rec2oDPPgckNj6lZ5",
-  "NAME": "_",
+  "NAME": "駱勁成",
   "TITLE1": "g0v 參與者",
   "CROPPED_AVATAR": [
     {
