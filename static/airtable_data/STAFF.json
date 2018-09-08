@@ -270,6 +270,7 @@
   "TITLE": "副召",
   "GROUP": "總籌組",
   "NAME_EN": "Mouse Kuo",
+  "備註": "跨組",
   "MAIN_GROUP": "籌備大組"
 },
 {
@@ -608,6 +609,15 @@
   "AVATAR_URL": "https://drive.google.com/open?id=1BA6xVALm_tVearlDqSfO3tbumfsZQVVY",
   "GROUP": "口譯組",
   "NAME_EN": "XE",
+  "MAIN_GROUP": "現場大組"
+},
+{
+  "id": "recfMWzVwRYgZuLE7",
+  "NAME": "Mouse Kuo",
+  "TITLE": "組長",
+  "GROUP": "設備組",
+  "NAME_EN": "Mouse Kuo",
+  "備註": "跨組",
   "MAIN_GROUP": "現場大組"
 },
 {
@@ -975,16 +985,6 @@
   "GROUP": "宣傳組",
   "NAME_EN": "Shiny Lee",
   "MAIN_GROUP": "宣傳大組"
-},
-{
-  "id": "recmjk5To51vIjwNq",
-  "NAME": "皇甫",
-  "TITLE": "組長",
-  "AVATAR_URL": "https://drive.google.com/open?id=1_FgE46iiHpPCsZU_ME1jAneFH1gjqstO",
-  "GROUP": "場務組",
-  "NAME_EN": "皇甫",
-  "備註": "跨組",
-  "MAIN_GROUP": "現場大組"
 },
 {
   "id": "recJSXvO8ym3q08H6",
