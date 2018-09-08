@@ -1147,7 +1147,6 @@
 },
 {
   "id": "rec57RLl4fgkRPGhU",
-  "NAME": "_",
   "TITLE1": "台灣人權促進會（Taiwan Association for Human Rights）",
   "CROPPED_AVATAR": [
     {
@@ -1184,7 +1183,7 @@
 },
 {
   "id": "recaEPlfSKCXGhARi",
-  "NAME": "_",
+  "NAME": "侯宜秀",
   "CROPPED_AVATAR": [
     {
       "id": "atthGzR65ui51RzMn",
@@ -1217,11 +1216,12 @@
   "TITLE1_EN": "g0v",
   "BIO_EN": "Isabel Hou is the legal counsel of “g0v jothon” and also a seasoned attorney focusing on technological innovation and intellectual property law since 1997. Isabel has served as a legal counsel for various government programs, NGOs, and open source/culture communities.",
   "SHOW": true,
-  "ID": 36
+  "ID": 36,
+  "NAME_EN": " Isabel Hou "
 },
 {
   "id": "rec16ERguhm7yTTHr",
-  "NAME": "_",
+  "NAME": "劉哲瑋",
   "TITLE1": "g0v 公有地大行動社群",
   "CROPPED_AVATAR": [
     {
@@ -1256,11 +1256,12 @@
   "TWITTER": "@cheweiii",
   "TITLE1_EN": "g0v",
   "SHOW": true,
-  "ID": 37
+  "ID": 37,
+  "NAME_EN": " Che Wei Liu"
 },
 {
   "id": "recBWdORvLNwvcPoS",
-  "NAME": "_",
+  "NAME": "劉嘉凱",
   "TITLE1": "智庫驅動",
   "CROPPED_AVATAR": [
     {
@@ -1295,11 +1296,12 @@
   "TWITTER": "@agentCKL",
   "TITLE1_EN": "DSP, Inc.",
   "SHOW": true,
-  "ID": 38
+  "ID": 38,
+  "NAME_EN": "Chia-Kai Liu"
 },
 {
   "id": "reczQF85qNDNCKzZx",
-  "NAME": "_",
+  "NAME": "劉宇庭",
   "CROPPED_AVATAR": [
     {
       "id": "attrNtBxaPYbPOBo4",
@@ -1412,7 +1414,7 @@
 },
 {
   "id": "recPIVzZ2EoJi1FvT",
-  "NAME": "_",
+  "NAME": "姜柏任",
   "TITLE1": "國立臺灣大學開源社\n",
   "CROPPED_AVATAR": [
     {
@@ -1447,7 +1449,8 @@
   "TWITTER": "@RSChiang",
   "TITLE1_EN": "NTUOSC",
   "SHOW": true,
-  "ID": 42
+  "ID": 42,
+  "NAME_EN": "RSChiang"
 },
 {
   "id": "rec1AWg17nLsPJ04t",
@@ -1678,7 +1681,6 @@
 },
 {
   "id": "recxtPmVAMyW2KKUK",
-  "NAME": "_",
   "TITLE1": "g0v 揪松團",
   "CROPPED_AVATAR": [
     {
@@ -1713,11 +1715,13 @@
   "TWITTER": "@besscslee19",
   "TITLE1_EN": "g0v jothon",
   "SHOW": true,
-  "ID": 49
+  "ID": 49,
+  "NAME": "李佳珊",
+  "NAME_EN": "Bess Lee"
 },
 {
   "id": "recrU2XQBoXoMYgmO",
-  "NAME": "_",
+  "NAME": "李梅君",
   "TITLE1": "g0v／美國加州大學戴維斯分校",
   "CROPPED_AVATAR": [
     {
@@ -1753,7 +1757,8 @@
   "TITLE1_EN": "g0v／University of California-Davis",
   "BIO_EN": "MG is a participant observer of g0v. As an anthropologist, her research interests include hackitivism, open movements, and digital democracy. She worked in the Open Culture Foundation during 2016-2017 and helped hold Civic Tech Fest in Taipei. She is also the coauthor of “Taiwan Open Government Report 2014-2016”. Now, she is based in California, writing her dissertation on how openness is transcoded from technologies to governance.",
   "SHOW": true,
-  "ID": 50
+  "ID": 50,
+  "NAME_EN": "Mg Lee"
 },
 {
   "id": "recVGZtysFMFUOc7z",
@@ -2072,7 +2077,7 @@
 },
 {
   "id": "rec0QMNdkmTLx33se",
-  "NAME": "_",
+  "NAME": "游知澔",
   "TITLE1": "沃草",
   "CROPPED_AVATAR": [
     {
@@ -2108,7 +2113,8 @@
   "TITLE1_EN": "Watchout",
   "BIO_EN": "chihao builds communities and advocates for collaboration. He is an active contributor to g0v.tw, archipielago.tw, and a founding member of biomearts.net. He is also the Design and Technology Lead at Watchout, a congressional news media and democracy tech launcher in Taiwan. He works to critique and renew journalistic organization and processes, and to build a network of tools and systems that informs and empowers Taiwanese political deliberation and participation.",
   "SHOW": true,
-  "ID": 60
+  "ID": 60,
+  "NAME_EN": "chihao"
 },
 {
   "id": "recHf9MwpRt1PnPrS",
@@ -2163,7 +2169,6 @@
 },
 {
   "id": "recyPdFle9IWTRsWL",
-  "NAME": "_",
   "TITLE1": "g0v 揪松團",
   "CROPPED_AVATAR": [
     {
@@ -2198,7 +2203,9 @@
   "TWITTER": "@ipa",
   "TITLE1_EN": "g0v jothon",
   "SHOW": true,
-  "ID": 63
+  "ID": 63,
+  "NAME": "瞿筱葳",
+  "NAME_EN": "Ipa Chiu"
 },
 {
   "id": "recR3u8mf860neBej",
@@ -2279,7 +2286,7 @@
 },
 {
   "id": "recFAUd5qZmYe4XyF",
-  "NAME": "_",
+  "NAME": "蔡志展",
   "TITLE1": "山岳政策監督聯盟／福爾摩沙山難預防協會",
   "CROPPED_AVATAR": [
     {
@@ -2314,7 +2321,8 @@
   "TWITTER": "@chihchun",
   "TITLE1_EN": "OpenStreetMap Taiwan",
   "SHOW": true,
-  "ID": 66
+  "ID": 66,
+  "NAME_EN": "Rex Tsai"
 },
 {
   "id": "recbBOxy3jaIK3cyb",
@@ -2394,7 +2402,7 @@
 },
 {
   "id": "recLFCTqZQIEPiyAw",
-  "NAME": "_",
+  "NAME": "蕭新晟",
   "TITLE1": "遺落在世界的國家寶藏",
   "CROPPED_AVATAR": [
     {
@@ -2429,11 +2437,12 @@
   "TITLE1_EN": "Taiwan National Treasure",
   "BIO_EN": "I am the cofounder of Taiwan National Treasure. I am a former physicist and software engineer. When I am not writing code, I am either building my next big ideas or running my political campaign. ",
   "SHOW": true,
-  "ID": 69
+  "ID": 69,
+  "NAME_EN": "Hsin-Cheng Hsiao"
 },
 {
   "id": "recuiPDrKMeiAhWpt",
-  "NAME": "_",
+  "NAME": "許恩恩",
   "TITLE1": "台灣廢除死刑推動聯盟\n",
   "CROPPED_AVATAR": [
     {
@@ -2547,7 +2556,7 @@
 },
 {
   "id": "recinknkjcyIhY78w",
-  "NAME": "_",
+  "NAME": "鄭婷宇",
   "TITLE1": "g0v 參與者",
   "CROPPED_AVATAR": [
     {
@@ -3047,4 +3056,7 @@
 },
 {
   "id": "recG0f4fSyMBHKolD"
+},
+{
+  "id": "recjGrvoj1OHi6X1S"
 }]
