@@ -82,7 +82,7 @@
   "SCHEDULE": [
     "recst4GJ61s2kNAVL"
   ],
-  "BIO_EN": "A civic hacker contributed to g0v community and the Digital Minister of Taiwan who in charge of Social Innovation, Audrey is known for revitalizing the computer languages Perl and Haskell, as well as building the online spreadsheet system EtherCalc in collaboration with Dan Bricklin.\n\nIn the public sector, Audrey served on Taiwan national development council’s open data committee and K-12 curriculum committee; and led the country’s first e-Rulemaking project.\n\nIn the private sector, Audrey worked as a consultant with Apple on computational linguistics, with Oxford University Press on crowd lexicography, and with Socialtext on social interaction design.",
+  "BIO_EN": "A civic hacker, g0v community contributor, and Taiwan’s Digital Minister in charge of Social Innovation, Audrey is known for revitalizing the computer languages Perl and Haskell, as well as building the online spreadsheet system EtherCalc in collaboration with Dan Bricklin.\n\nIn the public sector, Audrey served on Taiwan national development council’s open data committee and K-12 curriculum committee; and led the country’s first e-Rulemaking project.\n\nIn the private sector, Audrey worked as a consultant with Apple on computational linguistics, with Oxford University Press on crowd lexicography, and with Socialtext on social interaction design.",
   "SHOW": true,
   "ID": 3
 },
@@ -1213,11 +1213,11 @@
   "SCHEDULE": [
     "rec0ztQhg9drkVcry"
   ],
+  "NAME_EN": " Isabel Hou ",
   "TITLE1_EN": "g0v",
   "BIO_EN": "Isabel Hou is the legal counsel of “g0v jothon” and also a seasoned attorney focusing on technological innovation and intellectual property law since 1997. Isabel has served as a legal counsel for various government programs, NGOs, and open source/culture communities.",
   "SHOW": true,
-  "ID": 36,
-  "NAME_EN": " Isabel Hou "
+  "ID": 36
 },
 {
   "id": "rec16ERguhm7yTTHr",
@@ -1254,10 +1254,10 @@
   ],
   "BIO": "任職於空間規劃公司，關注於陪伴社區組織設想地區發展的願景與社區課題的解決，以及各類空間規劃作為一種公共政策所應致力的品質。除了規劃工作之外，持續以社群志願者的身份，參與各類開放知識公民社群的行動。",
   "TWITTER": "@cheweiii",
+  "NAME_EN": " Che Wei Liu",
   "TITLE1_EN": "g0v",
   "SHOW": true,
-  "ID": 37,
-  "NAME_EN": " Che Wei Liu"
+  "ID": 37
 },
 {
   "id": "recBWdORvLNwvcPoS",
@@ -1294,14 +1294,13 @@
   ],
   "BIO": "劉嘉凱是「DSP 智庫驅動」執行長，提供資料分析與策略諮詢服務，協助客戶改變日常工作的決策流程，以成為商業領域更棒的創新者；工作之餘，經常應邀為各級政府機關提供資料治理與開放資料之諮詢；他還與世界各地的國際組織合作推動開放資料之應用。下班之後，則積極參與《D4SG 資料英雄計畫》，運用資料力量改造社會。",
   "TWITTER": "@agentCKL",
+  "NAME_EN": "Chia-Kai Liu",
   "TITLE1_EN": "DSP, Inc.",
   "SHOW": true,
-  "ID": 38,
-  "NAME_EN": "Chia-Kai Liu"
+  "ID": 38
 },
 {
   "id": "reczQF85qNDNCKzZx",
-  "NAME": "劉宇庭",
   "CROPPED_AVATAR": [
     {
       "id": "attrNtBxaPYbPOBo4",
@@ -1335,7 +1334,8 @@
   "TITLE1_EN": "g0v.tw",
   "BIO_EN": "YuTin, g0v contributor start from the 2012 year, also an internet programmer, and cloud architect. For now a chief officer in a company, focus #OpenGov #OpenSource #news.",
   "SHOW": true,
-  "ID": 39
+  "ID": 39,
+  "NAME_EN": "yutin"
 },
 {
   "id": "recw0dp1q0utTdExr",
@@ -1370,9 +1370,9 @@
     "recgECkOc9M8DWlkx"
   ],
   "BIO": "屏東大學文化創意產業學系助理教授、台灣文化政策研究學會理事。「2017年全國文化會議暨文化政策白皮書」專案執行長，2018年「屏新而論」公民文化論壇計畫共同主持人。",
+  "NAME_EN": "Shu-Shiun Ku",
   "SHOW": true,
-  "ID": 40,
-  "NAME_EN": "Shu-Shiun Ku"
+  "ID": 40
 },
 {
   "id": "recmC0XfZEZiMl3bb",
@@ -1448,10 +1448,10 @@
   ],
   "BIO": "姜柏任（@RSChiang），國立臺灣大學法律系，臺大開源社發起人暨首屆社長。平常喜歡在公館巷弄的咖啡館裏寫程式，偶爾也兼寫狀。#qml #csharp #pythonista https://poren.tw",
   "TWITTER": "@RSChiang",
+  "NAME_EN": "RSChiang",
   "TITLE1_EN": "NTUOSC",
   "SHOW": true,
-  "ID": 42,
-  "NAME_EN": "RSChiang"
+  "ID": 42
 },
 {
   "id": "rec1AWg17nLsPJ04t",
@@ -1524,9 +1524,9 @@
     "recst4GJ61s2kNAVL"
   ],
   "BIO": "社團法人台灣數位科技與政策協進會理事，叡揚資訊股份有限公司董事長。創立國內第一家 100% 營收以軟體及服務為業務之叡揚資訊公司，帶領團隊建立軟體工程機制及專案管理方法論，努力建立軟體、服務、知識有價之觀念，建構開拓國際市場的機制與組織，成功進入大陸及日本市場。",
+  "NAME_EN": " CHANG PEI-YUNG",
   "SHOW": true,
-  "ID": 44,
-  "NAME_EN": " CHANG PEI-YUNG"
+  "ID": 44
 },
 {
   "id": "reczAud3wnEkcUluT",
@@ -1601,11 +1601,11 @@
     "recLfBAHIGGQTN3sU"
   ],
   "TWITTER": "@FangJuiChang",
+  "NAME_EN": "Fang-Jui Chang",
   "TITLE1_EN": "PDIS",
   "BIO_EN": "Fang is currently working as a Service Designer/Consultant at PDIS. She leads workshops and meetings to tackle diverse social issues across departments as well as organisations and private sectors. The aim of this is to deal with cross-ministerial issues and enhance a better organisational culture from inside to outside of the government. She is a hybrid designer who graduated from the Royal College of Art with an MA in Service Design. Over the past 5 years of work experience, she has worked as a multi-dimensional designer covering a wide range of disciplines across diverse industries. Her main body of work has focused on projects in healthcare, education, urban planning, finance, and transport. She strongly believes that a designer has an obligation to work for the benefit of society and the environment as well as the commercial industry.",
   "SHOW": true,
-  "ID": 46,
-  "NAME_EN": "Fang-Jui Chang"
+  "ID": 46
 },
 {
   "id": "rec6sMP9TwkIQYfEk",
@@ -1679,12 +1679,13 @@
     "recOgBGMx8wUyB0km"
   ],
   "BIO": "2018新北市議員時代力量參選人，曾任開放文化基金會研究員，出版「2014 - 2016 開放政府觀察報告」。曾任台北市政府媒體事務組專員、亞洲青年民主連線秘書、2016年立委參選人、318佔領立法院運動媒體部。",
+  "NAME_EN": "Poyu Tseng",
   "SHOW": true,
-  "ID": 48,
-  "NAME_EN": "Poyu Tseng"
+  "ID": 48
 },
 {
   "id": "recxtPmVAMyW2KKUK",
+  "NAME": "李佳珊",
   "TITLE1": "g0v 揪松團",
   "CROPPED_AVATAR": [
     {
@@ -1717,11 +1718,10 @@
   ],
   "BIO": "目前在 g0v 揪松團，專職辦松與獎助金專案。",
   "TWITTER": "@besscslee19",
+  "NAME_EN": "Bess Lee",
   "TITLE1_EN": "g0v jothon",
   "SHOW": true,
-  "ID": 49,
-  "NAME": "李佳珊",
-  "NAME_EN": "Bess Lee"
+  "ID": 49
 },
 {
   "id": "recrU2XQBoXoMYgmO",
@@ -1758,11 +1758,11 @@
   ],
   "BIO": "潛伏在台灣零時政府裡，挖掘故事與八卦，思考公民怎麼與科技連結的人類學家。研究關懷黑客行動主義、開放運動、數位民主等議題。2016-2017 間，曾在開放文化基金會打雜，協助舉辦 Civic Tech Fest，並與曾柏瑜共同撰寫《開放政府觀察報告 2014-2016》。現旅居美國加州不靠海的沙漠裡，搔頭苦惱博士論文怎麼下筆。",
   "TWITTER": "@leemeichun",
+  "NAME_EN": "Mg Lee",
   "TITLE1_EN": "g0v／University of California-Davis",
   "BIO_EN": "MG is a participant observer of g0v. As an anthropologist, her research interests include hackitivism, open movements, and digital democracy. She worked in the Open Culture Foundation during 2016-2017 and helped hold Civic Tech Fest in Taipei. She is also the coauthor of “Taiwan Open Government Report 2014-2016”. Now, she is based in California, writing her dissertation on how openness is transcoded from technologies to governance.",
   "SHOW": true,
-  "ID": 50,
-  "NAME_EN": "Mg Lee"
+  "ID": 50
 },
 {
   "id": "recVGZtysFMFUOc7z",
@@ -1798,11 +1798,11 @@
     "recVjYuDM4U3JT6FB"
   ],
   "BIO": "我是一隻鶴。在 Cofacts 真的假的裡當 17+N 歲的少女，負責每日庶務。我們做了一個 LINE 上的聊天機器人，讓 chatbot 天天幫你查證文章突破同溫層。",
+  "NAME_EN": "Billion Lee",
   "TITLE1_EN": "Cofacts",
   "BIO_EN": "Contributed to Cofacts, we do fact-checking and meet-up every 2 month. Cofacts is a collaborative system connecting instant messages and fact-check reports together. ",
   "SHOW": true,
-  "ID": 51,
-  "NAME_EN": "Billion Lee"
+  "ID": 51
 },
 {
   "id": "recRKavcd0VT0nLrW",
@@ -1838,10 +1838,10 @@
     "rec9jdNPjk3C6BGs9"
   ],
   "BIO": "iTaigi 愛台語坑主，台語工作者，民視台灣學堂「講台語當著時」主講，過去是教育部台語辭典 ê 編輯。一逝 code 都袂曉寫，煞愛做佮 data 有關係 ê 工課，會做甲家己袂收山。",
+  "NAME_EN": "Liz Lim",
   "TITLE1_EN": "iTaigi",
   "SHOW": true,
-  "ID": 52,
-  "NAME_EN": "Liz Lim"
+  "ID": 52
 },
 {
   "id": "rec0D27XWg69ZmSKU",
@@ -1951,10 +1951,10 @@
   ],
   "BIO": "自由軟體工作者、公民記者，目前於 PDIS 擔任研究員。",
   "TWITTER": "@billy3321",
+  "NAME_EN": "Billy Zhe-Wei Lin",
   "TITLE1_EN": "PDIS",
   "SHOW": true,
-  "ID": 55,
-  "NAME_EN": "Billy Zhe-Wei Lin"
+  "ID": 55
 },
 {
   "id": "reciJNxqBVuM3rizq",
@@ -2077,9 +2077,9 @@
     "recoJUijVzZVQ43OP"
   ],
   "BIO": "曾任媒體記者、國會助理、NPO政策研究與倡議專員、公平稅改聯盟發言人。現任台灣勞工陣線研究部主任、貧窮經濟研究室研究員。研究議題包含勞動貧窮、社會經濟、勞動合作社、社會企業、稅制政策。",
+  "NAME_EN": "sue sue hung",
   "SHOW": true,
-  "ID": 59,
-  "NAME_EN": "sue sue hung"
+  "ID": 59
 },
 {
   "id": "rec0QMNdkmTLx33se",
@@ -2116,11 +2116,11 @@
     "reca3OervPkPDp4W8"
   ],
   "TWITTER": "@chihaoyo",
+  "NAME_EN": "chihao",
   "TITLE1_EN": "Watchout",
   "BIO_EN": "chihao builds communities and advocates for collaboration. He is an active contributor to g0v.tw, archipielago.tw, and a founding member of biomearts.net. He is also the Design and Technology Lead at Watchout, a congressional news media and democracy tech launcher in Taiwan. He works to critique and renew journalistic organization and processes, and to build a network of tools and systems that informs and empowers Taiwanese political deliberation and participation.",
   "SHOW": true,
-  "ID": 60,
-  "NAME_EN": "chihao"
+  "ID": 60
 },
 {
   "id": "recHf9MwpRt1PnPrS",
@@ -2157,10 +2157,10 @@
   ],
   "BIO": "李慕約公司共同創辦人，g0v 社群長期參與者，發起與參與過新聞小幫手、求職小幫手、台灣公司資料、開放政治獻金等專案，希望更透明的政府可以讓大家有更自由幸福的生活。從一個喜歡爬政府資料做應用的人，開始變成部會的開放資料諮詢委員再變成開放資料平台的技術顧問，並至台灣各地幫機關和地方政府做資料品質教育訓練，我想分享這幾年從各種不同的身份不同角度看到的資料發展的情況以及問題。",
   "TWITTER": "@ronnywang",
+  "NAME_EN": "Ronny Wang",
   "TITLE1_EN": "g0ver",
   "SHOW": true,
-  "ID": 61,
-  "NAME_EN": "Ronny Wang"
+  "ID": 61
 },
 {
   "id": "recXZa69GkDCDqMJ1",
@@ -2171,11 +2171,12 @@
   ],
   "BIO": "沃草專案經理，負責「2016 立委出任務」、「2016 開放國會松」、「2017 給問擂台」、「2018 六都市長給問嗎」等專案。參與過許多公民運動，包含公民 1985 行動聯盟、反黑箱課綱微調、反黑箱服貿佔領立法院行動等。認為台灣過去許多問題來自於民眾對明君聖主的迷信，相信集合群眾智慧才是改變台灣現況的關鍵。",
   "TITLE1_EN": "Watchout",
-  "ID": 62,
-  "SHOW": true
+  "SHOW": true,
+  "ID": 62
 },
 {
   "id": "recyPdFle9IWTRsWL",
+  "NAME": "瞿筱葳",
   "TITLE1": "g0v 揪松團",
   "CROPPED_AVATAR": [
     {
@@ -2208,11 +2209,10 @@
   ],
   "BIO": "g0v 零時政府共同發起人，作家/紀錄片工作者，一個阿木。近年關注開源文化與數位公民參與，2015 年起推動 g0v 揪松團運作，深耕開放社群基礎建設。",
   "TWITTER": "@ipa",
+  "NAME_EN": "Ipa Chiu",
   "TITLE1_EN": "g0v jothon",
   "SHOW": true,
-  "ID": 63,
-  "NAME": "瞿筱葳",
-  "NAME_EN": "Ipa Chiu"
+  "ID": 63
 },
 {
   "id": "recR3u8mf860neBej",
@@ -2249,10 +2249,10 @@
     "rec92ZDxADbUW2hpU"
   ],
   "BIO": "H.C.，曾經協助舉辦 2003 P3P、2004-2005 YAPC::Taipei、2006-2014 OSDC.tw 及 2014 g0v summit。2015 年進入新聞媒體，歷經報導者與鏡傳媒，目前正在進行一個新的媒體實驗：READr。",
+  "NAME_EN": "HC",
   "TITLE1_EN": "g0ver",
   "SHOW": true,
-  "ID": 64,
-  "NAME_EN": "HC"
+  "ID": 64
 },
 {
   "id": "recUiBQpIFUZZGKtt",
@@ -2327,10 +2327,10 @@
   ],
   "BIO": "蔡志展 (Rex Tsai) 長期關注與推廣於台灣開放原始碼與開放街圖社群，2013 年起推動 OpenStreetMap 圖資用於登山運動，並參與政府開放資料等討論會議。近年透過山岳政策監督聯盟與福爾摩沙山難預防協會進一步倡議解除山岳活動管制政策。",
   "TWITTER": "@chihchun",
+  "NAME_EN": "Rex Tsai",
   "TITLE1_EN": "OpenStreetMap Taiwan",
   "SHOW": true,
-  "ID": 66,
-  "NAME_EN": "Rex Tsai"
+  "ID": 66
 },
 {
   "id": "recbBOxy3jaIK3cyb",
@@ -2365,11 +2365,11 @@
     "recOgBGMx8wUyB0km"
   ],
   "BIO": "台灣公務革新力量聯盟理事長",
+  "NAME_EN": "TSAI, MING-HAN",
   "TITLE1_EN": "Taiwan Civil Service Innovation Coalition",
   "BIO_EN": "President of “Taiwan Civil Service Innovation Coalition”, an NGO in Taiwan. ",
   "SHOW": true,
-  "ID": 67,
-  "NAME_EN": "TSAI, MING-HAN"
+  "ID": 67
 },
 {
   "id": "recuZeZzSMseFu8qc",
@@ -2405,10 +2405,10 @@
     "recgECkOc9M8DWlkx"
   ],
   "BIO": "表演藝術聯盟專案研究員、台灣文化政策研究學會副秘書長、台灣藝術大學藝術管理與文化政策研究所碩士、曾任NCCWP專案網路總監。",
+  "NAME_EN": " Tsaia Chun Jen",
   "TITLE1_EN": "TACPS",
   "SHOW": true,
-  "ID": 68,
-  "NAME_EN": " Tsaia Chun Jen"
+  "ID": 68
 },
 {
   "id": "recLFCTqZQIEPiyAw",
@@ -2444,11 +2444,11 @@
     "recaLqkd543k9UGBH"
   ],
   "TWITTER": "@hsiaoataipei",
+  "NAME_EN": "Hsin-Cheng Hsiao",
   "TITLE1_EN": "Taiwan National Treasure",
   "BIO_EN": "I am the cofounder of Taiwan National Treasure. I am a former physicist and software engineer. When I am not writing code, I am either building my next big ideas or running my political campaign. ",
   "SHOW": true,
-  "ID": 69,
-  "NAME_EN": "Hsin-Cheng Hsiao"
+  "ID": 69
 },
 {
   "id": "recuiPDrKMeiAhWpt",
@@ -2634,24 +2634,24 @@
     "recIxC0oyWvqiDfwF"
   ],
   "TWITTER": "@hal_sk",
+  "NAME_EN": " Haruyuki Seki",
   "TITLE1_EN": "Code for Japan",
   "BIO_EN": "Representative of Code for Japan. ",
   "SHOW": true,
-  "ID": 74,
-  "NAME_EN": " Haruyuki Seki"
+  "ID": 74
 },
 {
   "id": "recMwjcXwOl1bUbB0",
+  "NAME": "郭芙志",
   "TITLE1": "女人迷／#CodeforGender",
   "SCHEDULE": [
     "recc415V4ubnKQuWS"
   ],
   "BIO": "\n",
+  "NAME_EN": " Merci Kuo",
   "TITLE1_EN": "Womany／#CodeforGender",
   "BIO_EN": "Tzy-Tyng is the new business model creator at Womany, and the initiator of #CodeforGender where she leads meetups, workshops, hackathons, seeking the combination of technology with gender issue. ",
-  "ID": 75,
-  "NAME": "郭芙志",
-  "NAME_EN": " Merci Kuo"
+  "ID": 75
 },
 {
   "id": "recK0cFa3s8GoKxIu",
