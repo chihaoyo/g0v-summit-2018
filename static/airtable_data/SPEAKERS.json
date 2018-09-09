@@ -1110,7 +1110,7 @@
 },
 {
   "id": "rec1SFvUpwBhHKA1O",
-  "NAME": "_",
+  "NAME": "子魚",
   "TITLE1": "vTaiwan／g0v 參與者",
   "CROPPED_AVATAR": [
     {
@@ -1145,7 +1145,9 @@
   "TWITTER": "@2kanyo",
   "TITLE1_EN": "vTaiwan, g0ver",
   "SHOW": true,
-  "ID": 34
+  "ID": 34,
+  "NAME_EN": "ky（Lisa）",
+  "講者確認顯示名稱": "chihao"
 },
 {
   "id": "rec57RLl4fgkRPGhU",
@@ -1304,7 +1306,7 @@
 },
 {
   "id": "reczQF85qNDNCKzZx",
-  "NAME": "_",
+  "NAME": "宇庭",
   "CROPPED_AVATAR": [
     {
       "id": "attrNtBxaPYbPOBo4",
@@ -1335,11 +1337,12 @@
     "recsBLW3IRjH2UYAI"
   ],
   "TWITTER": "@yutin1987",
-  "NAME_EN": "yutin",
+  "NAME_EN": "YuTin",
   "TITLE1_EN": "g0v.tw",
   "BIO_EN": "YuTin, g0v contributor start from the 2012 year, also an internet programmer, and cloud architect. For now a chief officer in a company, focus #OpenGov #OpenSource #news.",
   "SHOW": true,
-  "ID": 39
+  "ID": 39,
+  "講者確認顯示名稱": "chihao"
 },
 {
   "id": "recw0dp1q0utTdExr",
