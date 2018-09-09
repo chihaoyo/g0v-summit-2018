@@ -1147,6 +1147,7 @@
 },
 {
   "id": "rec57RLl4fgkRPGhU",
+  "NAME": "_",
   "TITLE1": "台灣人權促進會（Taiwan Association for Human Rights）",
   "CROPPED_AVATAR": [
     {
@@ -1179,8 +1180,7 @@
   ],
   "BIO": "清華大學電機系、哲學所畢業。儘管人生看似嚴重錯頻，但台權會的工作似乎又巧妙地結合兩者。從事台權會工作至今，被迫不停質疑網際網路表面上的生態運作（特別是使用者隱私與言論背後的運作機制），可能已無法再回到過往的使用者狀態，但又隱隱覺得或許這才是一個健康的狀態也說不定。",
   "SHOW": true,
-  "ID": 35,
-  "NAME": "_"
+  "ID": 35
 },
 {
   "id": "recaEPlfSKCXGhARi",
@@ -1302,6 +1302,7 @@
 },
 {
   "id": "reczQF85qNDNCKzZx",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attrNtBxaPYbPOBo4",
@@ -1336,8 +1337,7 @@
   "TITLE1_EN": "g0v.tw",
   "BIO_EN": "YuTin, g0v contributor start from the 2012 year, also an internet programmer, and cloud architect. For now a chief officer in a company, focus #OpenGov #OpenSource #news.",
   "SHOW": true,
-  "ID": 39,
-  "NAME": "_"
+  "ID": 39
 },
 {
   "id": "recw0dp1q0utTdExr",
@@ -1847,6 +1847,7 @@
 },
 {
   "id": "rec0D27XWg69ZmSKU",
+  "NAME": "_",
   "TITLE1": "開放文化基金會",
   "CROPPED_AVATAR": [
     {
@@ -1881,11 +1882,11 @@
   "TITLE1_EN": "Open Culture Foundation (OCF)",
   "BIO_EN": "Pellaeon works to promote information security and privacy at Open Culture Foundation, Taiwan. He also participates in local FOSS and infosec communities and have contributed to many FOSS projects.",
   "SHOW": true,
-  "ID": 53,
-  "NAME": "_"
+  "ID": 53
 },
 {
   "id": "recj60tXpMRloe4of",
+  "NAME": "_",
   "CROPPED_AVATAR": [
     {
       "id": "attFN9nC8JiEkzref",
@@ -1917,8 +1918,7 @@
   ],
   "BIO": "台灣大學電機系、社會學研究所畢業。曾投入一九五〇年白色恐怖、二二八事件的調查研究，其後參與數年的政治實務工作，現任職於企業界，致力於創新與研發。閒暇之餘仍是個雞婆嘮叨的獨立研究者，相關著作請見 goo.gl/BtyfdU。",
   "SHOW": true,
-  "ID": 54,
-  "NAME": "_"
+  "ID": 54
 },
 {
   "id": "recc0wWf8wLD5q6r5",
@@ -2495,6 +2495,7 @@
 },
 {
   "id": "recnQtXAKHhIkSvG0",
+  "NAME": "_",
   "TITLE1": "女人迷／#CodeforGender",
   "CROPPED_AVATAR": [
     {
@@ -2528,8 +2529,7 @@
   "BIO": "女人迷服務設計師，#codeforgender 負責人。實踐性別友善至日常生活，從引領女人迷網頁改版，到領導舉辦 2016 年首屆性別暴力防治駭客松，身為「女人迷日報」app 設計師，期待自己能創造啟發他人的美好時刻。",
   "TITLE1_EN": "Womany／#CodeforGender",
   "SHOW": true,
-  "ID": 71,
-  "NAME": "_"
+  "ID": 71
 },
 {
   "id": "recWpEskTXG8rJPzd",
