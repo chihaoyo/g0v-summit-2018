@@ -2533,7 +2533,7 @@
 },
 {
   "id": "recnQtXAKHhIkSvG0",
-  "NAME": "_",
+  "NAME": "Merci Kuo",
   "TITLE1": "女人迷／#CodeforGender",
   "CROPPED_AVATAR": [
     {
@@ -2567,7 +2567,9 @@
   "BIO": "女人迷服務設計師，#codeforgender 負責人。實踐性別友善至日常生活，從引領女人迷網頁改版，到領導舉辦 2016 年首屆性別暴力防治駭客松，身為「女人迷日報」app 設計師，期待自己能創造啟發他人的美好時刻。",
   "TITLE1_EN": "Womany／#CodeforGender",
   "SHOW": true,
-  "ID": 71
+  "ID": 71,
+  "BIO_EN": "Merci is the service designer at Womany, and the initiator of #CodeforGender where she leads meetups, workshops, hackathons, seeking the combination of technology with gender issue.",
+  "講者確認顯示名稱": "chihao 使用講者確認通信內容"
 },
 {
   "id": "recWpEskTXG8rJPzd",
@@ -2837,11 +2839,12 @@
   "BIO": "議員／立委投票指南發起人。",
   "TITLE1_EN": "g0ver",
   "SHOW": true,
-  "ID": 79
+  "ID": 79,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recDt3F3yIReLZiFC",
-  "NAME": "_",
+  "NAME": "黃敬群",
   "TITLE1": "台灣國立成功大學",
   "CROPPED_AVATAR": [
     {
@@ -2875,11 +2878,13 @@
   "BIO": "成功大學資訊工程系助理教授，網上慣稱是「jserv」，專注於系統軟體開發。歷任聯發科技、台達電子、鴻海科技集團，和工研院的技術顧問，並長期貢獻於開放原始碼。",
   "TWITTER": "@jserv",
   "SHOW": true,
-  "ID": 80
+  "ID": 80,
+  "NAME_EN": "jserv",
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "rechVSn8f4piEwap2",
-  "NAME": "_",
+  "NAME": "Wong Ho Wa",
   "CROPPED_AVATAR": [
     {
       "id": "attgAfS9pLErWNmcu",
@@ -2913,7 +2918,8 @@
   "TITLE1_EN": "g0vhk.io",
   "BIO_EN": "A brief summary to existing civic tech  community and project including PopVote, Civic Data HK, g0vhk.io, collaction.hk and Open Culture Station",
   "SHOW": true,
-  "ID": 81
+  "ID": 81,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recLcBKTDWdZ5n4xp",
