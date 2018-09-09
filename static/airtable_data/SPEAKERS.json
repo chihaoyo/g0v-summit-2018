@@ -170,7 +170,8 @@
   ],
   "BIO": "斜槓主婦，正在嘗試打掃做飯、寫程式還有作功德之間的平衡，今年在努力積居住議題的功德。",
   "SHOW": true,
-  "ID": 6
+  "ID": 6,
+  "講者確認顯示名稱": "chihao"
 },
 {
   "id": "rec9J2RP03C6nppOd",
@@ -290,7 +291,8 @@
   "BIO": "因為開源社群專案、非營利組織專案、政府專案的參與經驗，淪為政治學碩士論文作者的白老鼠兼召喚獸，在此議程中負責回答聽眾的問題以及讓聽眾忘記要問什麼問題。",
   "TWITTER": "@ETBlue",
   "SHOW": true,
-  "ID": 10
+  "ID": 10,
+  "講者確認顯示名稱": "chihao"
 },
 {
   "id": "recZ6s3SN0vHU2oEa",
@@ -2073,7 +2075,7 @@
   "TITLE1_EN": "Watchout",
   "SHOW": true,
   "ID": 58,
-  "顯示名稱已與講者確認": "chihao"
+  "講者確認顯示名稱": "chihao"
 },
 {
   "id": "recKdOszZh2WYVYsl",
@@ -2127,7 +2129,7 @@
   "BIO_EN": "chihao builds communities and advocates for collaboration. He is an active contributor to g0v.tw, archipielago.tw, and a founding member of biomearts.net. He is also the Design and Technology Lead at Watchout, a congressional news media and democracy tech launcher in Taiwan. He works to critique and renew journalistic organization and processes, and to build a network of tools and systems that informs and empowers Taiwanese political deliberation and participation.",
   "SHOW": true,
   "ID": 60,
-  "顯示名稱已與講者確認": "chihao"
+  "講者確認顯示名稱": "chihao"
 },
 {
   "id": "recHf9MwpRt1PnPrS",
@@ -2181,7 +2183,7 @@
   "TITLE1_EN": "Watchout",
   "SHOW": true,
   "ID": 62,
-  "顯示名稱已與講者確認": "chihao"
+  "講者確認顯示名稱": "chihao"
 },
 {
   "id": "recyPdFle9IWTRsWL",
@@ -2923,7 +2925,7 @@
   "TITLE1_EN": "g0v jothon",
   "SHOW": true,
   "ID": 82,
-  "顯示名稱已與講者確認": "chihao"
+  "講者確認顯示名稱": "chihao"
 },
 {
   "id": "recAYj0HnT0aCJtT3",
@@ -2959,11 +2961,11 @@
     "recLLsXbJtwdxLeTc"
   ],
   "BIO": "臺北都會裡安貧樂道的自由工作者；目前是地下勞動合作社負責人，也曾在社運團體、社福機構、資訊公司負責營運管理、研究發展、系統導入等工作。學思背景是社會學與公共行政，實踐領域是社會經濟（Social Economy）與合作社運動、社區營造等，喜歡思考經濟事業如何以人為本、創造社群共好。",
+  "NAME_EN": "Lee, Zhong-ting",
   "TITLE1_EN": "Underground Worker Co-op.",
   "SHOW": true,
   "ID": 83,
-  "顯示名稱已與講者確認": "chihao",
-  "NAME_EN": "Lee, Zhong-ting"
+  "講者確認顯示名稱": "chihao"
 },
 {
   "id": "rec0yvNWwvUecnquS",
@@ -3078,10 +3080,4 @@
   "BIO_EN": "University of Guelph alumnus and current Masters of Science student in Computer Science, Nicolas Durish continually strives to be a rolemodel, leader and innovator in his field. Approaching his field of study with creativity and vision, Nicolas pushes the limits of computation to imagine new ways computer science can positively impact community, social justice and sustainability. Nicolas has participated in numerous projects that bridge the power of computation with various social challenges including energy conservation, waste reduction, health and environmental monitoring and truth and reconciliation to create solutions.",
   "SHOW": true,
   "ID": 87
-},
-{
-  "id": "recG0f4fSyMBHKolD"
-},
-{
-  "id": "recjGrvoj1OHi6X1S"
 }]
