@@ -1463,7 +1463,7 @@
 },
 {
   "id": "rec1AWg17nLsPJ04t",
-  "NAME": "陈玩臻",
+  "NAME": "崔竟",
   "TITLE1": "守語者聾人事務所",
   "CROPPED_AVATAR": [
     {
@@ -1494,7 +1494,7 @@
   "SCHEDULE": [
     "rec8swyLkJ1OJpOOx"
   ],
-  "BIO": "守语者（ProSigner）成立于中国武汉市，未来希望向整个亚洲拓展。创办人之一崔竟，来自聋人家庭的聋人，经历“聋人文化”的冲击而扭转人生，当过教师、咖啡馆老板，现为法律研究机构的助理研究员。创办人之一陈玩臻，因为人类学而跨入聋人世界，自此沉沦其中。当过记者、咖啡馆员工、漫画校对工、人权研究者，现为自由职业者。",
+  "BIO": "守语者（ProSigner）成立于中国武汉市，未来希望向整个亚洲拓展。创办人之一崔竟，来自聋人家庭的聋人，经历“聋人文化”的冲击而扭转人生，当过教师、咖啡馆老板，现为法律研究机构的助理研究员。",
   "SHOW": true,
   "ID": 43,
   "講者確認顯示名稱": "chihao（直接使用講者介紹內文）"
@@ -2008,7 +2008,7 @@
 },
 {
   "id": "recoPjDqLYy2tRPmT",
-  "NAME": "_",
+  "NAME": "Johnson Liang",
   "TITLE1": "真的假的",
   "CROPPED_AVATAR": [
     {
@@ -2042,7 +2042,8 @@
   "TITLE1_EN": "Cofacts",
   "BIO_EN": "I am... - A web developer that works at an Internet company as a day job. - An open-sourced civic tech supporter, participated & founded several projects that facilitates civic participation of democracy. - Going to present Cofacts, the voluntary project I have founded in mid 2016. Cofacts is a fact-checking system leveraging chatbots and crowd-sourced reports to help connecting different perspectives. For more information, please visit: http://bit.ly/cofacts-quickstart",
   "SHOW": true,
-  "ID": 57
+  "ID": 57,
+  "講者確認顯示名稱": "chihao"
 },
 {
   "id": "recNapxxGYhwY2GCa",
@@ -2275,7 +2276,7 @@
 },
 {
   "id": "recUiBQpIFUZZGKtt",
-  "NAME": "_",
+  "NAME": "簡韻真（小班）",
   "CROPPED_AVATAR": [
     {
       "id": "att0rDEU6rBTewoNt",
@@ -2309,7 +2310,8 @@
   "TWITTER": "@aelcenganda",
   "TITLE1_EN": "sense.tw",
   "SHOW": true,
-  "ID": 65
+  "ID": 65,
+  "講者確認顯示名稱": "chihao（直接使用講者介紹內文）"
 },
 {
   "id": "recFAUd5qZmYe4XyF",
@@ -2713,7 +2715,7 @@
 },
 {
   "id": "recgUKKheq5ofsRcO",
-  "NAME": "_",
+  "NAME": "陳彥良",
   "TITLE1": "臺北市政府青年事務委員會",
   "CROPPED_AVATAR": [
     {
@@ -2742,11 +2744,12 @@
     }
   ],
   "BIO": "我是臺北市政府青年事務委員會的陳彥良。長年的空間規劃與都市設計工作，讓我認知閒置的公有土地在都市空間的創新經營上，具有啟動都市再生的能量，因此，公部門，更應該將這些機會釋放出來，不管是資源的有效盤點、資訊的完整公開、公私協力的可能機制與共享原則的具體實踐，都在這次的提案中，摸索與邁進。",
-  "ID": 77
+  "ID": 77,
+  "講者確認顯示名稱": "chihao（直接使用講者介紹內文）"
 },
 {
   "id": "recydfxQaZ6fCeZfJ",
-  "NAME": "_",
+  "NAME": "陳玩臻",
   "TITLE1": "守語者",
   "CROPPED_AVATAR": [
     {
@@ -2780,7 +2783,8 @@
   "BIO": "守語者聯合創辦人陳玩臻，因為人類學而跨入聾人世界，自此沉淪其中。當過記者、咖啡館員工、包裝工人、漫畫校對工、人權研究者，現為自由職業者。",
   "TITLE1_EN": "ProSigner",
   "SHOW": true,
-  "ID": 78
+  "ID": 78,
+  "講者確認顯示名稱": "chihao（直接使用講者介紹內文）"
 },
 {
   "id": "rec2oDPPgckNj6lZ5",
