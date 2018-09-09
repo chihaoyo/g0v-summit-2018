@@ -1652,7 +1652,7 @@
   "BIO_EN": "Fang is currently working as a Service Designer/Consultant at PDIS. She leads workshops and meetings to tackle diverse social issues across departments as well as organisations and private sectors. The aim of this is to deal with cross-ministerial issues and enhance a better organisational culture from inside to outside of the government. She is a hybrid designer who graduated from the Royal College of Art with an MA in Service Design. Over the past 5 years of work experience, she has worked as a multi-dimensional designer covering a wide range of disciplines across diverse industries. Her main body of work has focused on projects in healthcare, education, urban planning, finance, and transport. She strongly believes that a designer has an obligation to work for the benefit of society and the environment as well as the commercial industry.",
   "SHOW": true,
   "ID": 46,
-  "講者確認顯示名稱": "chihao 已發訊息待確認"
+  "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
   "id": "rec6sMP9TwkIQYfEk",
@@ -1660,24 +1660,24 @@
   "TITLE1": "公共數位創新空間",
   "CROPPED_AVATAR": [
     {
-      "id": "att3FjWowlRXUEYjz",
-      "url": "https://dl.airtable.com/xkOyWji6QWjuhXivG8Jo_%E6%88%B4%E5%90%9B%E7%BF%B0.png",
-      "filename": "47.png",
+      "id": "attzErmNhNuVcmIWG",
+      "url": "https://dl.airtable.com/2YkWbJDxR6Kl1eAMlGWf_5150ddefa044a6b1fec41f014a69a452.png",
+      "filename": "5150ddefa044a6b1fec41f014a69a452.png",
       "size": 10930,
       "type": "image/png",
       "thumbnails": {
         "small": {
-          "url": "https://dl.airtable.com/gMrguMKEQxiVSwV9ki75_small_%E6%88%B4%E5%90%9B%E7%BF%B0.png",
+          "url": "https://dl.airtable.com/qTStx9XKTaevEZZGkwVk_small_5150ddefa044a6b1fec41f014a69a452.png",
           "width": 36,
           "height": 36
         },
         "large": {
-          "url": "https://dl.airtable.com/CkfF8ODURfCuiviwilIv_large_%E6%88%B4%E5%90%9B%E7%BF%B0.png",
+          "url": "https://dl.airtable.com/zHrG8P6VRsO5zMsIn5kk_large_5150ddefa044a6b1fec41f014a69a452.png",
           "width": 80,
           "height": 80
         },
         "full": {
-          "url": "https://dl.airtable.com/luvwFzu1RdWpjaHgKfV0_full_%E6%88%B4%E5%90%9B%E7%BF%B0.png",
+          "url": "https://dl.airtable.com/UckUiHERRG1W7qROXVP2_full_5150ddefa044a6b1fec41f014a69a452.png",
           "width": 80,
           "height": 80
         }
