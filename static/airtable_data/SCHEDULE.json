@@ -222,7 +222,7 @@
   "VENUE": "R1",
   "START": "2018-10-05T07:30:00.000Z",
   "END": "2018-10-05T09:00:00.000Z",
-  "ABSTRACT": "你知道雞不會沒事長六隻雞腿也不會打生長激素嗎？我知道你知道，但你爸爸媽媽可能不知道。Cofacts 的資料庫裡面什麼都有，什麼都 LINE，什麼都很奇怪，最神奇的是居然還有人會分享。如果你沒看過，現在讓你看看：\n\n\nhttps://cofacts.g0v.tw/articles?before=&after=&replyRequestCount=1。\n\n\n在這個 90 分鐘的 workshop 裡，我們會簡短介紹一下 Cofacts 編輯的運作模式與案例，然後留給大家滿滿的一個多小時，一起回覆、一起吐槽 Cofacts chatbot 所收到的這些荒誕 LINE 訊息。",
+  "ABSTRACT": "你知道雞不會沒事長六隻雞腿也不會打生長激素嗎？我知道你知道，但你爸爸媽媽可能不知道。Cofacts 的資料庫裡面什麼都有，什麼都 LINE，什麼都很奇怪，最神奇的是居然還有人會分享。如果你沒看過，現在讓你看看：\n\nhttps://cofacts.g0v.tw/articles?before=&after=&replyRequestCount=1。\n\n在這個 90 分鐘的 workshop 裡，我們會簡短介紹一下 Cofacts 編輯的運作模式與案例，然後留給大家滿滿的一個多小時，一起回覆、一起吐槽 Cofacts chatbot 所收到的這些荒誕 LINE 訊息。",
   "SPEAKER": [
     "recZHMe8yDYZnkztc",
     "recoPjDqLYy2tRPmT",
@@ -477,8 +477,7 @@
   "END": "2018-10-05T09:00:00.000Z",
   "ABSTRACT": "#codeforgender 工作坊邀請想要對「性別與科技」這個主題有興趣的你參與，一起打破性別刻板印象，並採取行動。工作坊將引導參與者發展創新的點子，轉換成具體實踐方案。參與者可以學到如何創造靈感、如何化為行動應用到實際生活中。流程分成兩部分：設計思考與創造行動方案。參與者會先從生活中挖掘情境，找出想要解決的性別問題。再根據問題，轉換成具體行動方法，最終分享成果給其他參與者。",
   "SPEAKER": [
-    "recnQtXAKHhIkSvG0",
-    "recMwjcXwOl1bUbB0"
+    "recnQtXAKHhIkSvG0"
   ],
   "SHOW": true,
   "TITLE_EN": "#CodeforGender design thinking workshop for gender issue",
