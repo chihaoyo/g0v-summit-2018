@@ -171,7 +171,7 @@
   "BIO": "斜槓主婦，正在嘗試打掃做飯、寫程式還有作功德之間的平衡，今年在努力積居住議題的功德。",
   "SHOW": true,
   "ID": 6,
-  "講者確認顯示名稱": "chihao"
+  "講者確認顯示名稱": "chihao 應講者反映修改"
 },
 {
   "id": "rec9J2RP03C6nppOd",
@@ -292,7 +292,7 @@
   "TWITTER": "@ETBlue",
   "SHOW": true,
   "ID": 10,
-  "講者確認顯示名稱": "chihao"
+  "講者確認顯示名稱": "chihao 已經使用代號無須確認"
 },
 {
   "id": "recZ6s3SN0vHU2oEa",
@@ -897,13 +897,41 @@
   "ID": 26
 },
 {
-  "id": "reczXJRGGY0WRlIEw",
-  "NAME": "Nicolas Duris",
+  "id": "recYtkmjDq8Doi8ON",
+  "NAME": "Nicolas Durish",
+  "CROPPED_AVATAR": [
+    {
+      "id": "att3wXOT8aTkrmUGr",
+      "url": "https://dl.airtable.com/2HvST5DXSoeuPvQ8XFZW_0zjMANxc.jpg",
+      "filename": "0zjMANxc.jpg",
+      "size": 32125,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/r9Q1ucRJirwsHAbZN4Ww_small_0zjMANxc.jpg",
+          "width": 40,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/irlZhviyQ5SUD8zVYOCg_large_0zjMANxc.jpg",
+          "width": 480,
+          "height": 431
+        },
+        "full": {
+          "url": "https://dl.airtable.com/8kyExdmJTMmIY1J0Yn5X_full_0zjMANxc.jpg",
+          "width": 480,
+          "height": 431
+        }
+      }
+    }
+  ],
   "SCHEDULE": [
     "recGNY6XL6xYkr3aA"
   ],
-  "TITLE1_EN": "School of Computer Science, University of Guelph",
-  "BIO_EN": "Nic Durish is a Master’s of Computer Science candidate in the School of Computer Science. Nic’s interests fall in the intersection of computation, community, and sustainability, as demonstrated by some of the various projects on which he has worked.",
+  "TWITTER": "@durishn",
+  "TITLE1_EN": "University of Guelph",
+  "BIO_EN": "University of Guelph alumnus and current Masters of Science student in Computer Science, Nicolas Durish continually strives to be a rolemodel, leader and innovator in his field. Approaching his field of study with creativity and vision, Nicolas pushes the limits of computation to imagine new ways computer science can positively impact community, social justice and sustainability. Nicolas has participated in numerous projects that bridge the power of computation with various social challenges including energy conservation, waste reduction, health and environmental monitoring and truth and reconciliation to create solutions.",
+  "SHOW": true,
   "ID": 27
 },
 {
@@ -1103,11 +1131,11 @@
   ],
   "BIO": "大家好！很高興認識您。我叫金錦珍，我有一隻狗，我愛他。我喜歡吃鳳梨酥，哈哈。",
   "TWITTER": "@partiunion",
+  "NAME_EN": "GJ",
   "TITLE1_EN": "Parti (partiunion.org)",
   "BIO_EN": "A democracy activist at Parti. GJ delivers Parti's value, thoughts and action with stories. (partiunion.org)  She likes to know and experience things she matters: dogs and people, feminism, organizing, a technology which can change society, and blockchain. She's been working in a social sector since 2014. ",
   "SHOW": true,
   "ID": 33,
-  "NAME_EN": "GJ",
   "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
@@ -1145,10 +1173,10 @@
   ],
   "BIO": "毫無反應就只是個自我滿足的宅宅，在 vTaiwan 的坑中無法自拔的 g0ver。",
   "TWITTER": "@2kanyo",
+  "NAME_EN": "ky（Lisa）",
   "TITLE1_EN": "vTaiwan, g0ver",
   "SHOW": true,
   "ID": 34,
-  "NAME_EN": "ky（Lisa）",
   "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
@@ -1421,11 +1449,11 @@
     "recSwpk4wL79O6Lmz"
   ],
   "TWITTER": "@jasontchao",
+  "NAME_EN": "Jason CHAO",
   "TITLE1_EN": "Macau Conscience",
   "BIO_EN": "A software developer and social/political/human rights activist originally from Macau. Now a postgraduate student in Europe researching mobile apps, machine learning, data sovereignty and civic tech.",
   "SHOW": true,
   "ID": 41,
-  "NAME_EN": "Jason CHAO",
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
@@ -1788,7 +1816,7 @@
 },
 {
   "id": "recVGZtysFMFUOc7z",
-  "NAME": "李比鄰",
+  "NAME": "Billion",
   "TITLE1": "真的假的",
   "CROPPED_AVATAR": [
     {
@@ -1820,11 +1848,11 @@
     "recVjYuDM4U3JT6FB"
   ],
   "BIO": "我是一隻鶴。在 Cofacts 真的假的裡當 17+N 歲的少女，負責每日庶務。我們做了一個 LINE 上的聊天機器人，讓 chatbot 天天幫你查證文章突破同溫層。",
-  "NAME_EN": "Billion Lee",
   "TITLE1_EN": "Cofacts",
   "BIO_EN": "Contributed to Cofacts, we do fact-checking and meet-up every 2 month. Cofacts is a collaborative system connecting instant messages and fact-check reports together. ",
   "SHOW": true,
-  "ID": 51
+  "ID": 51,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recRKavcd0VT0nLrW",
@@ -2326,11 +2354,11 @@
   ],
   "BIO": "簡韻真（小班），g0v 參與者，以文字工參與 g0v 協作聚焦科技如何促進民主，支持資訊透明和更開放的公民參與，未來想要成立一家公民科技公司。曾於 g0v 揪松團擔任 g0v 公民科技獎助金專案經理，目前於開放文化基金會 sense.tw 專案擔任產品經理，開發議題政策討論工具。",
   "TWITTER": "@aelcenganda",
+  "NAME_EN": "Yun-Chen Chien",
   "TITLE1_EN": "sense.tw",
   "SHOW": true,
   "ID": 65,
-  "講者確認顯示名稱": "chihao 訊息確認",
-  "NAME_EN": "Yun-Chen Chien"
+  "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
   "id": "recFAUd5qZmYe4XyF",
@@ -2566,9 +2594,9 @@
   ],
   "BIO": "女人迷服務設計師，#codeforgender 負責人。實踐性別友善至日常生活，從引領女人迷網頁改版，到領導舉辦 2016 年首屆性別暴力防治駭客松，身為「女人迷日報」app 設計師，期待自己能創造啟發他人的美好時刻。",
   "TITLE1_EN": "Womany／#CodeforGender",
+  "BIO_EN": "Merci is the service designer at Womany, and the initiator of #CodeforGender where she leads meetups, workshops, hackathons, seeking the combination of technology with gender issue.",
   "SHOW": true,
   "ID": 71,
-  "BIO_EN": "Merci is the service designer at Womany, and the initiator of #CodeforGender where she leads meetups, workshops, hackathons, seeking the combination of technology with gender issue.",
   "講者確認顯示名稱": "chihao 使用講者確認通信內容"
 },
 {
@@ -2606,10 +2634,10 @@
   ],
   "BIO": "一個雜食系的研究者，本業是地理資訊科學，熟稔各式地理資料和系統，超過十五年以上的研究工作經驗，也熱衷於語意網和知識工程的研究與技術發展。活躍於開放街圖（OpenStreetMap）社群，關注公民科技的發展，倡議政府開放資料。",
   "TWITTER": "@dongpo",
+  "NAME_EN": "Dongpo Deng",
   "TITLE1_EN": "OpenStreetMap Taiwan",
   "SHOW": true,
   "ID": 72,
-  "NAME_EN": "Dongpo Deng",
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
@@ -2646,10 +2674,10 @@
     "recmuAnkOFghSmOju"
   ],
   "BIO": "混入公民科技社群的小白兔，是個技術盲，但喜歡聽技術與人群交織出的故事。現在從事使用者經驗研究，希望能結合公共議題的興趣，持續探索科技能為社會帶來甚麼改變。",
+  "NAME_EN": "Claire Cheng",
   "TITLE1_EN": "g0v",
   "SHOW": true,
   "ID": 73,
-  "NAME_EN": "Claire Cheng",
   "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
@@ -2729,40 +2757,6 @@
   "SHOW": true,
   "ID": 76,
   "講者確認顯示名稱": "chihao 使用提案資料"
-},
-{
-  "id": "recgUKKheq5ofsRcO",
-  "NAME": "陳彥良",
-  "TITLE1": "臺北市政府青年事務委員會",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attm0MvbLlqgh3tcH",
-      "url": "https://dl.airtable.com/kJ45cUIrT3W7hgxg22uT_%E9%99%B3%E5%BD%A5%E8%89%AF.jpg",
-      "filename": "77.jpg",
-      "size": 98717,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/2exQOzSiSbcac3tRpaMw_small_%E9%99%B3%E5%BD%A5%E8%89%AF.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/dgUv718QRde4aevxXw8o_large_%E9%99%B3%E5%BD%A5%E8%89%AF.jpg",
-          "width": 512,
-          "height": 515
-        },
-        "full": {
-          "url": "https://dl.airtable.com/g6XxWqz1TeSdYcKG33Mf_full_%E9%99%B3%E5%BD%A5%E8%89%AF.jpg",
-          "width": 787,
-          "height": 792
-        }
-      }
-    }
-  ],
-  "BIO": "我是臺北市政府青年事務委員會的陳彥良。長年的空間規劃與都市設計工作，讓我認知閒置的公有土地在都市空間的創新經營上，具有啟動都市再生的能量，因此，公部門，更應該將這些機會釋放出來，不管是資源的有效盤點、資訊的完整公開、公私協力的可能機制與共享原則的具體實踐，都在這次的提案中，摸索與邁進。",
-  "ID": 77,
-  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "recydfxQaZ6fCeZfJ",
@@ -2877,9 +2871,9 @@
   ],
   "BIO": "成功大學資訊工程系助理教授，網上慣稱是「jserv」，專注於系統軟體開發。歷任聯發科技、台達電子、鴻海科技集團，和工研院的技術顧問，並長期貢獻於開放原始碼。",
   "TWITTER": "@jserv",
+  "NAME_EN": "jserv",
   "SHOW": true,
   "ID": 80,
-  "NAME_EN": "jserv",
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
@@ -3077,42 +3071,4 @@
   "BIO_EN": "As a community organizer and democratic activist for the past 10 years, Derek Alton is a passionate change maker. He is currently a Strategic Partnerships Specialist for the Digital Collaboration team with the Government of Canada. Derek and the team along with partners across the globe are creating a digital public space constructed on the foundations of open source platforms. It currently operates at the intersection of open international government (policy) and digital government movements (technology) where organizations are working together to build the space - together.\n\nThe digital public space is a major step toward a more innovative and open way of identifying and co-creating programs, engagements, and research across the globe. It is designed for co-creation in all forms, but more importantly, it demonstrates the beginning of a cultural shift of horizontal governance and decision-making.",
   "SHOW": true,
   "ID": 85
-},
-{
-  "id": "recYtkmjDq8Doi8ON",
-  "NAME": "Nicolas Durish",
-  "CROPPED_AVATAR": [
-    {
-      "id": "att3wXOT8aTkrmUGr",
-      "url": "https://dl.airtable.com/2HvST5DXSoeuPvQ8XFZW_0zjMANxc.jpg",
-      "filename": "0zjMANxc.jpg",
-      "size": 32125,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/r9Q1ucRJirwsHAbZN4Ww_small_0zjMANxc.jpg",
-          "width": 40,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/irlZhviyQ5SUD8zVYOCg_large_0zjMANxc.jpg",
-          "width": 480,
-          "height": 431
-        },
-        "full": {
-          "url": "https://dl.airtable.com/8kyExdmJTMmIY1J0Yn5X_full_0zjMANxc.jpg",
-          "width": 480,
-          "height": 431
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recGNY6XL6xYkr3aA"
-  ],
-  "TWITTER": "@durishn",
-  "TITLE1_EN": "University of Guelph",
-  "BIO_EN": "University of Guelph alumnus and current Masters of Science student in Computer Science, Nicolas Durish continually strives to be a rolemodel, leader and innovator in his field. Approaching his field of study with creativity and vision, Nicolas pushes the limits of computation to imagine new ways computer science can positively impact community, social justice and sustainability. Nicolas has participated in numerous projects that bridge the power of computation with various social challenges including energy conservation, waste reduction, health and environmental monitoring and truth and reconciliation to create solutions.",
-  "SHOW": true,
-  "ID": 87
 }]
