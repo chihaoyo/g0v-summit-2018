@@ -6,7 +6,8 @@
   "GROUP": "合作夥伴組",
   "NAME_EN": "clkao",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "f0cc4b511c06b73afb23beb5695a83d6"
 },
 {
   "id": "recN5zyAAn680u9Jn",
@@ -43,7 +44,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "8cac03dba18369996771d21229d924af"
 },
 {
   "id": "recshp3vXqogiPqXg",
@@ -79,7 +81,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "00445b8357cea7a52530fe59550295dd"
 },
 {
   "id": "recfVeedPKxZWitOq",
@@ -115,7 +118,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "1813d2e9350ca007fac62154564f12da"
 },
 {
   "id": "recEHwwICdSOgc2GY",
@@ -151,7 +155,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "17e5baf1662fdc3c6e18a007f4b7c30f"
 },
 {
   "id": "recntcCXlbDsSZqtR",
@@ -188,7 +193,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "85a18979596d337bd339041344527ed8"
 },
 {
   "id": "receLJC5Ak3fNcVck",
@@ -197,7 +203,8 @@
   "GROUP": "會計組",
   "NAME_EN": "雁子",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d2a390382a4d3d5cf17740ffbd914942"
 },
 {
   "id": "recmlUFWD5hZHO0Yf",
@@ -206,7 +213,8 @@
   "GROUP": "票務組",
   "NAME_EN": "Lee",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "17fbee9784619ebc59ba183e65445190"
 },
 {
   "id": "recuZPP2q3rxiCgCN",
@@ -215,7 +223,8 @@
   "GROUP": "行政組",
   "NAME_EN": "小草",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "6fb7b2d810718f6794567b70008019a5"
 },
 {
   "id": "rec5ybmopd5hxGRRG",
@@ -251,7 +260,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "b2f543a2be955003115d17aa96e8a657"
 },
 {
   "id": "recBhggo0AD4zowfX",
@@ -287,7 +297,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "a6dde83118b8163858fe19a66ceadc5b"
 },
 {
   "id": "rechhrFXxDlBBPjlI",
@@ -323,7 +334,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "90e6857ae4cd92fcd6edcfa9f589bdaa"
 },
 {
   "id": "recEhLrOPNwgbQ6x7",
@@ -332,7 +344,8 @@
   "GROUP": "議程組",
   "NAME_EN": "chihao",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "fca61c93ddf4073da07ffad76d0ca75c"
 },
 {
   "id": "reciOre9d3g1M7DDU",
@@ -341,7 +354,8 @@
   "GROUP": "議程組",
   "NAME_EN": "子期 Viktor",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "18c78ac2ffa5f0ea02a4da68154062a0"
 },
 {
   "id": "rectPuIkF3cDSOlyW",
@@ -377,7 +391,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "676c900fa3d1536db172ac60b6788588"
 },
 {
   "id": "recjwxXWSAGS04EqF",
@@ -413,7 +428,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "e661efc7802a3c260ead79c9c33e057b"
 },
 {
   "id": "recK9zUR3XMKe8sGW",
@@ -422,7 +438,8 @@
   "GROUP": "議程組",
   "NAME_EN": "Emma",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "bdd98a555af60fa7495ab3a3766b5fec"
 },
 {
   "id": "recyMJOL6EBOAef2C",
@@ -431,7 +448,8 @@
   "GROUP": "議程組",
   "NAME_EN": "Grace秀",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "705786c9208780250f57f3df811ea800"
 },
 {
   "id": "recu6hwXe9AEw2YPb",
@@ -440,7 +458,8 @@
   "GROUP": "議程組",
   "NAME_EN": "Lilian",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d3982bd1f4ef5394f389c674a353a330"
 },
 {
   "id": "recOtKmKkbEhmKUza",
@@ -476,7 +495,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "78a0e3682d35ca470ffba29da7fa2dbc"
 },
 {
   "id": "recExUkniOMHAsimB",
@@ -512,7 +532,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "f5bfb188b8767725f3e18a0a22c3a646"
 },
 {
   "id": "recVVMxHn9fkIPzHb",
@@ -548,7 +569,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d4134afa1b3e144766b7f967bd48cf29"
 },
 {
   "id": "rec0NvYWMAP8GKJwf",
@@ -557,7 +579,8 @@
   "GROUP": "議程組",
   "NAME_EN": "PCC",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "7ab6825f7735466f759547d3c78902e6"
 },
 {
   "id": "reczlmDx6Piv9VtQZ",
@@ -566,7 +589,8 @@
   "GROUP": "議程委員",
   "NAME_EN": "pm5",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "76daea151365d99c1f10ce1fc07176f1"
 },
 {
   "id": "recxtJEwiQYtLAfG1",
@@ -602,7 +626,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "848c1d1e87861c2799fd6b519b41b34e"
 },
 {
   "id": "recYrTxtBlwH0RhKS",
@@ -611,7 +636,8 @@
   "GROUP": "議程委員",
   "NAME_EN": "陳舜伶 Shun-Ling Chen",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "92ee00d2a9819d3852ce1b571e1d6105"
 },
 {
   "id": "recnu0rbgwhzZ49K0",
@@ -620,7 +646,8 @@
   "GROUP": "議程委員",
   "NAME_EN": "HC",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "87ba30f7d5bff765fdfa6321d97d539a"
 },
 {
   "id": "rectqwzqfSMRYPF2H",
@@ -629,7 +656,8 @@
   "GROUP": "議程委員",
   "NAME_EN": "MG Lee",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "28515c27b259ed3ea2a36f465d144750"
 },
 {
   "id": "rec9qlFwiKOFtnqsJ",
@@ -665,7 +693,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "59b5bdba79f1db01187c5620bd64c572"
 },
 {
   "id": "recItxSlmSbkeQjiC",
@@ -674,7 +703,8 @@
   "GROUP": "總籌組",
   "NAME_EN": "bess",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "b511dd778f02162350f5411e16a60f2a"
 },
 {
   "id": "recRlxDjK2s27TXaw",
@@ -683,7 +713,8 @@
   "GROUP": "總籌組",
   "NAME_EN": "科比",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "7f7cce675da85bf8807da9f8d0c3a955"
 },
 {
   "id": "recNZaGk5Geb8FQEd",
@@ -693,7 +724,8 @@
   "NAME_EN": "Mouse Kuo",
   "備註": "跨組",
   "MAIN_GROUP": "籌備大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "457cbd33a97ba5dad4cc9b177fad0da6"
 },
 {
   "id": "recQLZZfNlLibGqYU",
@@ -730,7 +762,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "85a18979596d337bd339041344527ed8"
 },
 {
   "id": "recesPWY37QmNZOvF",
@@ -739,7 +772,8 @@
   "GROUP": "場務組",
   "NAME_EN": "蛋糕",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "9a46bd224238c7e422ff8b2e0ac9a834"
 },
 {
   "id": "recA7ZkRlS7uaXLnD",
@@ -748,7 +782,8 @@
   "GROUP": "場務組",
   "NAME_EN": "阿強",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "3917abbcdbbf0c5b44faf732b0bad6cc"
 },
 {
   "id": "recU4PXDXCvGuJbWO",
@@ -767,7 +802,8 @@
       "type": "image/jpeg"
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "ae354d7d135524bf184f9e6dc0abb4d5"
 },
 {
   "id": "rec7TpaWPfOkUtnOo",
@@ -776,7 +812,8 @@
   "GROUP": "場務組",
   "NAME_EN": "海豹",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "12b44b53ebe566f75e5be79cfd13f004"
 },
 {
   "id": "recsBwzm8whbp5ttt",
@@ -812,7 +849,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "1b24c32ed58f434165e5c3d8bfdcf3fd"
 },
 {
   "id": "recR7z0exzKFy757K",
@@ -821,7 +859,8 @@
   "GROUP": "場務組",
   "NAME_EN": "全全",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "01b7eecf57a94381543841d1b1156f45"
 },
 {
   "id": "rec3O8PZyIW12QMJ2",
@@ -830,7 +869,8 @@
   "GROUP": "場務組",
   "NAME_EN": "土撥鼠/宇萱",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "a9929ec5e08e765fe6031f1d3a59ef25"
 },
 {
   "id": "recHEZb4KH6s4KJn2",
@@ -839,7 +879,8 @@
   "GROUP": "場務組",
   "NAME_EN": "下午",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "5bca79fe330ffda61b1f6d5e0b279aeb"
 },
 {
   "id": "recOB3OvPWT3I0LWd",
@@ -848,7 +889,8 @@
   "GROUP": "場務組",
   "NAME_EN": "葉子",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "602818418612b2ea7b2ea810cc60a900"
 },
 {
   "id": "recIUahHpPJkcIaZR",
@@ -857,7 +899,8 @@
   "GROUP": "場務組",
   "NAME_EN": "dalun",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "ad087704368d982089128c1667a9554b"
 },
 {
   "id": "recr3VWjS7Rxs808Z",
@@ -866,7 +909,8 @@
   "GROUP": "場務組",
   "NAME_EN": "DreamerXu",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "b9498ae65a552e9b86281b97c4ec976b"
 },
 {
   "id": "recBlfKPWbVVxnR0U",
@@ -875,7 +919,8 @@
   "GROUP": "場務組",
   "NAME_EN": "Jeremy",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "ee063af053baaca9b74ea7bc7b5e973d"
 },
 {
   "id": "rec0uI2wUhVSYJCYT",
@@ -893,7 +938,8 @@
       "type": "image/jpeg"
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "39f466d4f62f1c4d8bf68e3eab5aae27"
 },
 {
   "id": "recMGBnYaw7l7ROJI",
@@ -902,7 +948,8 @@
   "GROUP": "記錄組",
   "NAME_EN": "丹丹",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "886e582b0890547b387978885ed46823"
 },
 {
   "id": "recjWZj1UZMGsWW6j",
@@ -939,7 +986,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "8cac03dba18369996771d21229d924af"
 },
 {
   "id": "recE9UspN0LBu8g5d",
@@ -948,7 +996,8 @@
   "GROUP": "記錄組",
   "NAME_EN": "百香",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "2bc2c84d66407e7807f64545d4736d9b"
 },
 {
   "id": "rec7mw0Y8ev8qMpli",
@@ -957,7 +1006,8 @@
   "GROUP": "記錄組",
   "NAME_EN": "丞相",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "9da2c909aa0aecb5cda2da482a86bbf1"
 },
 {
   "id": "rec5m6sZd7Bq8KaiO",
@@ -966,7 +1016,8 @@
   "GROUP": "記錄組",
   "NAME_EN": "大助",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "fda98c6701cf60d6af2da9ae98f8c981"
 },
 {
   "id": "reck0TrIdDCSCeerx",
@@ -1002,7 +1053,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "6c9671ae54b2b490692a827fd1f2ae04"
 },
 {
   "id": "recnH2btSKvKQWwxY",
@@ -1011,7 +1063,8 @@
   "GROUP": "記錄組",
   "NAME_EN": "牙牙",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "0dcf684acbac2884d18113c94a35478d"
 },
 {
   "id": "rec806FOJVXMNg0PY",
@@ -1047,7 +1100,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "da116ceafdd748040e9a09b9fd24aa9e"
 },
 {
   "id": "recyRuRDaD1ckRlRg",
@@ -1083,7 +1137,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "951fb6649a3587f85cdbe63277b6ac14"
 },
 {
   "id": "recLL7GhYYfvihC8Z",
@@ -1119,7 +1174,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "68e6e12d7d3e1a48afce32ca5ef5f908"
 },
 {
   "id": "rec4K338GvxpKtpZu",
@@ -1155,7 +1211,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "3538bc002423b89d98ca769c86502453"
 },
 {
   "id": "reciNWW1vPOJnpB1P",
@@ -1191,7 +1248,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "595b16518f46d4881b0844aa54590bac"
 },
 {
   "id": "recrNukrWTe6FUm7I",
@@ -1227,7 +1285,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "0fe9af2bfd7b3ed3611a22af22c90ea5"
 },
 {
   "id": "recmetGx1D0vNd4gb",
@@ -1263,7 +1322,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "72ae09303c9b44497874ca8da0d02049"
 },
 {
   "id": "rec5M06E40Kt1eIYv",
@@ -1272,7 +1332,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "楊宜靜",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "4372c6087171b2a40c414c54f4cfec42"
 },
 {
   "id": "recH9cm7ElphUsG0x",
@@ -1281,7 +1342,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "Claire Lin",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "3147f9465ef80e83a24f36bc22c4903a"
 },
 {
   "id": "rec5szxl4zfF3QK73",
@@ -1317,7 +1379,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "f529da2573ac951e2c9c417372f0d513"
 },
 {
   "id": "recmGiW9gaVVF0E3t",
@@ -1353,7 +1416,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "88491abffb4a4f7b0c877907ade7e4b6"
 },
 {
   "id": "recpGAmI7DptUJnyZ",
@@ -1362,7 +1426,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "Fiona Yu",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "4c7606189090afe98ff13ea871326622"
 },
 {
   "id": "recUtToho9JUTUBFO",
@@ -1371,7 +1436,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "Foucault",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "a5157c0aaac294eedfe5bb81a6f7d62f"
 },
 {
   "id": "recw44Zg6OQTmlrYP",
@@ -1380,7 +1446,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "Kris",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "9b15055c5929077a20f5ea426cdb5d1b"
 },
 {
   "id": "recS7WjfqFWLj9VaD",
@@ -1389,7 +1456,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "Lewis Lee",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "19d4c54700d6214e71a8d3571424a9e9"
 },
 {
   "id": "recN0y9ZN2dsAwnRj",
@@ -1398,7 +1466,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "Min",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "dd389661e45b13b776cf6d01fe111edb"
 },
 {
   "id": "recY4hKEOrjvFGieb",
@@ -1407,7 +1476,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "RSChiang",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "b3ecf4287d58054135af5d7b4d741021"
 },
 {
   "id": "recdK7sDKimuGQUya",
@@ -1416,7 +1486,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "Terry",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "fc866dc236a2e246a8ee5efeb3ab2e36"
 },
 {
   "id": "recyZSAn9vJ6YmDfM",
@@ -1452,7 +1523,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "0fe9af2bfd7b3ed3611a22af22c90ea5"
 },
 {
   "id": "recfMWzVwRYgZuLE7",
@@ -1462,7 +1534,8 @@
   "NAME_EN": "Mouse Kuo",
   "備註": "跨組",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "457cbd33a97ba5dad4cc9b177fad0da6"
 },
 {
   "id": "recV04oPX139XCPzB",
@@ -1498,7 +1571,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "0af7db120e375a6feee8a2ca74f9f5c3"
 },
 {
   "id": "recOu5mcz5gC9CX2W",
@@ -1507,7 +1581,8 @@
   "GROUP": "直播組",
   "NAME_EN": "YuTin",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "8c182aa50bfb502ac2e35b9ebb2ba11b"
 },
 {
   "id": "recDeaU4aYcqpiLTK",
@@ -1516,7 +1591,8 @@
   "GROUP": "直播組",
   "NAME_EN": "沖天",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "3d9ebcc843e2e052f26cb0a8c2cdb7c9"
 },
 {
   "id": "recow4SRwyhjokYmv",
@@ -1552,7 +1628,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "c8731e1bdc2d7901c76eeadab9245444"
 },
 {
   "id": "receV10fkYgDZFa2Z",
@@ -1588,7 +1665,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "fb8c8ce1ef46119da065a523dd6d2999"
 },
 {
   "id": "recnZviTuloFROKMu",
@@ -1597,7 +1675,8 @@
   "GROUP": "直播組",
   "NAME_EN": "馬克泡",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "db1d8f99b3d34b60c1168cd7d9d29947"
 },
 {
   "id": "reci7wiiBtT5FgBZ4",
@@ -1633,7 +1712,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "0131d4db4873bba261809489481ea5c7"
 },
 {
   "id": "recPrMADjIJqdbC4C",
@@ -1642,7 +1722,8 @@
   "GROUP": "直播組",
   "NAME_EN": "Can",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "f6e117aa49266ba60fabf42c195f00de"
 },
 {
   "id": "rectxIzdaUlBbQkZP",
@@ -1678,7 +1759,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "cebed5a307fcf8bcf180f1bacf77e922"
 },
 {
   "id": "recRSNq08OLBuvHog",
@@ -1714,7 +1796,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "4190ac312295d8a00711cc3587ff2076"
 },
 {
   "id": "recVsW6uMOBnKXOGY",
@@ -1723,7 +1806,8 @@
   "GROUP": "直播組",
   "NAME_EN": "Singing ",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "ba14ab5d3287680e7a58ab890ad5be92"
 },
 {
   "id": "reckGuew5YEQy3mxV",
@@ -1759,7 +1843,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "ce6b33fddbfd79b9b34c05626b902777"
 },
 {
   "id": "rec5MYNQKjrBJ9pfD",
@@ -1795,7 +1880,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "b57371c9cbe84a0d9c6fad90fd0165f5"
 },
 {
   "id": "rec7zQTSYLSbkWWjn",
@@ -1832,7 +1918,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "37867263e45c5e64897bff0de7177617"
 },
 {
   "id": "recfyUglfyMkGPbIM",
@@ -1868,7 +1955,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "c2e092037cc2001ca2aa14e0be2032f7"
 },
 {
   "id": "rec5GMqhThRxk8SwG",
@@ -1904,7 +1992,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "9817dd66f6bf3ccd59b4dc49665f8a1d"
 },
 {
   "id": "recjqDSNwOqWi04CN",
@@ -1940,7 +2029,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "c9f443769c8cb0a700b6fc11bd172984"
 },
 {
   "id": "rec6EivFVLUJB9ZRA",
@@ -1976,7 +2066,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "26fba867cf82299226c27d3234854299"
 },
 {
   "id": "recsYHu60XTUr07KS",
@@ -1985,7 +2076,8 @@
   "GROUP": "網站 APP 組",
   "NAME_EN": "Denny Huang",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "9c08215f31eb6005a25be6521bf47b0a"
 },
 {
   "id": "rec11WyYanU5Y0rJS",
@@ -1995,7 +2087,8 @@
   "GROUP": "網站 APP 組",
   "NAME_EN": "Lawrence",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "57074295b319f213de09e28529d37180"
 },
 {
   "id": "recfcer8Qs2hdGys3",
@@ -2005,7 +2098,8 @@
   "GROUP": "網站 APP 組",
   "NAME_EN": "IU",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "e1ee302642920316eb9e8cc971e3b615"
 },
 {
   "id": "recaqMYzpWwP25tyg",
@@ -2042,7 +2136,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "07f0dac11bfaa42c5729cfb7c1a19f1d"
 },
 {
   "id": "recuPvHBhOVgl6dIj",
@@ -2078,7 +2173,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "e12bdfd4cc9f62d7728a973dbb854344"
 },
 {
   "id": "recCvTz0xGOZffyZJ",
@@ -2087,7 +2183,8 @@
   "GROUP": "網站 APP 組",
   "NAME_EN": "Frank Wu",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "240e508e56aa36c32fcffadeff0a9ee3"
 },
 {
   "id": "recxxd62rjrmIv10F",
@@ -2123,7 +2220,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "905c38f5b0da4222bd389673a4e5c72f"
 },
 {
   "id": "recBlASiBYgx09kjC",
@@ -2132,7 +2230,8 @@
   "GROUP": "網站 APP 組",
   "NAME_EN": "Superbil",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "92e1d0d993dc948b9e11bbfda7c3fd96"
 },
 {
   "id": "reczXs13hXC6Li0wJ",
@@ -2141,7 +2240,8 @@
   "GROUP": "文創組",
   "NAME_EN": "Muka",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "f63aa47fa7ccb623c7576b69f8a98fd8"
 },
 {
   "id": "recao3bfG8RvQyy2z",
@@ -2150,7 +2250,8 @@
   "GROUP": "文創組",
   "NAME_EN": "火柴",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d91e670b0fdf31647b555b66e08c9c91"
 },
 {
   "id": "recBT4O9uKzmfRUoD",
@@ -2159,7 +2260,8 @@
   "GROUP": "文創組",
   "NAME_EN": "小t",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "09e29b020b5a4c4bc254dfd9fa2d4dfd"
 },
 {
   "id": "rec8Qbm3mZiJmj39n",
@@ -2168,7 +2270,8 @@
   "GROUP": "文創組",
   "NAME_EN": "AJ",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "4eb34bbe952f36c4b0014bf7ec40d08f"
 },
 {
   "id": "recYPs8pHntvmWA8c",
@@ -2177,7 +2280,8 @@
   "GROUP": "文創組",
   "NAME_EN": "CJOKER",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "172b24a40afb3616ad9ed212f2a7c347"
 },
 {
   "id": "reca9PS81NkPLdk08",
@@ -2186,7 +2290,8 @@
   "GROUP": "文創組",
   "NAME_EN": "Freeman",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "80fc5ffc0e4b578e79ef2e1e74626343"
 },
 {
   "id": "recjakNoPmp3OuwOy",
@@ -2222,7 +2327,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "4dbbcd7b93f90eb9dc3a3e8df3610639"
 },
 {
   "id": "recu6IrnsMrKQ2U9F",
@@ -2258,7 +2364,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "a59d660a9132dc27bdd3efe8d6e8452f"
 },
 {
   "id": "rec3p0ELukLD43fVG",
@@ -2295,7 +2402,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "37867263e45c5e64897bff0de7177617"
 },
 {
   "id": "recf83en48YVkXAMt",
@@ -2304,7 +2412,8 @@
   "GROUP": "宣傳組",
   "NAME_EN": "小高",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "b944cd46d0983d521b3d34e28abf0082"
 },
 {
   "id": "rec2DYGKwtYdqgkG9",
@@ -2340,7 +2449,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "05af2113fd61f84a1ffd4caf68baeff8"
 },
 {
   "id": "recXS5fwetDM2CiX6",
@@ -2376,7 +2486,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "9d0c7ef63e78f2a996a9e9202a31ac8f"
 },
 {
   "id": "rec1rWYBybwcqe4nf",
@@ -2412,7 +2523,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "9674207127e0547e38d283d84b25992c"
 },
 {
   "id": "reckUi3ro6gSuapIH",
@@ -2448,7 +2560,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "1dcdfcd750664a1c93c7aee0e1bda290"
 },
 {
   "id": "recMeuZlNjddsjfQV",
@@ -2484,7 +2597,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "065d3cd515d883a75b419429dc485d6a"
 },
 {
   "id": "recCsGI8YVya5hOwB",
@@ -2520,7 +2634,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "7f12f88ef1842d8c3c943bced3a0ff4d"
 },
 {
   "id": "recJSXvO8ym3q08H6",
@@ -2556,7 +2671,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e"
 },
 {
   "id": "rec9eY0nwQ9vQPrrP",
@@ -2592,7 +2708,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e"
 },
 {
   "id": "recXuYqbvPnwrSzSi",
@@ -2601,7 +2718,8 @@
   "GROUP": "場務組",
   "NAME_EN": "阿毛",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e"
 },
 {
   "id": "reckME8uih42b3XPn",
@@ -2610,7 +2728,8 @@
   "GROUP": "場務組",
   "NAME_EN": "左邊",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e"
 },
 {
   "id": "rec5wlGe0YOdBV8Lr",
@@ -2646,7 +2765,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e"
 },
 {
   "id": "reclkERBFrl9Mhgbg",
@@ -2682,7 +2802,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e"
 },
 {
   "id": "recnNMqSBhaoScxcP",
@@ -2718,7 +2839,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e"
 },
 {
   "id": "rec5oPq2vIZSB7yte",
@@ -2754,7 +2876,8 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "415e29a79d6168361c54f535e13dd0d0"
 },
 {
   "id": "recaj6ydQoxzEGGyy",
@@ -2763,7 +2886,8 @@
   "GROUP": "宣傳組",
   "NAME_EN": "四貓",
   "MAIN_GROUP": "宣傳大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e"
 },
 {
   "id": "recrLi2MMQs3nGJEO",
@@ -2772,7 +2896,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "Jerry Ho/老何",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e"
 },
 {
   "id": "recnVh334wdgDdnsD",
@@ -2808,5 +2933,6 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "d41d8cd98f00b204e9800998ecf8427e"
 }]
