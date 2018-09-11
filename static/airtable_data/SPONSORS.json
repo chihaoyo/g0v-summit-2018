@@ -151,26 +151,26 @@
   "BIO": "Since 1987, the Archilife Research Foundation started long-term researches in architecture, sustainability, and go on to other areas of knowledge integration. Efforts including previously giving scholarships in aforementioned areas, and currently holding reading group meetings and communion events for knowledge keepers to better our understandings of the world. Starting from 2011, we also have been sponsoring various open source related events, holding meetups and game jams for local game developers' community, and giving out scholarships to support indie game teams and encourage them to go to international game festivals.",
   "CROPPED_LOGO": [
     {
-      "id": "att0NVpSbbjNaqaew",
-      "url": "https://dl.airtable.com/EWoDhXwaS9Osg2rgdi08_Artboard%203.svg",
-      "filename": "Artboard 3.svg",
-      "size": 845,
-      "type": "image/svg+xml",
+      "id": "attQ9sjUKt6pb4gFw",
+      "url": "https://dl.airtable.com/rTsYR7QyGbA4LDXqo3Ag_%E7%A5%90%E7%94%9Flogo.png",
+      "filename": "祐生logo.png",
+      "size": 11065,
+      "type": "image/png",
       "thumbnails": {
         "small": {
-          "url": "https://dl.airtable.com/DtONbOAnRj644hDZo1An_small_Artboard%203.svg",
-          "width": 36,
+          "url": "https://dl.airtable.com/ci3dXT21SWOegOpj1kl3_small_%E7%A5%90%E7%94%9Flogo.png",
+          "width": 72,
           "height": 36
         },
         "large": {
-          "url": "https://dl.airtable.com/OJShuAQa6zhTOX8orU8A_large_Artboard%203.svg",
-          "width": 200,
-          "height": 200
+          "url": "https://dl.airtable.com/g5VXDruNSSmCbmBtjyg9_large_%E7%A5%90%E7%94%9Flogo.png",
+          "width": 480,
+          "height": 240
         },
         "full": {
-          "url": "https://dl.airtable.com/4kBFTaGWSpCXpuMpiXE2_full_Artboard%203.svg",
-          "width": 200,
-          "height": 200
+          "url": "https://dl.airtable.com/quvAJKrKQCq5aJ2NNIYF_full_%E7%A5%90%E7%94%9Flogo.png",
+          "width": 480,
+          "height": 240
         }
       }
     }
