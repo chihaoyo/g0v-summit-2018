@@ -2935,4 +2935,58 @@
   ],
   "SHOW": true,
   "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+},
+{
+  "id": "recq0I32R0A72wSDw",
+  "NAME": "Caro",
+  "TITLE": "組員",
+  "GROUP": "口譯組",
+  "NAME_EN": "Caro",
+  "MAIN_GROUP": "現場大組",
+  "SHOW": true
+},
+{
+  "id": "recCJ6k98aITeRKYA",
+  "NAME": "Jeremy Yen",
+  "TITLE": "組員",
+  "GROUP": "口譯組",
+  "NAME_EN": "Jeremy Yen",
+  "MAIN_GROUP": "現場大組",
+  "SHOW": true
+},
+{
+  "id": "recSJnhLv51MY4nIy",
+  "NAME": "蘇怡安 Amy Su",
+  "TITLE": "組員",
+  "AVATAR_URL": "https://drive.google.com/open?id=1d4ukBywvAVFJpd9EcO9AV5f1VWiqPeAa",
+  "GROUP": "口譯組",
+  "NAME_EN": "蘇怡安 Amy Su",
+  "MAIN_GROUP": "現場大組",
+  "AVATAR": [
+    {
+      "id": "attKqgBVZ1kSI4dje",
+      "url": "https://dl.airtable.com/W4ag3zjES5a3ujV2JjWI_%E8%98%87%E6%80%A1%E5%AE%89%20Amy%20Su%20-%20%E8%98%87%E6%80%A1%E5%AE%89.jpg",
+      "filename": "蘇怡安 Amy Su - 蘇怡安.jpg",
+      "size": 128413,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/NmaRL2adSnqQ6VRIpFtL_small_%E8%98%87%E6%80%A1%E5%AE%89%20Amy%20Su%20-%20%E8%98%87%E6%80%A1%E5%AE%89.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/Mx73wYQsSG6uzkigGC26_large_%E8%98%87%E6%80%A1%E5%AE%89%20Amy%20Su%20-%20%E8%98%87%E6%80%A1%E5%AE%89.jpg",
+          "width": 512,
+          "height": 910
+        },
+        "full": {
+          "url": "https://dl.airtable.com/7yPtwPKMSwqeQtJYquKZ_full_%E8%98%87%E6%80%A1%E5%AE%89%20Amy%20Su%20-%20%E8%98%87%E6%80%A1%E5%AE%89.jpg",
+          "width": 1134,
+          "height": 2015
+        }
+      }
+    }
+  ],
+  "SHOW": true
 }]
