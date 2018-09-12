@@ -358,6 +358,37 @@
   "SHOW": true
 },
 {
+  "id": "rec9IDEZHD34ARz5H",
+  "NAME": "Accton Technology ",
+  "BIO": "Accton Technology is a global premier provider of networking and communications solutions. After 30 years of network product design and development experience, Accton has built a highly-qualified global workforce that produces leading-edge products that are affordable and reliable. As a leader in the integration of open hardware and software for data center, carrier access, and campus networks, Accton works closely with its long-term global partners to deliver the next-generation designs that customers demand. \n\nAs Accton has expanded into a group of companies, it remains an active participant in local society with a strong sense of social responsibility, supporting environmental awareness in all its designs and manufacturing processes. Looking to the future, Accton’s vision and mission can be summarized by the following:\n\n        To passionately deliver the best quality IP-centric network solutions.\n        To maintain a global leadership in open IT infrastructure.\n        To contribute and care for the community by leveraging our technology.\n\nThe company slogan, “Making Partnership Work,” demonstrates Accton’s total commitment to its partners and how it places the highest value on forming long-term partnerships that create maximum benefit for all.",
+  "CROPPED_LOGO": [
+    {
+      "id": "attwc5GpfvO9iYKrM",
+      "url": "https://dl.airtable.com/57W4NEBhQl2dEOvTqisH_accton_LOGO_Components_A_ai_cs5.pdf",
+      "filename": "accton_LOGO_Components_A_ai_cs5.pdf",
+      "size": 246497,
+      "type": "application/pdf",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/attwc5GpfvO9iYKrM-a25149fc89eca4a9-32x32.jpg",
+          "width": 32,
+          "height": 32
+        },
+        "large": {
+          "url": "https://dl.airtable.com/attwc5GpfvO9iYKrM-ccb74de8ca44d5e0-320x320.jpg",
+          "width": 320,
+          "height": 320
+        }
+      }
+    }
+  ],
+  "CLASS": "CIVICIST",
+  "NAME-CH": "智邦科技",
+  "BIO-CH": "隨著智邦科技拓展成擁有數個關係企業的智邦集團，強烈的使命感與社會責任感使智邦集團積極投入回饋社區的活動，並將環保意識帶入從設計到製造的全部流程。展望未來，智邦的願景和使命概括如下：\n・持續用我們的熱誠提供IP-centric的優質解決方案\n・保持全球開放資訊科技基礎架構(Open IT Infrastructure)的領航者地位\n・致力於運用我們的科技回饋社區\n一路走來，智邦堅持正直與誠信經營的企業理念。「Making Partnership Work」展現智邦對合作夥伴的承諾，也是我們為建立長久的夥伴關係秉持的最高信念，帶給所有人最大的利益。",
+  "URL": "http://www.accton.com.tw/",
+  "SHOW": true
+},
+{
   "id": "recNWKWCh0MAaQMHk",
   "NAME": "Security, Convenience, and Open Data.",
   "BIO": "Skymizer is proficient in compiling and virtual machine technology, which helps customers building efficient virtual machine for blockchain and compilers for hardware accelerators of deep learning. Our product “Skymizer C/C++ Intelligent Compiler” is powered by artificial intelligence and compiler techniques which improves both the efficiency and the quality of software automatically. It makes software engineers work smarter and easier. ",
