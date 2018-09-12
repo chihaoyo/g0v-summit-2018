@@ -2943,7 +2943,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "Caro",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "c96dea714f25c5a6d55a58729bfa2f31"
 },
 {
   "id": "recCJ6k98aITeRKYA",
@@ -2952,7 +2953,8 @@
   "GROUP": "口譯組",
   "NAME_EN": "Jeremy Yen",
   "MAIN_GROUP": "現場大組",
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "ea3f65db2b33fad0b573b3c25775f3aa"
 },
 {
   "id": "recSJnhLv51MY4nIy",
@@ -2988,5 +2990,6 @@
       }
     }
   ],
-  "SHOW": true
+  "SHOW": true,
+  "MD5": "4591ad6849f204affd76c060be491313"
 }]

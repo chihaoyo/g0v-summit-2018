@@ -10,7 +10,8 @@
   "TITLE1_EN": "Open Knowledge Foundation Germany",
   "BIO_EN": "Adriana Groh is Program Manager at the Open Knowledge Foundation for the Prototype Fund, a funding program for software development in the field of civic tech, and Co-Founder of Wepublic, a messenger for communication between citizens and politicians.",
   "SHOW": true,
-  "ID": 1
+  "ID": 1,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "rec9MnXZI2K8KQUI8",
@@ -48,7 +49,8 @@
   "TITLE1_EN": "Whose Knowledge?",
   "BIO_EN": "Anasuya Sengupta is co-founder and co-director of Whose Knowledge?, a global multilingual campaign to re-imagine and redesign the internet to be for and from us all. She has led initiatives in India and the USA, across the global South, and internationally for over 20 years, to amplify marginalised voices in virtual and physical worlds. She is the former Chief Grantmaking Officer at the Wikimedia Foundation and a Shuttleworth Fellow. Anasuya holds an MPhil in Development Studies from the University of Oxford, where she studied as a Rhodes Scholar. When not rabble-rousing online, Anasuya builds and breaks pots, takes long walks by the ocean and in the redwoods, and contorts herself into yoga poses.",
   "SHOW": true,
-  "ID": 2
+  "ID": 2,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "recqUykxTYaomkYrO",
@@ -123,7 +125,8 @@
   "TITLE1_EN": "School of Computer Science, University of Guelph",
   "BIO_EN": "Dr. Daniel Gillis is an Associate Professor in the School of Computer Science, and Director of the Physical Science and Engineering Education Research Centre at the University of Guelph. He has spent the bulk of his career working on interdisciplinary teams which have focused on public health assessment, and natural resource management. Most recently he has been working with the remote Inuit community of Rigolet, Nunatsiavut, Labrador to develop a community-led health and environment monitoring tool. His research interests span statistics, computer science, biology, pedagogy, and community-engaged scholarship.\n\nDr. Gillis is co-founder of Farm To Fork, co-creator the ICON Transdisciplinary Classroom, co-founder of the multidisciplinary GuelphHacks/CBaSE Improve Life Challenge, and co-creator of the Gryphons Care Initiative. He is also a member of the Centre for Public Health and Zoonoses, the eNuk Scientific Advisory Panel, and the Right Mesh Scientific Advisory Committee.",
   "SHOW": true,
-  "ID": 4
+  "ID": 4,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "reckEJPg5qSc5a1ks",
@@ -161,7 +164,8 @@
   "TITLE1_EN": "CoLab.coop",
   "BIO_EN": "Danny is a sociologist with ethics, comma, for hire. Based in Oakland, California, Danny prototypes apps and websites with CoLab.coop, a global, worker-owned digital agency. He believes in worker-led organizing and returning all wealth to the commons.",
   "SHOW": true,
-  "ID": 5
+  "ID": 5,
+  "講者確認顯示名稱": "chihao 使用提案資料 https://docs.google.com/document/d/1o1auxIZfsJUXWHxGNjdAkfiUIihpt_weYF8nBJCok3A/edit"
 },
 {
   "id": "recmGNT7Vlty0B4vI",
@@ -210,7 +214,8 @@
   "TITLE1_EN": "Institute for Technology and Society of Rio de Janeiro (ITS Rio)",
   "BIO_EN": "Debora Albu holds an MSc in Gender, Development and Globalization from the London School of Economics and Political Science, in the UK, being awarded with a Chevening scholarship. She holds a B.A. in International Relations from the Pontifical Catholic University Rio de Janeiro (PUC-Rio). She has worked in the areas of activism, youth and public policy at Amnesty International and at University of Youth. Debora was project and communications manager at the Center for International Relations at Getulio Vargas Foundation (FGV). She writes for independent online channels and develops research in democracy and technology, digital activism and gender studies. She is a researcher at the Democracy and Technology area at the Institute for Technology and Society.",
   "SHOW": true,
-  "ID": 7
+  "ID": 7,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "rec5dZVDMDYnf6UBe",
@@ -248,14 +253,8 @@
   "TITLE1_EN": "Sarapis, g0v.network",
   "BIO_EN": "Devin works at the intersection of the nonprofit sector, the open-source movement, and grassroots community organizing initiatives to help each benefit from the best practices of the others.\n\nHe is president of the Sahana Software Foundation, a nonprofit that delivers open source software for disaster relief and humanitarian aid organizations. He is also the executive director of Sarapis, a nonprofit that builds open source civic technology solutions.\n\nHe began his career as an entrepreneur building software for nonprofits. During this experience, he realized that nonprofits could benefit by adopting the “open source way”. SInce then he has delivered open source software and information management solutions to a wide variety of nice people: from think tanks to farming networks, social movements to government agencies. \n\nHe lives in New York City where he writes for a local news website and ran for local political office in 2017.",
   "SHOW": true,
-  "ID": 8
-},
-{
-  "id": "recoHutPOaE66DXen",
-  "NAME": "Elisa Lindinger",
-  "TITLE1_EN": "Open Knowledge Foundation Germany",
-  "BIO_EN": "Elisa Lindinger is the director of the Prototype Fund, which supports innovative projects of software developers. She focuses on researching new, bottom-up ways towards digital innovation and supports tech projects by fundraising for them and by organizing and facilitating community events. Adriana Groh is Program Manager at the Open Knowledge Foundation for the Prototype Fund. She is  interested in democratic innovations and the question of how participation and communication could work out better for society. As a fellow of the Social Impact Lab, Adriana Groh founded \"wepublic\" to develop new ways of digital communication between citizens and politicians.",
-  "ID": 9
+  "ID": 8,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recYuVD3lte0aA6fG",
@@ -331,7 +330,8 @@
   "TITLE1_EN": "MIT Media Lab",
   "BIO_EN": "Director of the Center for Civic Media at MIT, professor at MIT Media Lab. Blogger, activist, co-founder of globalvoices.org, author, father, heavy metal fan, dog owner.",
   "SHOW": true,
-  "ID": 11
+  "ID": 11,
+  "講者確認顯示名稱": "chihao 使用社群普遍知曉的名稱"
 },
 {
   "id": "recEBOK82hFbV8e2O",
@@ -368,7 +368,8 @@
   "TITLE1_EN": "Riparte il futuro",
   "BIO_EN": "Half analyst, half activist. A PhD in Political History at Bologna University, a former post-doc researcher, he co-founded in 2012 Riparte il futuro, a civil society organisation aimed at fighting corruption and promoting transparency, where he’s in charge of policy and advocacy. He actively took part to the Italian OGP Third Action Plan. ",
   "SHOW": true,
-  "ID": 12
+  "ID": 12,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recnhc4F92g5WVIeO",
@@ -406,7 +407,8 @@
   "TITLE1_EN": "OSMF／IFRC",
   "BIO_EN": "Heather is a technologist focused on humanitarian technologies and social entrepreneurship. She builds partnerships, curates digital spaces, fosters volunteer engagement, and delivers training with maps, code, and data. As Data Literacy Lead at the International Federation of Red Cross Red Crescent, her mandate includes data skills global advocacy and training in partnership with the 191 national societies and the 11.6 million volunteers. Previously, she lead community, social innovation, and technology programs at Qatar Computing Research Institute (Qatar Foundation), Ushahidi, and Open Knowledge (School of Data). She is a current Board Member at OpenStreetMap Foundation and a past Board Member at the Humanitarian OpenStreetMap Team (4 years). Some of her writings include articles on open communities, power of data, and digital literacy for the Open Organization, World Economic Forum and Civicus Datashift. Heather holds a Bachelor of Arts degree in Combined Political Science and History from Carleton University, as well as a Library and Information Technician diploma from Seneca College of Applied Arts and Technology.",
   "SHOW": true,
-  "ID": 13
+  "ID": 13,
+  "講者確認顯示名稱": "chihao 使用 Twitter handle"
 },
 {
   "id": "recZZVe7ohA019Wem",
@@ -444,7 +446,8 @@
   "TITLE1_EN": "Ānanda Data",
   "BIO_EN": "Htin Kyaw Aye is founder of Ānanda Data, a civic tech and open data collective which promotes civic engagement in politics through explanations of government institutions and the Budget. He is former research director of local think-tank Open Myanmar Initiative and involved in a number of civil tech initiatives.",
   "SHOW": true,
-  "ID": 14
+  "ID": 14,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "recpV3eneiwuftznn",
@@ -482,41 +485,8 @@
   "TITLE1_EN": "Outriders",
   "BIO_EN": "Blogger and reporter passionated about new media, interactive storytelling and reporting projects. Graduated faculty of journalism at Warsaw University, specialized in Reportage Laboratory. He established Outriders to bridge cultures and societies by original reporting and providing global perspective through innovative storytelling. As a COO and board member of ePaństwo Foundation, he developed it into leading open data/transparency NGO globally. During six years he established Code for Poland and took it into Code for All together with Code for America. Open Cities – a program helping European cities adopt open data policies as well as Personal Democracy Forum in CEE and TransparenCEE. He remains a strong ambassador of Central Eastern Europe. Jakub is a 2014 New Europe Challenger (first round) for “for being model e-citizen” and “poster boy for civic engagement and transparent governance”. Later on named one of the 28 most innovative Poles by Puls Biznesu.",
   "SHOW": true,
-  "ID": 15
-},
-{
-  "id": "rec59sOZlHBBZpXzx",
-  "NAME": "Judy Tuan",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attB4KRGBj7bS1qj2",
-      "url": "https://dl.airtable.com/X3w5qBYAQNm2elAAdfAT_16.jpg",
-      "filename": "16.jpg",
-      "size": 32233,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/JeV2Cd5SN61xZuX0aWfV_small_16.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/ezKnB5lkQk2EoZV0noVo_large_16.jpg",
-          "width": 400,
-          "height": 400
-        },
-        "full": {
-          "url": "https://dl.airtable.com/MWg2ty5aRGyUg1jxkrQ4_full_16.jpg",
-          "width": 400,
-          "height": 400
-        }
-      }
-    }
-  ],
-  "TWITTER": "@judytuna",
-  "TITLE1_EN": "Tech Workers Coalition",
-  "BIO_EN": "Judy Tuan is an independent software developer who works with the Tech Workers Coalition.",
-  "ID": 16
+  "ID": 15,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recLc5V2T2NO7DdSf",
@@ -553,11 +523,12 @@
   "TITLE1_EN": "National Democratic Institute",
   "BIO_EN": "Kip Wainscott is a senior advisor at NDI and leads the Institute’s presence in Silicon Valley, engaging technologists and other stakeholders in support of democracy. Until early 2017, Kip served in the White House as senior director of cabinet affairs and senior advisor to the Domestic Policy Council, where his work focused on issues related to justice, technology, and opportunity. He was also appointed senior counsel at the U.S. Department of Justice, where he worked on the development of federal policy related to technology, privacy, and other issues of priority to the Attorney General and the Obama administration. Prior to entering government, Kip practiced law in a leading political and elections practice, serving as counsel to several Members of Congress, the Democratic National Committee, and numerous political and advocacy organizations. He was also counsel and national delegate director for President Obama’s 2012 reelection campaign, and has held leadership roles in civic, political, and professional organizations, including the Washington Foreign Law Society and the New Leaders Council. After leaving the White House in 2017, Kip helped spearhead the launch of an international civic tech startup working to democratize access to the justice system and create pathways for communities to support public interest legal action. He is based in San Francisco, California.",
   "SHOW": true,
-  "ID": 17
+  "ID": 17,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "recUnfNnkgvrAyXJf",
-  "NAME": "Kobe YU",
+  "NAME": "Kobe Yu",
   "CROPPED_AVATAR": [
     {
       "id": "attID1mHACBFenUgk",
@@ -590,7 +561,8 @@
   "BIO": "8y+軟硬體開發經驗的工程師，因為對小時候農村生活的懷念，所以結合過去工作經驗，將科技應用在農業領域，目標是讓生活與環境變得更好。",
   "TITLE1_EN": "Open Hack Farm",
   "SHOW": true,
-  "ID": 18
+  "ID": 18,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recZHMe8yDYZnkztc",
@@ -631,7 +603,7 @@
 },
 {
   "id": "rec0TKRSNGB54Un4A",
-  "NAME": "Lucky C. Umezulike",
+  "NAME": "Chambers Umezulike",
   "CROPPED_AVATAR": [
     {
       "id": "attC0naWchpYUp5h5",
@@ -665,7 +637,8 @@
   "TITLE1_EN": "Connected Development (Follow The Money)",
   "BIO_EN": "I am a Development Expert, Civil Society Practitioner and Academic Researcher. I am currently the senior programme manager at Connected Development, a Nigeria based NGO, where under my leadership, the organization through its Follow The Money Initiative has tracked government/international aid spending in rural communities to promote and ensure open government and service delivery. As at March 2018, the initiative has impacted an estimate of 600,000 rural lives, across 50 communities in over 20 Nigerian states through making sure that primary healthcare, education and clean water interventions meant for communities are implemented through effective public oversight. The organization won the ONE Africa 2016 Award which recognizes, rewards, and advances the exceptional work of African-based organisations; dedicated to helping the continent achieve the Sustainable Development Goals. I have a Masters in International Studies, Economic Governance, and Development from the University of Nairobi, Kenya.",
   "SHOW": true,
-  "ID": 20
+  "ID": 20,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recelnCDwt3n7oglC",
@@ -703,11 +676,12 @@
   "TITLE1_EN": "Free Press Unlimited, Indonesialeaks",
   "BIO_EN": "Marcel Oomens is an experienced programme manager with a background in digital security training and technology innovation. Marcel read degrees in artificial intelligence, science communication and journalism, and contemporary Asian studies. He obtained digital security skills and familiarity of circumvention technology in relation to life and work in China and Iran. In recent years, Marcel has managed a number of project related to digital whistleblowing and online source protection for investigative journalists.",
   "SHOW": true,
-  "ID": 21
+  "ID": 21,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "recSgkWvLzTTGeezr",
-  "NAME": "Marco Antonio Konopacki",
+  "NAME": "Marco Konopacki",
   "CROPPED_AVATAR": [
     {
       "id": "attjUKcWvnscsdiiU",
@@ -741,7 +715,8 @@
   "TITLE1_EN": "Institute for Technology and Society of Rio de Janeiro (ITS Rio)",
   "BIO_EN": "Marco is currently pursuing a Doctorate Degree in Political Science at the Federal University of Minas Gerais (UFMG) and he holds a Master’s Degree from the Federal University of Paraná (UFPR) in Political Science. Marco worked as a visiting professor at the Technological Institute of Aeronautics (ITA) in the areas of software development management, telemetry, and georeferencing. He is a researcher on themes such as Governance of Information Technology, Software Development, and Social and Political Participation. Marco has had many experiences in both the public and private sectors. He was advisor in the Secretary of Legislative Affairs of the Ministry of Justice, where he coordinated the public debate on the regulation of Brazil’s Internet Bill of Rights. He is currently Project Coordinator in the area of Democracy and Technology at the Institute for Technology & Society of Rio (ITS Rio). ",
   "SHOW": true,
-  "ID": 22
+  "ID": 22,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recn99WRNQrcv5xL8",
@@ -779,11 +754,12 @@
   "TITLE1_EN": "Civic Hall",
   "BIO_EN": "Matt Stempeck has been researching and building civic technology since 2005. He has creatively contributed to electoral and social campaigns, national and city governments, and academia and journalism.\n\nIn 2016, Matt led the Digital Mobilization team at Hillary for America, which included the campaign’s voter registration, peer organizing, and SMS technologies and programs. Matt most recently served as Director of Civic Technology at Microsoft, and is now traveling the world working on projects with a creative collective appropriately known as the Bad Idea Factory.\n\nMatt became / earned a Master of Science at MIT Media Lab’s Center for Civic Media. While at the Media Lab, Matt quantified global media attention to stories like Trayvon Martin’s, designed a peer-to-peer humanitarian aid marketplace, and built an award-winning email product to fight misinformation online. He also holds a BA with high honors from the University of Maryland College Park, where he wrote a thesis on the disruption participatory media brought to political journalism.",
   "SHOW": true,
-  "ID": 23
+  "ID": 23,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "rec0Bkn0y6gAe3FIx",
-  "NAME": "Michael Parmisano Cañares",
+  "NAME": "Michael Canares",
   "CROPPED_AVATAR": [
     {
       "id": "attzwvqcAiYkMvUZe",
@@ -817,11 +793,12 @@
   "TITLE1_EN": "World Wide Web Foundation, Open Data Lab Jakarta",
   "BIO_EN": "Michael (Miko) is the Senior Research Manager for Digital Citizenship at the Web Foundation. He has more than ten years of research and development work experience at a progressive pace: from community-based project management to regional development, with most of his work rooted mainly in Southeast Asia. He delves in different programmatic themes, such as health, natural resource management, financial management, forestry, and economic development.\n\nMiko is a graduate of law and accountancy and also completed a masters degree in business education. He also has an M.Sc. in Development Studies from the London School of Economics and Political Science.\n\nMiko previously led research at the Web Foundation’s Open Data Lab in Jakarta, and prior to that, taught for over ten years, served as a monitoring and evaluation specialist for infrastructure governance and local economic development, and managed various open data research projects in the Philippines.",
   "SHOW": true,
-  "ID": 24
+  "ID": 24,
+  "講者確認顯示名稱": "chihao 使用 Twitter 顯示名稱"
 },
 {
   "id": "recEj3CEzBAxgjNTE",
-  "NAME": "Narcisse Mbunzama Lokwa",
+  "NAME": "Narcisse Mbunzama",
   "CROPPED_AVATAR": [
     {
       "id": "attLklvrcPJjoAO1c",
@@ -855,11 +832,12 @@
   "TITLE1_EN": "Digital Security Group",
   "BIO_EN": "Founder and CEO of Digital Security Group. A serial award winning tech innovator and researcher on security of election tech. ",
   "SHOW": true,
-  "ID": 25
+  "ID": 25,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recwvllr6PPtSaFbv",
-  "NAME": "Ng Swee Meng",
+  "NAME": "sweemeng",
   "CROPPED_AVATAR": [
     {
       "id": "attvGv5g5fmA2tmxB",
@@ -893,7 +871,8 @@
   "TITLE1_EN": "Sinar Project",
   "BIO_EN": "I am the software developer/sysadmin for Sinar Project. ",
   "SHOW": true,
-  "ID": 26
+  "ID": 26,
+  "講者確認顯示名稱": "chihao 使用 Twitter handle"
 },
 {
   "id": "recYtkmjDq8Doi8ON",
@@ -931,7 +910,8 @@
   "TITLE1_EN": "University of Guelph",
   "BIO_EN": "University of Guelph alumnus and current Masters of Science student in Computer Science, Nicolas Durish continually strives to be a rolemodel, leader and innovator in his field. Approaching his field of study with creativity and vision, Nicolas pushes the limits of computation to imagine new ways computer science can positively impact community, social justice and sustainability. Nicolas has participated in numerous projects that bridge the power of computation with various social challenges including energy conservation, waste reduction, health and environmental monitoring and truth and reconciliation to create solutions.",
   "SHOW": true,
-  "ID": 27
+  "ID": 27,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "recNpZhWqBQjpfbVc",
@@ -968,7 +948,8 @@
   "BIO": "熱愛作資料解讀及分析，共同創立 TW R Ladies，D4SG（Data For Social Good）的顧問．希望能認識更多同好，一起做好玩且不一樣的事情。",
   "TITLE1_EN": "D4SG",
   "SHOW": true,
-  "ID": 28
+  "ID": 28,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "rec3AtjRbmRKWMt59",
@@ -1006,7 +987,8 @@
   "TITLE1_EN": "Open Data Institute",
   "BIO_EN": "Olivier Thereaux is the Head of Technology at the Open Data Institute (ODI), a global, independent, non-profit organisation based in London that aims to create a more open and trustworthy data ecosystem by connecting, equipping and inspiring people around the world to innovate with data.\n\nA graduate of École Centrale Paris, Olivier has worked as a technologist in France, Japan, Canada and the UK for nearly 20 years, focusing on the various facets of open technology: open standards, open source, open data and open innovation. \n\nIn the 2000s he was part of Tim Berners-Lee’s W3C team which stewarded the creation of the standards that enabled the explosion of the internet. He later headed the BBC’s innovation efforts on content discovery, and led the adoption of machine learning for content analysis and recommendations. He is now in charge of the ODI’s research on open data and emerging technology.",
   "SHOW": true,
-  "ID": 29
+  "ID": 29,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "recrrdft3AxoRQxMn",
@@ -1044,7 +1026,8 @@
   "TITLE1_EN": "Universitat Pompeu Fabra／Eurecat, Centre Tecnològic de Catalunya",
   "BIO_EN": "Researcher focused on characterizing online participation in civic technologies. Collaborator of Decidim, the Free Open-Source participatory democracy platform for cities and organizations.",
   "SHOW": true,
-  "ID": 30
+  "ID": 30,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recllab2Ompnjts23",
@@ -1082,7 +1065,8 @@
   "TITLE1_EN": "Central Tibetan Administration (Exile Tibetan Government)",
   "BIO_EN": "Tenzin Chokden is a Malware Analyst who works for Central Tibetan Administration (CTA), exiled Tibetan Government in India. He has been in security for 5 years, an open source enthusiast, a contributor to the Fedora Security Lab. He uses open source tools in his personal and professional life. He is the co-chapter lead of Null Dharamsala (India’s largest open security community) and has been contributing as a Fedora Ambassador since 2016. He believes Open Source Security Test Tools and methods are essential to provide protection and resilience unbiased from the commercial agendas of the security solution industry. ",
   "SHOW": true,
-  "ID": 31
+  "ID": 31,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
   "id": "recHdyept2G9q1eNx",
@@ -1094,7 +1078,8 @@
   "TITLE1_EN": "Open Development Cambodia (ODC)",
   "BIO_EN": "THY Try is an Executive Director of Open Development Cambodia (ODC). In 2011, he joined ODC as an advisory board member, and later on he became a chairman of the board. As an Executive Director. Try plays an important role in increasing public access to current and historical data and information about Cambodia’s development trends in an online ‘open data’ platform, compiling freely-available data from a wide range of public sources. Prior to joining ODC, Try worked for the National Network on Extractive Industry Social and Environmental Impact (EISEI) as a coordinator of Development and Partnership in Action (DPA) for four years. He also spent two years with the Cambodian Human Rights and Development Association (ADHOC) as a human rights investigator and another two years with Indochina Research Limited (IRL) in social and commercial research. He is a member of the advisory committee of the Global Center for Mekong Studies (GCMS) Cambodia. He also holds multiple degrees and training-related certificates. ",
   "SHOW": true,
-  "ID": 32
+  "ID": 32,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recIbn1v0V4skUfiR",
@@ -1551,9 +1536,10 @@
     "recst4GJ61s2kNAVL"
   ],
   "BIO": "社團法人台灣數位科技與政策協進會理事，叡揚資訊股份有限公司董事長。創立國內第一家 100% 營收以軟體及服務為業務之叡揚資訊公司，帶領團隊建立軟體工程機制及專案管理方法論，努力建立軟體、服務、知識有價之觀念，建構開拓國際市場的機制與組織，成功進入大陸及日本市場。",
-  "NAME_EN": " CHANG PEI-YUNG",
+  "NAME_EN": "Perry Chang",
   "SHOW": true,
-  "ID": 44
+  "ID": 44,
+  "講者確認顯示名稱": "chihao & pm5 http://www.mgt.ncu.edu.tw/~ckfarn/doc/20100506GSS_Perry_talk.pdf"
 },
 {
   "id": "reczAud3wnEkcUluT",
@@ -1672,7 +1658,8 @@
   "BIO": "工程師，大部分時間在寫網站。想看看政府的資訊系統有沒有什麼能幫上忙的地方，不小心掉到開放政府協作會議的坑，平常在協作會議擔任助理主持。",
   "TITLE1_EN": "PDIS",
   "SHOW": true,
-  "ID": 47
+  "ID": 47,
+  "講者確認顯示名稱": "chihao 已寄 email 待確認"
 },
 {
   "id": "reczHxpFAHf1zQBNE",
@@ -3080,8 +3067,44 @@
   "TITLE1_EN": "Government of Canada",
   "BIO_EN": "As a community organizer and democratic activist for the past 10 years, Derek Alton is a passionate change maker. He is currently a Strategic Partnerships Specialist for the Digital Collaboration team with the Government of Canada. Derek and the team along with partners across the globe are creating a digital public space constructed on the foundations of open source platforms. It currently operates at the intersection of open international government (policy) and digital government movements (technology) where organizations are working together to build the space - together.\n\nThe digital public space is a major step toward a more innovative and open way of identifying and co-creating programs, engagements, and research across the globe. It is designed for co-creation in all forms, but more importantly, it demonstrates the beginning of a cultural shift of horizontal governance and decision-making.",
   "SHOW": true,
-  "ID": 85
+  "ID": 85,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
-  "id": "recRmM5GG6uLP9OBb"
+  "id": "rec8iFD4IwvAYxqgg",
+  "NAME": "Felipe Ventura",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attLN4p7WrPJBZ0mG",
+      "url": "https://dl.airtable.com/uCuMcwHqT2uqwrxtmTYJ_1316570.png",
+      "filename": "1316570.png",
+      "size": 239428,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/58nEhxB7QEesMfTKPL2u_small_1316570.png",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/t8yg7IFKTcSwu7sLFPkq_large_1316570.png",
+          "width": 400,
+          "height": 400
+        },
+        "full": {
+          "url": "https://dl.airtable.com/wQ7FS69ATcKOwbetEW0P_full_1316570.png",
+          "width": 400,
+          "height": 400
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recLLsXbJtwdxLeTc"
+  ],
+  "TWITTER": "@fvntr",
+  "BIO_EN": "Felipe Ventura is a software engineer currently based in the Bay Area.  He has fought with service workers unions like IWW 660 and SEIU for better working conditions and is currently organizing with Techqueria, a decentralized community of Latinx professionals in the tech industry with chapters across the US. ",
+  "SHOW": true,
+  "ID": 87,
+  "講者確認顯示名稱": "講者使用新版註冊表單自行填寫 display name"
 }]

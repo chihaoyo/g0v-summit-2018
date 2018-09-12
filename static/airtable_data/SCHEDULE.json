@@ -79,7 +79,10 @@
   "TITLE_EN": "On informed discussion",
   "TYPE": "panel",
   "ID": "rt1",
-  "TRACK": "你的明白不是我的明白"
+  "TRACK": "你的明白不是我的明白",
+  "TRACK_TMP": [
+    "rech4bvhyHwtol6T5"
+  ]
 },
 {
   "id": "recSwpk4wL79O6Lmz",
@@ -97,7 +100,10 @@
   "TITLE_EN": "“ElectionTech”",
   "TYPE": "panel",
   "ID": "rt2",
-  "TRACK": "科技與選舉"
+  "TRACK": "科技與選舉",
+  "TRACK_TMP": [
+    "recbgZN2pt9CjUi3w"
+  ]
 },
 {
   "id": "recOgBGMx8wUyB0km",
@@ -115,7 +121,10 @@
   "TITLE_EN": "When nobody becomes somebody",
   "TYPE": "panel",
   "ID": "rt3",
-  "TRACK": "社群參政"
+  "TRACK": "社群參政",
+  "TRACK_TMP": [
+    "recjd9vncGMrDPuhR"
+  ]
 },
 {
   "id": "recovSgrDUaLle3CD",
@@ -132,7 +141,10 @@
   "TITLE_EN": "From data to decision: making good use of public assets in Taipei City",
   "TYPE": "talk",
   "ID": "43",
-  "TRACK": "公私協力"
+  "TRACK": "公私協力",
+  "TRACK_TMP": [
+    "recD8vMkVUYOiutPp"
+  ]
 },
 {
   "id": "recIxC0oyWvqiDfwF",
@@ -148,7 +160,10 @@
   "ABSTRACT_EN": "In this session, Hal from Code for Japan will explain details of two unique projects for corporations and governments. One is a kind of fellowship program but we asks companies to send their employees for serving local governments as a part-time government officials. We sent 18 fellows to 12 local governments last year. Involving companies is good way to support a lack of resources of citizen communities. Second is Data Academy, a series of workshop for improving data utilization of the local government officials. We have been running the workshops for the government officials.",
   "TYPE": "talk",
   "ID": "111",
-  "TRACK": "公私協力"
+  "TRACK": "公私協力",
+  "TRACK_TMP": [
+    "recD8vMkVUYOiutPp"
+  ]
 },
 {
   "id": "recPnw0axDD0UJFyd",
@@ -164,7 +179,10 @@
   "ABSTRACT_EN": "Building on the first year of the Open Data Institute’s data innovation programme, this talk will explore and chalenge this model to look at the history of open technology for clues to where the future of open data lies. We will make the case for why git and the open source community - with its collaborative models for development and maintenance - rather than the zero-sum vision of blockchains, is the blueprint for data governance we ought to strive for.",
   "TYPE": "talk",
   "ID": "67",
-  "TRACK": "公私協力"
+  "TRACK": "公私協力",
+  "TRACK_TMP": [
+    "recD8vMkVUYOiutPp"
+  ]
 },
 {
   "id": "recilBAuCz4EAR7O7",
@@ -247,7 +265,10 @@
   "ABSTRACT_EN": "A brief summary to existing civic tech community and project including PopVote, Civic Data HK, g0vhk.io, collaction.hk and Open Culture Station.",
   "TYPE": "talk",
   "ID": "136",
-  "TRACK": "社群激情過後"
+  "TRACK": "社群激情過後",
+  "TRACK_TMP": [
+    "recEbhwt9btwCiox0"
+  ]
 },
 {
   "id": "recND8Ex4wsXqlCiO",
@@ -263,7 +284,10 @@
   "TITLE_EN": "Open-source cooperation between corporation and community: Agri Weather as an example (translated)",
   "TYPE": "talk",
   "ID": "140",
-  "TRACK": "社群激情過後"
+  "TRACK": "社群激情過後",
+  "TRACK_TMP": [
+    "recEbhwt9btwCiox0"
+  ]
 },
 {
   "id": "rec0ztQhg9drkVcry",
@@ -279,7 +303,10 @@
   "TITLE_EN": "Legal issues amongst civic tech: legal stories of g0v projects (translated)",
   "TYPE": "talk",
   "ID": "127",
-  "TRACK": "社群激情過後"
+  "TRACK": "社群激情過後",
+  "TRACK_TMP": [
+    "recEbhwt9btwCiox0"
+  ]
 },
 {
   "id": "recP4F88nWEBncZ0y",
@@ -304,7 +331,10 @@
   "ABSTRACT_EN": "Our talk will be based on the freshly-baked report about our first funding round which comprises not only an evaluation of the Prototype Fund and its impact, but also an outcome harvesting of the funded projects: How does funding impact their work, and what else needs to be done to support civic tech projects in the long term?",
   "TYPE": "talk",
   "ID": "71",
-  "TRACK": "社群夢醒時分"
+  "TRACK": "社群夢醒時分",
+  "TRACK_TMP": [
+    "recLU0Bc3DZvNsJQr"
+  ]
 },
 {
   "id": "recmuAnkOFghSmOju",
@@ -377,7 +407,10 @@
   "ABSTRACT_EN": "Open Development Cambodia (ODC) collates and publishes data from a wide range of sources that was previously difficult to find. It makes objective, politically-neutral information accessible to everyone on a secure online platform to help citizens make informed decisions. The information on the ODC site covers a wide area, from social and environmental issues to public services and economic matters. A lot of the data is interactive - with ODC’s digital maps users can switch different layers on and off to get exactly the data they want. ODC has grown to become an important resource in Cambodia’s civic tech ecosystem. It is a great model for other developing countries to consider as a way of sharing knowledge to all citizens.",
   "TYPE": "talk",
   "ID": "46",
-  "TRACK": "開放資料國際篇"
+  "TRACK": "開放資料國際篇",
+  "TRACK_TMP": [
+    "recTasyLGUwI4hwXh"
+  ]
 },
 {
   "id": "recOSeRYcF26b6Y8K",
@@ -393,7 +426,10 @@
   "ABSTRACT_EN": "Data for Social Good refers to the applications of data science to address problems related to the social good. On the global scale, the United Nations applies data science to reach its Sustainable Development Goals (SDGs), while on the national level, governments take the same approach to make better policies and improve public services. How do you go from ideas to outcomes? How long does a project take? What are the secret ingredients for success? Are there any common pitfall? How to build public-private partnership and trust? Is there life after project completion? This panel will explore these practical topics.",
   "TYPE": "talk",
   "ID": "31",
-  "TRACK": "開放資料國際篇"
+  "TRACK": "開放資料國際篇",
+  "TRACK_TMP": [
+    "recTasyLGUwI4hwXh"
+  ]
 },
 {
   "id": "recaLqkd543k9UGBH",
@@ -409,7 +445,10 @@
   "ABSTRACT_EN": "A civic tech project - National Treasure - is creating ripples through the history research community in Taiwan. They bring the concept of open data to the world of historical archives of governmental documents. In this talk, we will explore the effects of this project in the year since its launch and discuss what lies ahead.",
   "TYPE": "talk",
   "ID": "1",
-  "TRACK": "開放資料國際篇"
+  "TRACK": "開放資料國際篇",
+  "TRACK_TMP": [
+    "recTasyLGUwI4hwXh"
+  ]
 },
 {
   "id": "recA2KpTO1vy0X05i",
@@ -460,7 +499,8 @@
   "SPEAKER": [
     "recKdOszZh2WYVYsl",
     "recAYj0HnT0aCJtT3",
-    "reckEJPg5qSc5a1ks"
+    "reckEJPg5qSc5a1ks",
+    "rec8iFD4IwvAYxqgg"
   ],
   "SHOW": true,
   "TITLE_EN": "Towards an organized tech sector",
@@ -498,7 +538,10 @@
   "TITLE_EN": "Political contribution open data: a journey from community, media to government (translated)",
   "TYPE": "talk",
   "ID": "42",
-  "TRACK": "追金流"
+  "TRACK": "追金流",
+  "TRACK_TMP": [
+    "recCINykYUqyCQoZd"
+  ]
 },
 {
   "id": "recy9mlCDrx2rE63H",
@@ -514,7 +557,10 @@
   "ABSTRACT_EN": "This research is a critical examination of the operations and methodologies of Follow The Money, outstandingly the role and impact of technology in its strategy. It investigates how these technologies have inspired citizens to perform virtual and real time public oversight and have facilitated public spending data access/exchange.\n\nAs such, the research tries to answer the following questions: 1) How has Follow The Money evolved and what specific methodologies and approaches does it use in mobilizing communities to hold their governments to account?, 2) In what ways has Follow The Money used technology in the course of its work, what are the outcomes of such and what limitations have such tools encountered?, 3) What are the challenges being faced by the initiative and what lessons has it learnt?",
   "TYPE": "talk",
   "ID": "77",
-  "TRACK": "追金流"
+  "TRACK": "追金流",
+  "TRACK_TMP": [
+    "recCINykYUqyCQoZd"
+  ]
 },
 {
   "id": "rec7keaaMeHUc9scM",
@@ -530,7 +576,10 @@
   "ABSTRACT_EN": "The participatory democracy movement in the United States hasn’t swept into power via municipal elections like it did in Madrid, nor did it secure a foothold at the national level like it did in Taiwan. But what we do have is participatory budgeting programs in over a dozen US cities. Participatory Budgeting (PB) enables residents of cities to directly decide how to spend part of a public budget. New York City’s PB program is the largest in the country, allocated over $40 million, which is about .05% of the city’s budget. It’s small but it’s something. \n\nBy mixing together elements of vTaiwan’s public consultation process, Madrid’s Consul citizen-participation app, our own transparency software, our team is building an more integrated open source toolset for New York City that we hope will bring Asia, Europe and America's participatory democracy communities into closer collaboration around our shared goal of developing more transparent and participatory governments.",
   "TYPE": "talk",
   "ID": "85",
-  "TRACK": "追金流"
+  "TRACK": "追金流",
+  "TRACK_TMP": [
+    "recCINykYUqyCQoZd"
+  ]
 },
 {
   "id": "recAIDtklNDevBkDG",
@@ -555,7 +604,10 @@
   "ABSTRACT_EN": "PegaBot (Portuguese for Bot Buster) is an online platform (www.pegabot.com.br) in which users can analyze the probability of whether a social profile is a bot or not. We created a service which uses the API developed by Indiana University called Botometer. In two days, the project has gone viral in Brazil and it has been accessed by more than 200 thousand people, demonstrating there is a large demand for awareness regarding how manipulation in social media occurs. \n\nThe project has currently two parts: the online tool and the creation of comprehensive education and awareness raising materials on how bots and social media manipulation are related. We are providing media literacy materials to inform every user of our project, including in terms of legal issues and how the Judiciary is dealing with bots. We intend to share what we have learned with the use of this online tool so far and also raise further applications for it by exchanging with colleagues that might have developed other successful instruments in this sense.",
   "TYPE": "talk",
   "ID": "26",
-  "TRACK": "追真相"
+  "TRACK": "追真相",
+  "TRACK_TMP": [
+    "recdJzJ5CGC07dW7C"
+  ]
 },
 {
   "id": "recmaOTZSPJqDZRBr",
@@ -571,7 +623,10 @@
   "ABSTRACT_EN": "IndonesiaLeaks safely connects journalistic sources with the most renowned investigative beats in Indonesia. The aim is to bring sensitive information that it in the public interest - about graft, corruption and misappropriation of funds in government and industry - to the attention of audiences, all while ensuring the safety of whistleblowers. Join us for a discussion on what makes these platforms successful and which consideration go into developing a secure whistleblower platform.",
   "TYPE": "talk",
   "ID": "68",
-  "TRACK": "追真相"
+  "TRACK": "追真相",
+  "TRACK_TMP": [
+    "recdJzJ5CGC07dW7C"
+  ]
 },
 {
   "id": "recNcKUguXjz2XMrh",
@@ -587,7 +642,10 @@
   "ABSTRACT_EN": "On the production side we have been talking about the emergence of journo-coders: journalists (the hacks), developers (the hackers), and all sorts of geeky permutations in between. During the talk we want to investigate the intersection of journalism and civic tech. Two fields which for a long time didn’t go together, but we believe that solutions journalism is a key approach of connecting those two.",
   "TYPE": "talk",
   "ID": "65",
-  "TRACK": "追真相"
+  "TRACK": "追真相",
+  "TRACK_TMP": [
+    "recdJzJ5CGC07dW7C"
+  ]
 },
 {
   "id": "recA8S95v8Uo52JJu",
@@ -612,7 +670,10 @@
   "TITLE_EN": "READr: experiments on open journalism production (translated)",
   "TYPE": "talk",
   "ID": "37",
-  "TRACK": "追資料"
+  "TRACK": "追資料",
+  "TRACK_TMP": [
+    "recVdWKiWksC39L7X"
+  ]
 },
 {
   "id": "recTbtoJkXazxFySn",
@@ -628,7 +689,10 @@
   "ABSTRACT_EN": "Corruption happens when there is a lack of transparency. Those in power that benefit from a corrupt system do not have incentive to make data and information open and easily accessible. This talk will introduce open data and civic tech methods and resources for investigative journalists on where to look and how to make use of limited data and information to unmask government corruption at local and international level",
   "TYPE": "talk",
   "ID": "109",
-  "TRACK": "追資料"
+  "TRACK": "追資料",
+  "TRACK_TMP": [
+    "recVdWKiWksC39L7X"
+  ]
 },
 {
   "id": "recdCluNYYKimQiLS",
@@ -644,7 +708,10 @@
   "TITLE_EN": "Illegal factory and dark data (translated)",
   "TYPE": "talk",
   "ID": "114",
-  "TRACK": "追資料"
+  "TRACK": "追資料",
+  "TRACK_TMP": [
+    "recVdWKiWksC39L7X"
+  ]
 },
 {
   "id": "recQuXZfZjzeCBDoh",
@@ -669,7 +736,10 @@
   "TITLE_EN": "iTaigi: build our own dictionary (translated)",
   "TYPE": "talk",
   "ID": "38",
-  "TRACK": "分散式集結"
+  "TRACK": "分散式集結",
+  "TRACK_TMP": [
+    "recZbEtSarYiw38cz"
+  ]
 },
 {
   "id": "recuWfRYVLT01dE1I",
@@ -685,7 +755,10 @@
   "TITLE_EN": "Community-supported food production system (translated)",
   "TYPE": "talk",
   "ID": "110",
-  "TRACK": "分散式集結"
+  "TRACK": "分散式集結",
+  "TRACK_TMP": [
+    "recZbEtSarYiw38cz"
+  ]
 },
 {
   "id": "recV5q7m9Z6FsRaOJ",
@@ -701,7 +774,10 @@
   "TITLE_EN": "Environmental sensors and blockchain for reducing cost and creating incentives (translated)",
   "TYPE": "talk",
   "ID": "137",
-  "TRACK": "分散式集結"
+  "TRACK": "分散式集結",
+  "TRACK_TMP": [
+    "recZbEtSarYiw38cz"
+  ]
 },
 {
   "id": "recSWKeJcQ8PHt0Uz",
@@ -768,7 +844,10 @@
   "ABSTRACT_EN": "Mudamos (we change in Portuguese) is a mobile application that allow to sign electronically citizens’ initiative draft bills in the Brazilian context. Since the launch of the app Mudamos in March 2017, we have observed that the population has a lot of will to participate and good ideas to propose. However, despite this potential for engagement, citizens experience difficulty when transforming those ideas into draft bills to be presented to legislative houses.\n\nIn this presentation, we aim to showcase this toolbox for democratic participation, connecting cutting-edge digital innovations on electronic signatures (online) with social innovative methodologies (offline), highlighting the impact we have had throughout this period as well as the challenges faced and lessons learned.",
   "TYPE": "talk",
   "ID": "25\n",
-  "TRACK": "民主新想像"
+  "TRACK": "民主新想像",
+  "TRACK_TMP": [
+    "recYqTiyvQnIIoMIV"
+  ]
 },
 {
   "id": "recx9m7zD5cizD0f0",
@@ -784,7 +863,10 @@
   "ABSTRACT_EN": "I’d like to talk about ‘Activism and mobilization: enlarging on/offline civic spaces (public sphere) and collaboration between government and civil society’.",
   "TYPE": "talk",
   "ID": "30",
-  "TRACK": "民主新想像"
+  "TRACK": "民主新想像",
+  "TRACK_TMP": [
+    "recYqTiyvQnIIoMIV"
+  ]
 },
 {
   "id": "recqfasll9wmLIaY7",
@@ -800,7 +882,10 @@
   "TITLE_EN": "OK NTU, let’s cast e-vote!",
   "TYPE": "talk",
   "ID": "92",
-  "TRACK": "民主新想像"
+  "TRACK": "民主新想像",
+  "TRACK_TMP": [
+    "recYqTiyvQnIIoMIV"
+  ]
 },
 {
   "id": "rec3DjldV9S4xwCky",
@@ -825,7 +910,10 @@
   "TITLE_EN": "Plurality of civic tech: from Taiwan to the world and back (translated)",
   "TYPE": "talk",
   "ID": "41",
-  "TRACK": "跨境跨界"
+  "TRACK": "跨境跨界",
+  "TRACK_TMP": [
+    "recLDDKkbDGVaGu7C"
+  ]
 },
 {
   "id": "reca3OervPkPDp4W8",
@@ -843,7 +931,10 @@
   "ABSTRACT_EN": "g0v is awarded the “Prix Ars Electronica 2018 Digital Communities Award of Distinction” and invited to Ars Electronica Festival: The CyberArts Exhibition. How could a nobody’s community grow an exhibition that is capable of representing itself? This session will share the process from the initiation of the discussion through the completion of the exhibition. Work will be shown at the Summit.",
   "TYPE": "talk",
   "ID": "113",
-  "TRACK": "跨境跨界"
+  "TRACK": "跨境跨界",
+  "TRACK_TMP": [
+    "recLDDKkbDGVaGu7C"
+  ]
 },
 {
   "id": "recpf4XicDjNb83Yj",
@@ -859,7 +950,10 @@
   "ABSTRACT_EN": "The Tibetan community is one of the most targeted areas and has been the focal point of brazen computer spying network called GhostNet in the past years. It has safeguarded itself with help of open source tools and the fedora community. With examples from GhostNet, one of the biggest cyber spying network discovered yet in the world, this session gives an introductions to people how they can use Open Source to improve their security-controls, mitigate attacks and build a community to use the power of open source communities.\n\nThis sessions is an invitation to all who want to learn about the tibetan community and how they can use and integrate open source into their daily life and organizations to meet their needs. Open Source Security Test Tools and Methods are essential to provide protection and resilience unbiased from the commercial agenda´s of the security solution industry.",
   "TYPE": "talk",
   "ID": "58",
-  "TRACK": "跨境跨界"
+  "TRACK": "跨境跨界",
+  "TRACK_TMP": [
+    "recLDDKkbDGVaGu7C"
+  ]
 },
 {
   "id": "recHR4N8zPbp0qS9Y",
@@ -885,7 +979,10 @@
   "TITLE_EN": "The double helix of open and convergence: possibilities of cross-domain cooperation learning from living standard and income survey and open rental data (translated)",
   "TYPE": "talk",
   "ID": "29",
-  "TRACK": "開放資料在地篇"
+  "TRACK": "開放資料在地篇",
+  "TRACK_TMP": [
+    "recrYIbDBYQxNdnaQ"
+  ]
 },
 {
   "id": "recv3dOGqAlgfbf5J",
@@ -901,7 +998,10 @@
   "TITLE_EN": "Reducing mountain incidents with OpenStreetMap and open-source tech (translated)",
   "TYPE": "talk",
   "ID": "132",
-  "TRACK": "開放資料在地篇"
+  "TRACK": "開放資料在地篇",
+  "TRACK_TMP": [
+    "recrYIbDBYQxNdnaQ"
+  ]
 },
 {
   "id": "recaZvROyDGb0EiWg",
@@ -917,7 +1017,10 @@
   "TITLE_EN": "Agriculture product tracibility data: farm to recipes (translated)",
   "TYPE": "talk",
   "ID": "104",
-  "TRACK": "開放資料在地篇"
+  "TRACK": "開放資料在地篇",
+  "TRACK_TMP": [
+    "recrYIbDBYQxNdnaQ"
+  ]
 },
 {
   "id": "rech44MJzbbGuG5qD",
@@ -942,7 +1045,10 @@
   "TITLE_EN": "Politics of technology: reflections from National Conference on Judicial Reform (translated)",
   "TYPE": "talk",
   "ID": "32",
-  "TRACK": "群眾智慧"
+  "TRACK": "群眾智慧",
+  "TRACK_TMP": [
+    "recLuniMMZLShPSI9"
+  ]
 },
 {
   "id": "recSeGAjpaZm9OSmg",
@@ -958,7 +1064,10 @@
   "TITLE_EN": "Civic deliberation on alternatives to death panelty: an experiment on democracy (translated)",
   "TYPE": "talk",
   "ID": "62",
-  "TRACK": "群眾智慧"
+  "TRACK": "群眾智慧",
+  "TRACK_TMP": [
+    "recLuniMMZLShPSI9"
+  ]
 },
 {
   "id": "recgECkOc9M8DWlkx",
@@ -976,7 +1085,10 @@
   "TITLE_EN": "Digital participation at National Cultural Congress (translated)",
   "TYPE": "talk",
   "ID": "118",
-  "TRACK": "群眾智慧"
+  "TRACK": "群眾智慧",
+  "TRACK_TMP": [
+    "recLuniMMZLShPSI9"
+  ]
 },
 {
   "id": "recX9LcxFtiKfhxH0",
