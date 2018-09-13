@@ -89,10 +89,7 @@
   "TITLE_EN": "Data for social good: what’s the right formula?",
   "ABSTRACT_EN": "Data for Social Good refers to the applications of data science to address problems related to the social good. On the global scale, the United Nations applies data science to reach its Sustainable Development Goals (SDGs), while on the national level, governments take the same approach to make better policies and improve public services. How do you go from ideas to outcomes? How long does a project take? What are the secret ingredients for success? Are there any common pitfall? How to build public-private partnership and trust? Is there life after project completion? This panel will explore these practical topics.",
   "TYPE": "panel",
-  "ID": "31",
-  "TRACK_TMP": [
-    "recTasyLGUwI4hwXh"
-  ]
+  "ID": "31"
 },
 {
   "id": "recsBLW3IRjH2UYAI",
@@ -658,7 +655,10 @@
   "TITLE_EN": "Why Did I Delay Graduation? A Case Study of “g0v.tw” on Open-source Collaborative Citizen Engagement in Hacking Community (translated)",
   "ABSTRACT_EN": "A story about how a political science graduate delayed her graduation by choosing a too difficult topic for finding the answers of these three questions: (1) What are the motivations of g0vers to do unpaid job (aka making merit)? (2) How the open collaborative g0v way improves the convenience for civic participation? (3) Does open collaboration really reform the society? If so, what did it change? Are there things that open collaboration cannot involve?",
   "TYPE": "talk",
-  "ID": "141"
+  "ID": "141",
+  "TRACK_TMP": [
+    "recLU0Bc3DZvNsJQr"
+  ]
 },
 {
   "id": "recmaOTZSPJqDZRBr",
@@ -713,7 +713,10 @@
   "TITLE_EN": "Civic tech takes a stand",
   "ABSTRACT_EN": "For years, a debate has simmered in civic tech. Are we a small but growing movement, or a trend? Are we here to shift real power and re-define our relationship with government? Or do we accept undeniable but inherently limited victories like open source adoption and fast, responsive government websites? This question is being forced anew, as the civic tech community's success gaining influence within the governments we seek to improve has coincided with abrupt shifts in leadership at the top of the very same governments. We may find that we do have to choose which values we stand for, and that we don't all agree.",
   "TYPE": "talk",
-  "ID": "147"
+  "ID": "147",
+  "TRACK_TMP": [
+    "recLU0Bc3DZvNsJQr"
+  ]
 },
 {
   "id": "recNcKUguXjz2XMrh",
@@ -851,13 +854,14 @@
   "VENUE": "R3",
   "START": "2018-10-06T07:30:00.000Z",
   "END": "2018-10-06T07:50:00.000Z",
-  "ABSTRACT": "因為「薪資與租屋居住品質關聯調查」找資料而到 g0v 挖坑的敬舒，以及跳坑卻又開新案「開放台灣民間租屋資料」的 ddio ，一坑兩案，一邊是有時間限制，過程難以開源的研究計畫，一邊是糾結於技術與法律的開放資料專案，看似簡單的資料供需關係，因為測試需要以及資料分析的需求，讓兩邊不只是單方向的協助，而是雙向的理解與協作，也因為彼此想像的差異，開啟了更多合作的可能。除了用「發包接案」與「挖坑跳坑」來理解開源跨界專案外，這種一坑兩案，獨立卻又共同協作的模式，有沒有可能是另一種跨界合作的方法？它需要哪些條件才能成型，各自又能經驗什麼？讓我們繼續看下去⋯",
+  "ABSTRACT": "因為「薪資與租屋居住品質關聯調查」，找資料而到 g0v 挖坑的敬舒，以及跳坑卻又開新案「開放台灣民間租屋資料」的 ddio ，一坑兩案，一邊是有時間限制，過程難以開源的研究計畫，一邊是糾結於技術與法律的開放資料專案，看似簡單的資料供需關係，因為測試需要以及資料分析的需求，讓兩邊不只是單方向的協助，而是雙向的理解與協作，也因為彼此想像的差異，開啟了更多合作的可能。\n\n除了用「發包接案」與「挖坑跳坑」來理解開源跨界專案外，這種一坑兩案，獨立卻又共同協作的模式，有沒有可能是另一種跨界合作的方法？它需要哪些條件才能成型，各自又能經驗什麼？讓我們繼續看下去⋯",
   "SPEAKER": [
     "recKdOszZh2WYVYsl",
     "recmGNT7Vlty0B4vI"
   ],
   "SHOW": true,
   "TITLE_EN": "The double helix of open and convergence: possibilities of cross-domain cooperation learning from living standard and income survey and open rental data (translated)",
+  "ABSTRACT_EN": "How can open source methodology encourage collaboration in a cross-disciplinary project? In this talk, we will demonstrate how we achieved this in Taiwanese rental and salary research and how this project triggered more opportunities because of its open source nature.",
   "TYPE": "talk",
   "ID": "29",
   "TRACK": "開放資料在地篇",
@@ -1159,8 +1163,11 @@
   "END": "2018-10-07T06:10:00.000Z",
   "SHOW": true,
   "TITLE_EN": "TBA",
+  "TYPE": "talk",
   "TRACK": "開放資料國際篇",
-  "TYPE": "talk"
+  "TRACK_TMP": [
+    "recTasyLGUwI4hwXh"
+  ]
 },
 {
   "id": "recuWfRYVLT01dE1I",
