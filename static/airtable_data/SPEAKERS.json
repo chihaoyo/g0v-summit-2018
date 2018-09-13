@@ -324,7 +324,8 @@
     }
   ],
   "SCHEDULE": [
-    "rec9XLgFb49A9uG9f"
+    "rec9XLgFb49A9uG9f",
+    "recUUA6c9d2ZXVoPX"
   ],
   "TWITTER": "@ethanz",
   "TITLE1_EN": "MIT Media Lab",
@@ -3107,5 +3108,101 @@
   "BIO_EN": "Felipe Ventura is a software engineer currently based in the Bay Area.  He has fought with service workers unions like IWW 660 and SEIU for better working conditions and is currently organizing with Techqueria, a decentralized community of Latinx professionals in the tech industry with chapters across the US. ",
   "SHOW": true,
   "ID": 87,
-  "講者確認顯示名稱": "講者使用新版註冊表單自行填寫 display name"
+  "講者確認顯示名稱": "講者自填"
+},
+{
+  "id": "recOKYQeJPJAEByzp",
+  "NAME": "林祖儀",
+  "TITLE1": "沃草",
+  "SCHEDULE": [
+    "recUUA6c9d2ZXVoPX"
+  ],
+  "TITLE1_EN": "Watchout",
+  "SHOW": true,
+  "ID": 88,
+  "講者確認顯示名稱": "chihao 使用社群普遍知曉的名稱"
+},
+{
+  "id": "recFPteifYyLTINxk",
+  "NAME": "蕭舒云",
+  "ID": 89,
+  "SHOW": true,
+  "CROPPED_AVATAR": [
+    {
+      "id": "att09riV7OkwWPsTA",
+      "url": "https://dl.airtable.com/PPzrXTkWRVemJhOHuKWq_41197449_2038360399516466_1944708827387527168_o.jpg",
+      "filename": "41197449_2038360399516466_1944708827387527168_o.jpg",
+      "size": 215212,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/pgIGnBwBSGGLM7fLAusj_small_41197449_2038360399516466_1944708827387527168_o.jpg",
+          "width": 27,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/NPifPqmYTqecUOuuOaqH_large_41197449_2038360399516466_1944708827387527168_o.jpg",
+          "width": 512,
+          "height": 683
+        },
+        "full": {
+          "url": "https://dl.airtable.com/CJzkcktSGCwPKNLpKtf7_full_41197449_2038360399516466_1944708827387527168_o.jpg",
+          "width": 1108,
+          "height": 1478
+        }
+      }
+    }
+  ],
+  "BIO": "喜歡新鮮事的中年女性",
+  "SCHEDULE": [
+    "recOSeRYcF26b6Y8K"
+  ],
+  "講者確認顯示名稱": "講者自填"
+},
+{
+  "id": "recgrnNDKtY5YD6GS",
+  "NAME": "林聰賢",
+  "ID": 90,
+  "SHOW": true,
+  "CROPPED_AVATAR": [
+    {
+      "id": "attNGhVVBc2FJ2mEJ",
+      "url": "https://dl.airtable.com/zM6hQWNeRciLFxr6weh8_IMG_5351.jpg",
+      "filename": "IMG_5351.jpg",
+      "size": 209733,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/vjY2Dje0RZCl3wtdvoJ7_small_IMG_5351.jpg",
+          "width": 27,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/sB0ITaF3QAuQSelrrgsZ_large_IMG_5351.jpg",
+          "width": 512,
+          "height": 683
+        },
+        "full": {
+          "url": "https://dl.airtable.com/wPWOwtMZT0e5E0GOoN8n_full_IMG_5351.jpg",
+          "width": 1138,
+          "height": 1518
+        }
+      }
+    }
+  ],
+  "BIO": "法律扶助基金會副執行長",
+  "SCHEDULE": [
+    "recOSeRYcF26b6Y8K"
+  ],
+  "講者確認顯示名稱": "講者自填"
+},
+{
+  "id": "recxnfOAiqjIeUZbO",
+  "NAME": "待公告講者",
+  "NAME_EN": "TBA",
+  "SHOW": true,
+  "ID": 91,
+  "SCHEDULE": [
+    "recUUA6c9d2ZXVoPX"
+  ]
 }]
