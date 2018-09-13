@@ -3263,6 +3263,10 @@ module.exports = [{"id":"recN947YUAe4edDh7","TITLE":"開幕","VENUE":"ALL","STAR
 //
 //
 //
+//
+//
+//
+//
 
 
 
@@ -6323,7 +6327,7 @@ var esExports = { render: render, staticRenderFns: staticRenderFns }
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_AgendaPage_vue__ = __webpack_require__(238);
 /* unused harmony namespace reexport */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_1a16749e_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_AgendaPage_vue__ = __webpack_require__(653);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_126e85c2_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_AgendaPage_vue__ = __webpack_require__(653);
 function injectStyle (ssrContext) {
   __webpack_require__(622)
 }
@@ -6338,12 +6342,12 @@ var __vue_template_functional__ = false
 /* styles */
 var __vue_styles__ = injectStyle
 /* scopeId */
-var __vue_scopeId__ = "data-v-1a16749e"
+var __vue_scopeId__ = "data-v-126e85c2"
 /* moduleIdentifier (server only) */
 var __vue_module_identifier__ = null
 var Component = normalizeComponent(
   __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_AgendaPage_vue__["a" /* default */],
-  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_1a16749e_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_AgendaPage_vue__["a" /* default */],
+  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_126e85c2_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_AgendaPage_vue__["a" /* default */],
   __vue_template_functional__,
   __vue_styles__,
   __vue_scopeId__,
@@ -6544,7 +6548,7 @@ var esExports = { render: render, staticRenderFns: staticRenderFns }
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"grid-x align-center",attrs:{"id":"AgendaPage"}},[_c('section',{staticClass:"cell large-10",attrs:{"id":"agenda"}},[_c('CapsuleRadioButton',{attrs:{"id":"date-picker","options":_vm.dates,"lazy":"","debounce":"500"},model:{value:(_vm.activeDate),callback:function ($$v) {_vm.activeDate=$$v},expression:"activeDate"}}),_vm._v(" "),_c('ParallelAgenda',{attrs:{"agenda":_vm.schedule[_vm.activeDate],"agendum-props-mapper":_vm.agendumPropsMapper,"agendum-component":_vm.AgendumCell,"threads":['R0', 'R1', 'R2', 'R3'],"common-thread":'ALL',"agenda-key-of-thread":"VENUE","agenda-key-of-start-time":"START","agenda-key-of-end-time":"END"}})],1),_vm._v(" "),_c('section',{staticClass:"cell large-10",attrs:{"id":"maps"}},[_c('h1',[_c('TW',[_vm._v("活動會場")]),_vm._v(" "),_c('EN',[_vm._v("Venue")])],1),_vm._v(" "),_vm._m(0)])])}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"grid-x align-center",attrs:{"id":"AgendaPage"}},[_c('section',{staticClass:"cell large-10",attrs:{"id":"agenda"}},[_c('CapsuleRadioButton',{attrs:{"id":"date-picker","options":_vm.dates,"lazy":"","debounce":"500"},model:{value:(_vm.activeDate),callback:function ($$v) {_vm.activeDate=$$v},expression:"activeDate"}}),_vm._v(" "),_c('div',[_c('TW',[_vm._v(" 大會議程皆有華英語雙向即時口譯 ")]),_vm._v(" "),_c('EN',[_vm._v(" sessions will have simultaneous interpretion between English and Mandarine")])],1),_vm._v(" "),_c('ParallelAgenda',{attrs:{"agenda":_vm.schedule[_vm.activeDate],"agendum-props-mapper":_vm.agendumPropsMapper,"agendum-component":_vm.AgendumCell,"threads":['R0', 'R1', 'R2', 'R3'],"common-thread":'ALL',"agenda-key-of-thread":"VENUE","agenda-key-of-start-time":"START","agenda-key-of-end-time":"END"}})],1),_vm._v(" "),_c('section',{staticClass:"cell large-10",attrs:{"id":"maps"}},[_c('h1',[_c('TW',[_vm._v("活動會場")]),_vm._v(" "),_c('EN',[_vm._v("Venue")])],1),_vm._v(" "),_vm._m(0)])])}
 var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"text-center"},[_c('img',{staticClass:"map",attrs:{"src":__webpack_require__(654),"alt":"3F 場地圖"}}),_vm._v(" "),_c('img',{staticClass:"map",attrs:{"src":__webpack_require__(655),"alt":"4F 場地圖"}})])}]
 var esExports = { render: render, staticRenderFns: staticRenderFns }
 /* harmony default export */ __webpack_exports__["a"] = (esExports);
@@ -6827,4 +6831,4 @@ var store = new __WEBPACK_IMPORTED_MODULE_1_vuex__["a" /* default */].Store({
 
 /***/ })
 ],[246]);
-//# sourceMappingURL=app.7f3d635bc52539d051ab.js.map
+//# sourceMappingURL=app.0f4eaf4e3a9fd6d7dbaa.js.map
