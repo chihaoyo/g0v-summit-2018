@@ -2,31 +2,13 @@
 {
   "id": "rec26P2u36prFyuYM",
   "NAME": "Open Culture Foundation",
+  "CLASS": "EVANGELIST",
+  "NAME-CH": "財團法人開放文化基金會",
+  "URL": "https://ocf.tw/",
+  "SHOW": true,
+  "BIO": "Open Culture Foudation",
+  "BIO-CH": "開放文化基金會",
   "CROPPED_LOGO": [
-    {
-      "id": "attgkp5Ay0Y9vn5S3",
-      "url": "https://dl.airtable.com/YReBtbvKTomXClPuVyn4_TDR.png",
-      "filename": "TDR.png",
-      "size": 13468,
-      "type": "image/png",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/urqTHApBRhajDS14xPWl_small_TDR.png",
-          "width": 68,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/HRZneuQj2EQ01CPdZD1w_large_TDR.png",
-          "width": 263,
-          "height": 140
-        },
-        "full": {
-          "url": "https://dl.airtable.com/G4BW3NfqR2a5QxpuqiEu_full_TDR.png",
-          "width": 263,
-          "height": 140
-        }
-      }
-    },
     {
       "id": "attKZOoefsAnTs4UZ",
       "url": "https://dl.airtable.com/PVnjA7G8S1S3lIKbPbOJ_OCF-LOGO.png%20%E7%9A%84%E5%89%AF%E6%9C%AC.png",
@@ -51,13 +33,7 @@
         }
       }
     }
-  ],
-  "CLASS": "EVANGELIST",
-  "NAME-CH": "財團法人開放文化基金會",
-  "URL": "https://ocf.tw/",
-  "SHOW": true,
-  "BIO": "Open Culture Foudation",
-  "BIO-CH": "開放文化基金會"
+  ]
 },
 {
   "id": "recazVkB0fAh5ECsC",
