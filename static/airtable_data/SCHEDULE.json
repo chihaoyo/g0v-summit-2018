@@ -763,7 +763,8 @@
   "START": "2018-10-06T06:30:00.000Z",
   "END": "2018-10-06T07:00:00.000Z",
   "SHOW": true,
-  "TITLE_EN": "Questions & dialogues"
+  "TITLE_EN": "Questions & dialogues",
+  "TYPE": "qa"
 },
 {
   "id": "recA8S95v8Uo52JJu",
@@ -772,7 +773,8 @@
   "START": "2018-10-06T06:30:00.000Z",
   "END": "2018-10-06T07:00:00.000Z",
   "SHOW": true,
-  "TITLE_EN": "Questions & dialogues"
+  "TITLE_EN": "Questions & dialogues",
+  "TYPE": "qa"
 },
 {
   "id": "recHR4N8zPbp0qS9Y",
@@ -781,7 +783,8 @@
   "START": "2018-10-06T06:30:00.000Z",
   "END": "2018-10-06T07:00:00.000Z",
   "SHOW": true,
-  "TITLE_EN": "Questions & dialogues"
+  "TITLE_EN": "Questions & dialogues",
+  "TYPE": "qa"
 },
 {
   "id": "rectsbjeya1Ct7aoT",
@@ -1292,7 +1295,8 @@
   "START": "2018-10-07T06:30:00.000Z",
   "END": "2018-10-07T07:00:00.000Z",
   "SHOW": true,
-  "TITLE_EN": "Questions & dialogues"
+  "TITLE_EN": "Questions & dialogues",
+  "TYPE": "qa"
 },
 {
   "id": "recA2KpTO1vy0X05i",
@@ -1301,7 +1305,8 @@
   "START": "2018-10-07T06:30:00.000Z",
   "END": "2018-10-07T07:00:00.000Z",
   "SHOW": true,
-  "TITLE_EN": "Questions & dialogues"
+  "TITLE_EN": "Questions & dialogues",
+  "TYPE": "qa"
 },
 {
   "id": "recSWKeJcQ8PHt0Uz",
@@ -1310,7 +1315,8 @@
   "START": "2018-10-07T06:30:00.000Z",
   "END": "2018-10-07T07:00:00.000Z",
   "SHOW": true,
-  "TITLE_EN": "Questions & dialogues"
+  "TITLE_EN": "Questions & dialogues",
+  "TYPE": "qa"
 },
 {
   "id": "recX9LcxFtiKfhxH0",
@@ -1319,7 +1325,8 @@
   "START": "2018-10-07T06:30:00.000Z",
   "END": "2018-10-07T07:00:00.000Z",
   "SHOW": true,
-  "TITLE_EN": "Questions & dialogues"
+  "TITLE_EN": "Questions & dialogues",
+  "TYPE": "qa"
 },
 {
   "id": "reci8qFQiiLl5cFaU",
