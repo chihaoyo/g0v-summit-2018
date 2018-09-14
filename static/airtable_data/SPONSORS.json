@@ -55,15 +55,13 @@
   "CLASS": "EVANGELIST",
   "NAME-CH": "財團法人開放文化基金會",
   "URL": "https://ocf.tw/",
-  "SHOW": true
+  "SHOW": true,
+  "BIO": "Open Culture Foudation",
+  "BIO-CH": "開放文化基金會"
 },
 {
   "id": "recazVkB0fAh5ECsC",
   "NAME": "g0v jothon group",
-  "CLASS": "EVANGELIST",
-  "NAME-CH": "g0v 零時政府揪松團",
-  "URL": "https://hack.g0v.tw/",
-  "SHOW": true,
   "CROPPED_LOGO": [
     {
       "id": "att66mdq473w8C5tq",
@@ -89,15 +87,17 @@
         }
       }
     }
-  ]
+  ],
+  "CLASS": "EVANGELIST",
+  "NAME-CH": "g0v 零時政府揪松團",
+  "URL": "https://hack.g0v.tw/",
+  "SHOW": true,
+  "BIO": "g0v hackathon organizer",
+  "BIO-CH": "g0v 揪松團\n"
 },
 {
   "id": "recTPEUBn0NeGUYKn",
   "NAME": "Institute of Information Science, Academia Sinica",
-  "CLASS": "EVANGELIST",
-  "NAME-CH": "中央研究院資訊科學研究所",
-  "URL": "http://www.iis.sinica.edu.tw/",
-  "SHOW": true,
   "CROPPED_LOGO": [
     {
       "id": "attOh75rVVndqWbPI",
@@ -123,7 +123,13 @@
         }
       }
     }
-  ]
+  ],
+  "CLASS": "EVANGELIST",
+  "NAME-CH": "中央研究院資訊科學研究所",
+  "URL": "http://www.iis.sinica.edu.tw/",
+  "SHOW": true,
+  "BIO": "Institute of Information Science\n",
+  "BIO-CH": "中央研究院資訊所"
 },
 {
   "id": "recZYSpM3N5ijS7ET",
