@@ -1,5 +1,131 @@
 [
 {
+  "id": "rec26P2u36prFyuYM",
+  "NAME": "Open Culture Foundation",
+  "CROPPED_LOGO": [
+    {
+      "id": "attgkp5Ay0Y9vn5S3",
+      "url": "https://dl.airtable.com/YReBtbvKTomXClPuVyn4_TDR.png",
+      "filename": "TDR.png",
+      "size": 13468,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/urqTHApBRhajDS14xPWl_small_TDR.png",
+          "width": 68,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/HRZneuQj2EQ01CPdZD1w_large_TDR.png",
+          "width": 263,
+          "height": 140
+        },
+        "full": {
+          "url": "https://dl.airtable.com/G4BW3NfqR2a5QxpuqiEu_full_TDR.png",
+          "width": 263,
+          "height": 140
+        }
+      }
+    },
+    {
+      "id": "attKZOoefsAnTs4UZ",
+      "url": "https://dl.airtable.com/PVnjA7G8S1S3lIKbPbOJ_OCF-LOGO.png%20%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+      "filename": "OCF-LOGO.png 的副本.png",
+      "size": 13112,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/VCYaN9mT0eRd6N3UJWFk_small_OCF-LOGO.png%20%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/f4ulBoRRJGb6n7v3zYOj_large_OCF-LOGO.png%20%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+          "width": 512,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/tSIKvZZfRuxxjAzeHa1c_full_OCF-LOGO.png%20%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+          "width": 1024,
+          "height": 1024
+        }
+      }
+    }
+  ],
+  "CLASS": "EVANGELIST",
+  "NAME-CH": "財團法人開放文化基金會",
+  "URL": "https://ocf.tw/",
+  "SHOW": true
+},
+{
+  "id": "recazVkB0fAh5ECsC",
+  "NAME": "g0v jothon group",
+  "CLASS": "EVANGELIST",
+  "NAME-CH": "g0v 零時政府揪松團",
+  "URL": "https://hack.g0v.tw/",
+  "SHOW": true,
+  "CROPPED_LOGO": [
+    {
+      "id": "att66mdq473w8C5tq",
+      "url": "https://dl.airtable.com/FP283QJiQ1SZZ57DggeZ_jothon.jpg",
+      "filename": "jothon.jpg",
+      "size": 28274,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/XmK3kWa0Q0yYuhotUPGM_small_jothon.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/6m2kXJJfRAC7Mv3wmkB5_large_jothon.jpg",
+          "width": 500,
+          "height": 500
+        },
+        "full": {
+          "url": "https://dl.airtable.com/izThKhXsS0O9Zubo0A2M_full_jothon.jpg",
+          "width": 500,
+          "height": 500
+        }
+      }
+    }
+  ]
+},
+{
+  "id": "recTPEUBn0NeGUYKn",
+  "NAME": "Institute of Information Science, Academia Sinica",
+  "CLASS": "EVANGELIST",
+  "NAME-CH": "中央研究院資訊科學研究所",
+  "URL": "http://www.iis.sinica.edu.tw/",
+  "SHOW": true,
+  "CROPPED_LOGO": [
+    {
+      "id": "attOh75rVVndqWbPI",
+      "url": "https://dl.airtable.com/4XecB8VwSRm0NWBw4dQS_e839d8b572240d0361a3c853e6e72ea9.png",
+      "filename": "e839d8b572240d0361a3c853e6e72ea9.png",
+      "size": 16250,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/EfpJuykaQq64wjEi8Tz7_small_e839d8b572240d0361a3c853e6e72ea9.png",
+          "width": 72,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/WO3RsdHGTaKXQf6JG72p_large_e839d8b572240d0361a3c853e6e72ea9.png",
+          "width": 480,
+          "height": 240
+        },
+        "full": {
+          "url": "https://dl.airtable.com/p2GbNHf1TqWINppCRvdi_full_e839d8b572240d0361a3c853e6e72ea9.png",
+          "width": 480,
+          "height": 240
+        }
+      }
+    }
+  ]
+},
+{
   "id": "recZYSpM3N5ijS7ET",
   "NAME": "Digital Taiwan Roundtable",
   "BIO": "To enhance the competitiveness of Taiwan, we gathered people from the industry, government, universities, and research institutes to established the national “Digital Taiwan Roundtable” to bring together all the professionals and intelligence. We advocate the required adjustments of regulations and policies for digital transformation in industries and the society.  \nDigital Taiwan Roundtable is a non-profit organization. Its mission is to promote the development of digital technology in various industries and to advice the government in formulating proactive policies, in order to enhance the international competitiveness advantages in digital technology related industries. ",
@@ -601,5 +727,9 @@
   "NAME-CH": "沃草",
   "BIO-CH": "我們相信台灣可以更好，而讓台灣更好的力量，來自於更多主動參與、向外關注的公民，所以，我們致力於降低公民參與政治的門檻，提供資訊、觀點，建造各式發聲、對話的平台，讓台灣人更有力量。沃草的英文名字 Watchout，原意是提防和警戒。只要我們每個小小公民都能時時張大眼睛、提高警覺，政客就不容易為所欲為，台灣的公民社會才能茁壯。",
   "URL": "https://watchout.tw/",
+  "SHOW": true
+},
+{
+  "id": "recEZbvTwvIhA3WG7",
   "SHOW": true
 }]
