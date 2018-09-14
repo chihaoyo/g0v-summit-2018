@@ -2,43 +2,43 @@
 {
   "id": "rec26P2u36prFyuYM",
   "NAME": "Open Culture Foundation",
-  "BIO": "Open Culture Foundation",
+  "BIO": "The Open Culture Foundation (OCF), is a nonpartisan, nonprofit organization, founded in 2014 by several members of Taiwan’s open source community. Our main goal is to support local communities advocate the use of open technologies in broader sectors, including open source software, open hardware, and open data.",
   "CROPPED_LOGO": [
     {
-      "id": "attKZOoefsAnTs4UZ",
-      "url": "https://dl.airtable.com/PVnjA7G8S1S3lIKbPbOJ_OCF-LOGO.png%20%E7%9A%84%E5%89%AF%E6%9C%AC.png",
-      "filename": "OCF-LOGO.png 的副本.png",
-      "size": 13112,
+      "id": "attyxXWMztI5p074n",
+      "url": "https://dl.airtable.com/HfM6n0FrRjCKmao7V7O7_OCF.png",
+      "filename": "OCF.png",
+      "size": 31697,
       "type": "image/png",
       "thumbnails": {
         "small": {
-          "url": "https://dl.airtable.com/VCYaN9mT0eRd6N3UJWFk_small_OCF-LOGO.png%20%E7%9A%84%E5%89%AF%E6%9C%AC.png",
-          "width": 36,
+          "url": "https://dl.airtable.com/4qHF3NO4TeaAmLUYz6AF_small_OCF.png",
+          "width": 101,
           "height": 36
         },
         "large": {
-          "url": "https://dl.airtable.com/f4ulBoRRJGb6n7v3zYOj_large_OCF-LOGO.png%20%E7%9A%84%E5%89%AF%E6%9C%AC.png",
-          "width": 512,
-          "height": 512
+          "url": "https://dl.airtable.com/2uFmT94TeK2lo6FhbwhA_large_OCF.png",
+          "width": 600,
+          "height": 214
         },
         "full": {
-          "url": "https://dl.airtable.com/tSIKvZZfRuxxjAzeHa1c_full_OCF-LOGO.png%20%E7%9A%84%E5%89%AF%E6%9C%AC.png",
-          "width": 1024,
-          "height": 1024
+          "url": "https://dl.airtable.com/OggCKi5ASLmSplx9fDX3_full_OCF.png",
+          "width": 600,
+          "height": 214
         }
       }
     }
   ],
   "CLASS": "EVANGELIST",
   "NAME-CH": "財團法人開放文化基金會",
-  "BIO-CH": "開放文化基金會",
+  "BIO-CH": "財團法人開放文化基金會（Open Culture Foundation，簡稱 OCF）成立的主要目的，是希望能夠藉由法人組織的力量，協助台灣資訊軟體界的開放源碼社群，包含開放原始碼軟體、開放資料、開放政府（公民科技）。三個主要領域的發展和應用。",
   "URL": "https://ocf.tw/",
   "SHOW": true
 },
 {
   "id": "recazVkB0fAh5ECsC",
   "NAME": "g0v jothon group",
-  "BIO": "g0v hackathon organizer",
+  "BIO": "g0v hackathon organizers “jothon” is the executive team of g0v.tw bi-monthly hackathons. There are 7 persons in the team with different types of profession, like elite hackers, lawyer, NGO/NPO activist, writers, filmmakers and arts administrator. The team also work on g0v community infrastructure and launched g0v Civic Tech Prototype Grant.",
   "CROPPED_LOGO": [
     {
       "id": "att66mdq473w8C5tq",
@@ -67,14 +67,14 @@
   ],
   "CLASS": "EVANGELIST",
   "NAME-CH": "g0v 零時政府揪松團",
-  "BIO-CH": "g0v 揪松團\n",
+  "BIO-CH": "「 揪松團」是 g0v 社群籌辦雙月黑客松的工作小組，除了籌畫每雙月的百人黑客松 ( 大松 ) 外，2016 年起亦積極推動社群基礎建設，並於 2016 年底推出公民科技創新獎助金計畫。",
   "URL": "https://hack.g0v.tw/",
   "SHOW": true
 },
 {
   "id": "recTPEUBn0NeGUYKn",
   "NAME": "Institute of Information Science, Academia Sinica",
-  "BIO": "Institute of Information Science\n",
+  "BIO": " The Institute of Information Science (IIS) was formally established in September 1982 after a five-year preparation period, and is one of the eleven institutes and research centers within the Division of Mathematical and Physical Sciences. IIS presently has 39 full-time research fellows, 29 postdoctoral research fellows and over 300 full-time information technology specialists and part-time research assistants supporting research and development of information science and engineering. All members of IIS prescribe to the motto, \"Every job is a self-portrait of those who did it; autograph your work with quality,\" emphasizing excellence and synergistic teamwork effort.",
   "CROPPED_LOGO": [
     {
       "id": "attOh75rVVndqWbPI",
@@ -103,7 +103,7 @@
   ],
   "CLASS": "EVANGELIST",
   "NAME-CH": "中央研究院資訊科學研究所",
-  "BIO-CH": "中央研究院資訊所",
+  "BIO-CH": "中央研究院資訊科學研究所於 1977 年開始設立籌備處，歷經五年籌備， 於 1982 年 9 月正式成立研究所，是中央研究院數理組十一個單位之一。目前編制內有 39 位研究人員，另外有 29 位博士後研究學者，將近 300 位專任之資訊技術人員與非全時之研究助理，支援資訊領域之研究與系統之開發。「件件工作，反映自我，凡經我手，必為佳作」是全體同仁一致秉持的工作信念，重視工作之卓越品質，發揮最佳綜效之團隊精神。",
   "URL": "http://www.iis.sinica.edu.tw/",
   "SHOW": true
 },

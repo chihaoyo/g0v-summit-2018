@@ -21,7 +21,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Participation Officer System: challenges and visions (translated)",
-  "ABSTRACT_EN": "Participation officers network in Taiwanese government conduct workshops that engage diverse stakeholders to identify and define core problems, generate meaningful challenge statements, and co-create possible solutions to real issues and public projects. This process helps strengthen the quality of stakeholder collaborations and better inform our public policies. We believe that multi-stakeholder governance processes can reinforce the trust between citizens and the government.\n\nThe PO Network serves to drive cultural change; it plays a key role in Taiwan’s Open Government scene. POs are deeply involved in the conversation with civic society and governmental divisions, by tackling cross-ministerial issues with wider stakeholders openly and creatively. PO Network is a network of around 70 civil servants in the central government.",
+  "ABSTRACT_EN": "Billy would like to share our practice in relating to the ‘Participation Officers Network’ (開放政府聯絡人) and a few case studies from multi-stakeholder collaboration workshops (協作會議). This will be followed by a panel discussion featuring Billy, Fang-Jui, and Mark. People at PDIS usually debate with each other on different values, mindset, and issues. We consider it deeply important to share our group dynamic and ways of working with more people in a panel discussion set-up. We also would like to invite participants to join our debate.\n\nParticipation officers network in Taiwanese government conduct workshops that engage diverse stakeholders to identify and define core problems, generate meaningful challenge statements, and co-create possible solutions to real issues and public projects. This process helps strengthen the quality of stakeholder collaborations and better inform our public policies. We believe that multi-stakeholder governance processes can reinforce the trust between citizens and the government.\n\nThe PO Network serves to drive cultural change; it plays a key role in Taiwan’s Open Government scene. POs are deeply involved in the conversation with civic society and governmental divisions, by tackling cross-ministerial issues with wider stakeholders openly and creatively. PO Network is a network of around 70 civil servants in the central government.",
   "TYPE": "panel",
   "ID": "125"
 },
@@ -83,7 +83,8 @@
   "SPEAKER": [
     "recgrnNDKtY5YD6GS",
     "recFPteifYyLTINxk",
-    "recBWdORvLNwvcPoS"
+    "recBWdORvLNwvcPoS",
+    "recBJ58Rs0ozb1Xla"
   ],
   "SHOW": true,
   "TITLE_EN": "Data for social good: what’s the right formula?",
@@ -152,6 +153,7 @@
   "VENUE": "R0",
   "START": "2018-10-05T05:30:00.000Z",
   "END": "2018-10-05T07:00:00.000Z",
+  "ABSTRACT": "這個工作坊希望共同產出一張地圖，綜觀亞洲各地在選舉期間透過社交媒體散播負面內容的組織及活動，特別關注印度、印尼、菲律賓、泰國，並且找出我們能夠應用的觀察工具、技巧及協作方法。【譯】",
   "SPEAKER": [
     "recLc5V2T2NO7DdSf"
   ],
@@ -183,6 +185,7 @@
   "VENUE": "R2",
   "START": "2018-10-05T05:30:00.000Z",
   "END": "2018-10-05T07:00:00.000Z",
+  "ABSTRACT": "這個討論會希望能聽見在科技業內組織的勞工聲音，檢視在在地、由下而上的組織力量如何能集體面對無法監管的矽谷科技公司。更有力量的科技業工人能達成什麼？除了目前的生產方式，有沒有另類的組織，能在支持科技發展的同時，讓勞工更有力量？【譯】",
   "SPEAKER": [
     "recKdOszZh2WYVYsl",
     "recAYj0HnT0aCJtT3",
@@ -226,6 +229,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Why don’t you ask your mayor? (translated)",
+  "ABSTRACT_EN": "As local elections draw near, Watchout has introduce the “Ask Your Mayor 2018” website where citizens can ask and “push” for questions directly on the site. We have also invited all mayoral candidates to answer this questions in the same site. We believe that this can allow citizens to have better understanding of the proposed policies and be better informed when they vote, in turn changing our election culture for the better. However, it is not that simple to ask a “good question” that leads to discussion and even consensus. Watchout has been experimenting with different types of event that simulate representative democracy and facilitate forming of questions. We hope to share our methods and findings with g0v. (translated)",
   "TYPE": "workshop",
   "ID": "126"
 },
@@ -243,6 +247,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Cofacts: hands-on workshop",
+  "ABSTRACT_EN": "Do you know that chickens wouldn’t just get six legs or growth hormone out of nowhere? I know that you probably do. What about your parents? Cofacts’ database has many weird things people share via LINE. Let me show you: https://cofacts.g0v.tw/articles?before=&after=&replyRequestCount=1\n\nIn this 90-minute workshop, we will briefly share with you how Cofacts works, and for a whole hour, let us come together to reply and diss these ridiculous LINE messages. (translated)",
   "TYPE": "workshop",
   "ID": "48"
 },
@@ -301,6 +306,7 @@
   "VENUE": "ALL",
   "START": "2018-10-06T01:30:00.000Z",
   "END": "2018-10-06T02:00:00.000Z",
+  "ABSTRACT": "這是一個缺乏信任的時代。政府、企業、學校、宗教，我們不信任它們。儘管理由充足，但這樣的不信任仍然危險，也正侵蝕人們與公民社會的連結。這場演講將檢視這些不信任的來源，以及世界各地的運動者如何將不信任轉化為改變社會的力量。【譯】",
   "SPEAKER": [
     "recZ6s3SN0vHU2oEa"
   ],
@@ -348,6 +354,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "On informed discussion",
+  "ABSTRACT_EN": "What are the media, tools, and platform that facilitate understanding, discussion, and participation of public decision-making? “On informed discussion” connects Watchout, sense.tw, vTaiwan, and PDIS, and proposes a staged model of public participation from inform, discuss, to policy-making while sharing their frustrations and learning. (translated)",
   "TYPE": "panel",
   "ID": "rt1",
   "TRACK": "你的明白不是我的明白",
@@ -442,7 +449,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Examining the role of technology in the operations of Follow The Money Nigeria",
-  "ABSTRACT_EN": "This research is a critical examination of the operations and methodologies of Follow The Money, outstandingly the role and impact of technology in its strategy. It investigates how these technologies have inspired citizens to perform virtual and real time public oversight and have facilitated public spending data access/exchange.\n\nAs such, the research tries to answer the following questions: 1) How has Follow The Money evolved and what specific methodologies and approaches does it use in mobilizing communities to hold their governments to account?, 2) In what ways has Follow The Money used technology in the course of its work, what are the outcomes of such and what limitations have such tools encountered?, 3) What are the challenges being faced by the initiative and what lessons has it learnt?",
+  "ABSTRACT_EN": "Corruption, contracted transparency and poor social accountability are likely governance challenges one might find in every developing country. These phenomena are more preponderate in Sub-Saharan Africa where weak institutions cannot implement the required checks and balances necessary for effective democratic and accountable governance. As such, Connected Development through its initiative, Follow The Money (FTM), since 2012, has been at the frontline of technology driven initiatives that seek to address these aforementioned governance challenges in Nigeria (and now in other African countries). The initiative tracks government spending in rural communities for open government, service delivery and poverty reduction. More interesting is the use of technology in the operations of FTM. The initiative launched ifollowthemoney.org platform to broaden impact, decentralize its operations, mobilize citizens to follow the money themselves and exchange knowledge on FTM activities. This open source platform has recorded mass followership in just a year, with an estimate of 1400 journalists, community champions, activists, and data enthusiasts etc. In addition, the initiative has used other technology tools such as radio through FTM radio series, social media, mobile phones etc. in the course of its work. \n\nThis research is a critical examination of the operations and methodologies of Follow The Money, outstandingly the role and impact of technology in its strategy. It investigates how these technologies have inspired citizens to perform virtual and real time public oversight and have facilitated public spending data access/exchange. As such, the research tries to answer the following questions: 1). How has Follow The Money evolved and what specific methodologies and approaches does it use in mobilizing communities to hold their governments to account?, 2). In what ways has Follow The Money used technology in the course of its work, what are the outcomes of such and what limitations have such tools encountered?, 3). What are the challenges being faced by the initiative and what lessons has it learnt?",
   "TYPE": "talk",
   "ID": "77",
   "TRACK": "追金流",
@@ -499,7 +506,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Mixing together Madrid’s and Taiwan’s toolsets to improve participatory budgeting in New York City",
-  "ABSTRACT_EN": "The participatory democracy movement in the United States hasn’t swept into power via municipal elections like it did in Madrid, nor did it secure a foothold at the national level like it did in Taiwan. But what we do have is participatory budgeting programs in over a dozen US cities. Participatory Budgeting (PB) enables residents of cities to directly decide how to spend part of a public budget. New York City’s PB program is the largest in the country, allocated over $40 million, which is about .05% of the city’s budget. It’s small but it’s something. \n\nBy mixing together elements of vTaiwan’s public consultation process, Madrid’s Consul citizen-participation app, our own transparency software, our team is building an more integrated open source toolset for New York City that we hope will bring Asia, Europe and America's participatory democracy communities into closer collaboration around our shared goal of developing more transparent and participatory governments.",
+  "ABSTRACT_EN": "The participatory democracy movement in the United States hasn’t swept into power via municipal elections like it did in Madrid, nor did it secure a foothold at the national level like it did in Taiwan. But what we do have is participatory budgeting programs in over a dozen US cities. \n\nParticipatory Budgeting (PB) enables residents of cities to directly decide how to spend part of a public budget. New York City’s PB program is the largest in the country, allocated over $40 million, which is about .05% of the city’s budget. It’s small but it’s something. \n\nBy mixing together elements of vTaiwan’s public consultation process, Madrid’s Consul citizen-participation app, our own transparency software, our team is building an more integrated open source toolset for New York City that we hope will bring Asia, Europe and America's participatory democracy communities into closer collaboration around our shared goal of developing more transparent and participatory governments.",
   "TYPE": "talk",
   "ID": "85",
   "TRACK": "追金流",
@@ -613,7 +620,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Pegabot (Bot Buster): an online tool for media literacy and bot monitoring",
-  "ABSTRACT_EN": "PegaBot (Portuguese for Bot Buster) is an online platform (www.pegabot.com.br) in which users can analyze the probability of whether a social profile is a bot or not. We created a service which uses the API developed by Indiana University called Botometer. In two days, the project has gone viral in Brazil and it has been accessed by more than 200 thousand people, demonstrating there is a large demand for awareness regarding how manipulation in social media occurs. \n\nThe project has currently two parts: the online tool and the creation of comprehensive education and awareness raising materials on how bots and social media manipulation are related. We are providing media literacy materials to inform every user of our project, including in terms of legal issues and how the Judiciary is dealing with bots. We intend to share what we have learned with the use of this online tool so far and also raise further applications for it by exchanging with colleagues that might have developed other successful instruments in this sense.",
+  "ABSTRACT_EN": "PegaBot (Portuguese for Bot Buster) is an online platform (www.pegabot.com.br) in which users can analyze the probability of whether a social profile is a bot or not. We created a service which uses the API developed by Indiana University called Botometer. In two days, the project has gone viral in Brazil and it has been accessed by more than 200 thousand people, demonstrating there is a large demand for awareness regarding how manipulation in social media occurs.\n\nThe project has currently two parts: the online tool and the creation of comprehensive education and awareness raising materials on how bots and social media manipulation are related. We are providing media literacy materials to inform every user of our project, including in terms of legal issues and how the Judiciary is dealing with bots. We intend to share what we have learned with the use of this online tool so far and also raise further applications for it by exchanging with colleagues that might have developed other successful instruments in this sense.",
   "TYPE": "talk",
   "ID": "26",
   "TRACK": "追真相",
@@ -671,7 +678,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Behind-the-scenes at Indonesialeaks",
-  "ABSTRACT_EN": "IndonesiaLeaks safely connects journalistic sources with the most renowned investigative beats in Indonesia. The aim is to bring sensitive information that it in the public interest - about graft, corruption and misappropriation of funds in government and industry - to the attention of audiences, all while ensuring the safety of whistleblowers. Join us for a discussion on what makes these platforms successful and which consideration go into developing a secure whistleblower platform.",
+  "ABSTRACT_EN": "In December 2017, ten media and five civil society organisations in Indonesia joint forces with PPMN (ppmn.or.id), AJI (aji.or.id), Jaring (jaring.id) and Free Press Unlimited (www.freepressunlimited.org) to launch IndonesiaLeaks. This platform safely connects journalistic sources with the most renowned investigative beats in Indonesia. The aim is to bring sensitive information that it in the public interest - about graft, corruption and misappropriation of funds in government and industry - to the attention of audiences, all while ensuring the safety of whistleblowers.\n\nWhistleblower initiatives come in many shapes and sizes. Some - such as Public Concern at Work in the United Kingdom and House for Whistleblowers in the Netherlands - aim to provide independent information and support for (prospective) whistleblowers, while others - Publeaks in the Netherlands, Leaks.ng in Nigeria and Indonesialeaks in Indonesia - provide secure communication channels to connect prospective sources to investigative journalists. Join us for a discussion on what makes these platforms successful and which consideration go into developing a secure whistleblower platform.",
   "TYPE": "talk",
   "ID": "68",
   "TRACK": "追真相",
@@ -692,7 +699,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Grow an exhibition from the community: g0v at Ars Electronica Festival 2018 (translated)",
-  "ABSTRACT_EN": "g0v is awarded the “Prix Ars Electronica 2018 Digital Communities Award of Distinction” and invited to Ars Electronica Festival: The CyberArts Exhibition. How could a nobody’s community grow an exhibition that is capable of representing itself? This session will share the process from the initiation of the discussion through the completion of the exhibition. Work will be shown at the Summit.",
+  "ABSTRACT_EN": "g0v is awarded the “Prix Ars Electronica 2018 Digital Communities Award of Distinction” and invited to Ars Electronica Festival and the CyberArts Exhibition. How could a nobody’s community grow an exhibition that is capable of representing itself? This session will share the process from the initiation of the discussion through the completion of the exhibition. Work will be shown at the Summit.",
   "TYPE": "talk",
   "ID": "113",
   "TRACK": "跨境跨界",
@@ -748,7 +755,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Achieving community goals with open-source and Fedora",
-  "ABSTRACT_EN": "The Tibetan community is one of the most targeted areas and has been the focal point of brazen computer spying network called GhostNet in the past years. It has safeguarded itself with help of open source tools and the fedora community. With examples from GhostNet, one of the biggest cyber spying network discovered yet in the world, this session gives an introductions to people how they can use Open Source to improve their security-controls, mitigate attacks and build a community to use the power of open source communities.\n\nThis sessions is an invitation to all who want to learn about the tibetan community and how they can use and integrate open source into their daily life and organizations to meet their needs. Open Source Security Test Tools and Methods are essential to provide protection and resilience unbiased from the commercial agenda´s of the security solution industry.",
+  "ABSTRACT_EN": "The Tibetan community is one of the most targeted areas and has been the focal point of brazen computer spying network called GhostNet in the past years. It has safeguarded itself with help of open source tools and the fedora community.\n\nWith examples from GhostNet, one of the biggest cyber spying network discovered yet in the world, this session gives an introductions to people how they can use Open Source to improve their security-controls, mitigate attacks and build a community to use the power of open source communities. This sessions is an invitation to all who want to learn about the tibetan community and how they can use and integrate open source into their daily life and organizations to meet their needs.\n\nOpen Source Security Test Tools and Methods are essential to provide protection and resilience unbiased from the commercial agenda´s of the security solution industry.",
   "TYPE": "talk",
   "ID": "58",
   "TRACK": "跨境跨界",
@@ -838,7 +845,7 @@
   "VENUE": "R2",
   "START": "2018-10-06T07:30:00.000Z",
   "END": "2018-10-06T07:50:00.000Z",
-  "ABSTRACT": "一反過往的新聞製作流程，READr 是一個全新的媒體實驗。我們嘗試從新聞的產製流程中進行改變，讓新聞編輯室變得更開放，我們嘗試在新聞產製的過程中，將可供檢視的資料與素材盡可能公開。在新聞製作的流程中，盡可能遵循 open source projects 的原則： Release early, release often 。",
+  "ABSTRACT": "一反過往的新聞製作流程，READr 是一個全新的媒體實驗。我們嘗試從新聞的產製流程中進行改變，讓新聞編輯室變得更開放，我們嘗試在新聞產製的過程中，將可供檢視的資料與素材盡可能公開。在新聞製作的流程中，盡可能遵循 open source projects 的原則：「Release early, release often」。",
   "SPEAKER": [
     "recR3u8mf860neBej"
   ],
@@ -1107,7 +1114,7 @@
   "VENUE": "R2",
   "START": "2018-10-07T05:30:00.000Z",
   "END": "2018-10-07T05:50:00.000Z",
-  "ABSTRACT": "在語言復振過程中，如果缺少一部大型的台語線上辭典，我們能不能自己編？「iTaigi 愛台語」實踐全民參與、協作、開源、先承認你就是沒有人的精神，經過一年開發、兩年營運，使用人次已超越八十七萬還會再更高！且來聽聽工程師、創意者與台語人，如何攜手合作、貢獻各自的專長，開發一個有趣又好用的查詢工具，搭配社群網站的教學與推廣，讓過去曾被汙名化的本土台語，重新走到時代尖端。",
+  "ABSTRACT": "在語言復振過程中，如果缺少一部大型的台語線上辭典，我們能不能自己編？「iTaigi愛台語」實踐全民參與、協作、開源、先承認你就是沒有人的精神，經過1年開發、2年營運，使用人次已超越87萬還會再更高！且來聽聽工程師、創意者與台語人，如何攜手合作、貢獻各自的專長，開發一個有趣又好用的查詢工具，搭配社群網站的教學與推廣，讓過去曾被汙名化的本土台語，重新走到時代尖端。",
   "SPEAKER": [
     "recRKavcd0VT0nLrW"
   ],
@@ -1348,7 +1355,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Civic tech scenario in Myanmar",
-  "ABSTRACT_EN": "How a small community of civic tech in Myanmar tackles challenges of data availability and promote accessibility of government (and parliamentary) data to citizens.",
+  "ABSTRACT_EN": "How a small community of civic tech in Myanmar tackles challenges of data availability and promote accessibility of government (and parliamentary) data to citizens?",
   "TYPE": "keynote",
   "ID": "k6"
 },

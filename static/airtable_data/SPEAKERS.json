@@ -90,85 +90,6 @@
   "講者確認顯示名稱": "chihao 使用社群普遍知曉的名稱"
 },
 {
-  "id": "recVGZtysFMFUOc7z",
-  "NAME": "Billion",
-  "TITLE1": "真的假的",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attWK50sVPH2HAdyZ",
-      "url": "https://dl.airtable.com/p2KSgSnDTy2sS62DyJJI_51.jpg",
-      "filename": "51.jpg",
-      "size": 885148,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/s3VRLviLTAG31ZkxbZ6P_small_51.jpg",
-          "width": 27,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/D9SlqHk6RiWiUoFEhnLc_large_51.jpg",
-          "width": 512,
-          "height": 683
-        },
-        "full": {
-          "url": "https://dl.airtable.com/168ZdRieS5W6CUTGXUit_full_51.jpg",
-          "width": 2250,
-          "height": 3000
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recVjYuDM4U3JT6FB"
-  ],
-  "BIO": "我是一隻鶴。在 Cofacts 真的假的裡當 17+N 歲的少女，負責每日庶務。我們做了一個 LINE 上的聊天機器人，讓 chatbot 天天幫你查證文章突破同溫層。",
-  "TITLE1_EN": "Cofacts",
-  "BIO_EN": "Contributed to Cofacts, we do fact-checking and meet-up every 2 month. Cofacts is a collaborative system connecting instant messages and fact-check reports together. ",
-  "SHOW": true,
-  "ID": 51,
-  "講者確認顯示名稱": "chihao 使用提案資料"
-},
-{
-  "id": "rec0TKRSNGB54Un4A",
-  "NAME": "Chambers Umezulike",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attC0naWchpYUp5h5",
-      "url": "https://dl.airtable.com/gm99jEB2TieVmZ1cxIYw_20.jpg",
-      "filename": "20.jpg",
-      "size": 27720,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/2JwaYED2TqWctYRhPQSJ_small_20.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/6wgoplELSjGguEVtY3yH_large_20.jpg",
-          "width": 400,
-          "height": 400
-        },
-        "full": {
-          "url": "https://dl.airtable.com/aikSK9ImRIsgoREL3AzQ_full_20.jpg",
-          "width": 400,
-          "height": 400
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recy9mlCDrx2rE63H"
-  ],
-  "TWITTER": "@prof_umezulike",
-  "TITLE1_EN": "Connected Development (Follow The Money)",
-  "BIO_EN": "I am a Development Expert, Civil Society Practitioner and Academic Researcher. I am currently the senior programme manager at Connected Development, a Nigeria based NGO, where under my leadership, the organization through its Follow The Money Initiative has tracked government/international aid spending in rural communities to promote and ensure open government and service delivery. As at March 2018, the initiative has impacted an estimate of 600,000 rural lives, across 50 communities in over 20 Nigerian states through making sure that primary healthcare, education and clean water interventions meant for communities are implemented through effective public oversight. The organization won the ONE Africa 2016 Award which recognizes, rewards, and advances the exceptional work of African-based organisations; dedicated to helping the continent achieve the Sustainable Development Goals. I have a Masters in International Studies, Economic Governance, and Development from the University of Nairobi, Kenya.",
-  "SHOW": true,
-  "ID": 20,
-  "講者確認顯示名稱": "chihao 使用提案資料"
-},
-{
   "id": "reccWqim81Bs8oWNN",
   "NAME": "Daniel Gillis",
   "CROPPED_AVATAR": [
@@ -320,46 +241,6 @@
   "BIO_EN": "Debora Albu holds an MSc in Gender, Development and Globalization from the London School of Economics and Political Science, in the UK, being awarded with a Chevening scholarship. She holds a B.A. in International Relations from the Pontifical Catholic University Rio de Janeiro (PUC-Rio). She has worked in the areas of activism, youth and public policy at Amnesty International and at University of Youth. Debora was project and communications manager at the Center for International Relations at Getulio Vargas Foundation (FGV). She writes for independent online channels and develops research in democracy and technology, digital activism and gender studies. She is a researcher at the Democracy and Technology area at the Institute for Technology and Society.",
   "SHOW": true,
   "ID": 7,
-  "講者確認顯示名稱": "chihao 使用講者介紹內文"
-},
-{
-  "id": "recoOnkLZXpl72MZC",
-  "NAME": "Derek Alton",
-  "TITLE1": "加拿大政府",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attATADl9KkHUR5Pc",
-      "url": "https://dl.airtable.com/eCszyzA4QZujvchQJI17_83.jpg",
-      "filename": "83.jpg",
-      "size": 26560,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/JBEr5QMzSfm5aguv19bB_small_83.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/k5vYaqeDSCiffG2uyPQO_large_83.jpg",
-          "width": 400,
-          "height": 400
-        },
-        "full": {
-          "url": "https://dl.airtable.com/6ZP8NSzTy24HzWlMzPDZ_full_83.jpg",
-          "width": 400,
-          "height": 400
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recst4GJ61s2kNAVL"
-  ],
-  "TWITTER": "@DerekAlton",
-  "TITLE1_EN": "Government of Canada",
-  "BIO_EN": "As a community organizer and democratic activist for the past 10 years, Derek Alton is a passionate change maker. He is currently a Strategic Partnerships Specialist for the Digital Collaboration team with the Government of Canada. Derek and the team along with partners across the globe are creating a digital public space constructed on the foundations of open source platforms. It currently operates at the intersection of open international government (policy) and digital government movements (technology) where organizations are working together to build the space - together.\n\nThe digital public space is a major step toward a more innovative and open way of identifying and co-creating programs, engagements, and research across the globe. It is designed for co-creation in all forms, but more importantly, it demonstrates the beginning of a cultural shift of horizontal governance and decision-making.",
-  "SHOW": true,
-  "ID": 85,
   "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
@@ -518,84 +399,6 @@
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
-  "id": "rec8iFD4IwvAYxqgg",
-  "NAME": "Felipe Ventura",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attLN4p7WrPJBZ0mG",
-      "url": "https://dl.airtable.com/uCuMcwHqT2uqwrxtmTYJ_1316570.png",
-      "filename": "1316570.png",
-      "size": 239428,
-      "type": "image/png",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/58nEhxB7QEesMfTKPL2u_small_1316570.png",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/t8yg7IFKTcSwu7sLFPkq_large_1316570.png",
-          "width": 400,
-          "height": 400
-        },
-        "full": {
-          "url": "https://dl.airtable.com/wQ7FS69ATcKOwbetEW0P_full_1316570.png",
-          "width": 400,
-          "height": 400
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recLLsXbJtwdxLeTc"
-  ],
-  "TWITTER": "@fvntr",
-  "BIO_EN": "Felipe Ventura is a software engineer currently based in the Bay Area.  He has fought with service workers unions like IWW 660 and SEIU for better working conditions and is currently organizing with Techqueria, a decentralized community of Latinx professionals in the tech industry with chapters across the US. ",
-  "SHOW": true,
-  "ID": 87,
-  "講者確認顯示名稱": "講者自填"
-},
-{
-  "id": "recLcBKTDWdZ5n4xp",
-  "NAME": "g0v 公民科技創新獎助金 2018 獲獎團隊",
-  "TITLE1": "g0v 揪松團",
-  "CROPPED_AVATAR": [
-    {
-      "id": "att3I2KaCzi15CE5N",
-      "url": "https://dl.airtable.com/49HwdJ0DTxSCkBIxy1td_power.png",
-      "filename": "power.png",
-      "size": 13493,
-      "type": "image/png",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/YjJsOTlQDOvHxE6DTeeO_small_power.png",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/oOqbrDakRiWnSKsrJ1ct_large_power.png",
-          "width": 400,
-          "height": 400
-        },
-        "full": {
-          "url": "https://dl.airtable.com/GcraAW8ESk2z9ZEbScTM_full_power.png",
-          "width": 400,
-          "height": 400
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recL6A9ldkzf03s84"
-  ],
-  "BIO": "揪松團是主辦大黑客松與基礎松的工作小組（task force），2012 年底開始舉辦雙月大松，由 clkao、ipa 處理大松行政事務。2014 年後取名為「揪松團」（jothon group），並於 2016 年增加人手，重啟社群基礎建設計畫，希望在大黑客松之餘，線上線下跨界協作更為順暢。2017 年起籌辦 g0v 公民科技創新獎助金（Civic Tech Prototype Grant）。目前揪松團成員有 clkao、ipa、kirby、ttcat、isabel、ronnywang、bess。",
-  "NAME_EN": "g0v Civic Tech Prototype Grant 2018 Grantees",
-  "TITLE1_EN": "g0v jothon",
-  "SHOW": true,
-  "ID": 82,
-  "講者確認顯示名稱": "chihao 不是自然人無需確認"
-},
-{
   "id": "recnhc4F92g5WVIeO",
   "NAME": "Heather Leson",
   "CROPPED_AVATAR": [
@@ -674,44 +477,6 @@
   "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
-  "id": "recaEPlfSKCXGhARi",
-  "NAME": "Isabel Hou",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attIrJyLaTydMa54D",
-      "url": "https://dl.airtable.com/TsoNpcQTZWbESvZdBBlx_36.jpg",
-      "filename": "36.jpg",
-      "size": 216678,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/SiMPtFPYTcayzTN68sgA_small_36.jpg",
-          "width": 27,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/kvqnTBzgTjCOQM62yylg_large_36.jpg",
-          "width": 512,
-          "height": 681
-        },
-        "full": {
-          "url": "https://dl.airtable.com/KuoM59HRfSOceo34zEns_full_36.jpg",
-          "width": 1539,
-          "height": 2048
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "rec0ztQhg9drkVcry"
-  ],
-  "TITLE1_EN": "g0v",
-  "BIO_EN": "Isabel Hou is the legal counsel of “g0v jothon” and also a seasoned attorney focusing on technological innovation and intellectual property law since 1997. Isabel has served as a legal counsel for various government programs, NGOs, and open source/culture communities.",
-  "SHOW": true,
-  "ID": 36,
-  "講者確認顯示名稱": "chihao 使用提案資料"
-},
-{
   "id": "recpV3eneiwuftznn",
   "NAME": "Jakub Górnicki",
   "CROPPED_AVATAR": [
@@ -749,45 +514,6 @@
   "SHOW": true,
   "ID": 15,
   "講者確認顯示名稱": "chihao 使用提案資料"
-},
-{
-  "id": "recoPjDqLYy2tRPmT",
-  "NAME": "Johnson Liang",
-  "TITLE1": "真的假的",
-  "CROPPED_AVATAR": [
-    {
-      "id": "att71NXDmyxcq3If0",
-      "url": "https://dl.airtable.com/93IOcw0tROWZboj4a3p1_57.jpg",
-      "filename": "57.jpg",
-      "size": 98281,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/mQCxHznPQT6ftiZTK07S_small_57.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/jyi7OqaORDGvnt2zDgFj_large_57.jpg",
-          "width": 320,
-          "height": 320
-        },
-        "full": {
-          "url": "https://dl.airtable.com/SgxI5kOScKaaxyGyAvyA_full_57.jpg",
-          "width": 320,
-          "height": 320
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recVjYuDM4U3JT6FB"
-  ],
-  "TITLE1_EN": "Cofacts",
-  "BIO_EN": "I am...\n\n- A web developer that works at an Internet company as a day job.\n\n- An open-sourced civic tech supporter, participated & founded several projects that facilitates civic participation of democracy.\n\n- Going to present Cofacts, the voluntary project I have founded in mid 2016. Cofacts is a fact-checking system leveraging chatbots and crowd-sourced reports to help connecting different perspectives. For more information, please visit: http://bit.ly/cofacts-quickstart",
-  "SHOW": true,
-  "ID": 57,
-  "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
   "id": "recLc5V2T2NO7DdSf",
@@ -866,45 +592,6 @@
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
-  "id": "recRKavcd0VT0nLrW",
-  "NAME": "Liz",
-  "TITLE1": "iTaigi",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attb4XKYAXWovUaeo",
-      "url": "https://dl.airtable.com/Tzl4Wu9MRz5PsrDN0SDb_52.jpg",
-      "filename": "52.jpg",
-      "size": 7468,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/RxcSIPQXOY8H1stNW1Lg_small_52.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/ZJyUJjDjQ8aZdiLO4hm8_large_52.jpg",
-          "width": 140,
-          "height": 140
-        },
-        "full": {
-          "url": "https://dl.airtable.com/WnYszqbkTfWgKzd5ELkb_full_52.jpg",
-          "width": 140,
-          "height": 140
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "rec9jdNPjk3C6BGs9"
-  ],
-  "BIO": "iTaigi 愛台語坑主，台語工作者，民視台灣學堂「講台語當著時」主講，過去是教育部台語辭典 ê 編輯。一逝 code 都袂曉寫，煞愛做佮 data 有關係 ê 工課，會做甲家己袂收山。",
-  "TITLE1_EN": "iTaigi",
-  "SHOW": true,
-  "ID": 52,
-  "講者確認顯示名稱": "chihao 使用提案資料"
-},
-{
   "id": "recZHMe8yDYZnkztc",
   "NAME": "Lucien Lee",
   "CROPPED_AVATAR": [
@@ -940,6 +627,45 @@
   "SHOW": true,
   "ID": 19,
   "講者確認顯示名稱": "chihao 使用社群普遍知曉的名稱"
+},
+{
+  "id": "rec0TKRSNGB54Un4A",
+  "NAME": "Chambers Umezulike",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attC0naWchpYUp5h5",
+      "url": "https://dl.airtable.com/gm99jEB2TieVmZ1cxIYw_20.jpg",
+      "filename": "20.jpg",
+      "size": 27720,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/2JwaYED2TqWctYRhPQSJ_small_20.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/6wgoplELSjGguEVtY3yH_large_20.jpg",
+          "width": 400,
+          "height": 400
+        },
+        "full": {
+          "url": "https://dl.airtable.com/aikSK9ImRIsgoREL3AzQ_full_20.jpg",
+          "width": 400,
+          "height": 400
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recy9mlCDrx2rE63H"
+  ],
+  "TWITTER": "@prof_umezulike",
+  "TITLE1_EN": "Connected Development (Follow The Money)",
+  "BIO_EN": "I am a Development Expert, Civil Society Practitioner and Academic Researcher. I am currently the senior programme manager at Connected Development, a Nigeria based NGO, where under my leadership, the organization through its Follow The Money Initiative has tracked government/international aid spending in rural communities to promote and ensure open government and service delivery. As at March 2018, the initiative has impacted an estimate of 600,000 rural lives, across 50 communities in over 20 Nigerian states through making sure that primary healthcare, education and clean water interventions meant for communities are implemented through effective public oversight. The organization won the ONE Africa 2016 Award which recognizes, rewards, and advances the exceptional work of African-based organisations; dedicated to helping the continent achieve the Sustainable Development Goals. I have a Masters in International Studies, Economic Governance, and Development from the University of Nairobi, Kenya.",
+  "SHOW": true,
+  "ID": 20,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recelnCDwt3n7oglC",
@@ -1059,85 +785,6 @@
   "講者確認顯示名稱": "chihao 使用講者介紹內文"
 },
 {
-  "id": "recnQtXAKHhIkSvG0",
-  "NAME": "Merci Kuo",
-  "TITLE1": "女人迷／#CodeforGender",
-  "CROPPED_AVATAR": [
-    {
-      "id": "att8ImdwZ8AjSW6ze",
-      "url": "https://dl.airtable.com/iUtxDKQhT22oTr2O2sid_71.jpg",
-      "filename": "71.jpg",
-      "size": 367865,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/Pe1ogdAlRpllpjG1flVS_small_71.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/Kn0KpH2VSleXVCPJGNfV_large_71.jpg",
-          "width": 512,
-          "height": 512
-        },
-        "full": {
-          "url": "https://dl.airtable.com/F2tSDOhZS1GXWinsEB8i_full_71.jpg",
-          "width": 1200,
-          "height": 1200
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recc415V4ubnKQuWS"
-  ],
-  "BIO": "女人迷服務設計師，#codeforgender 負責人。實踐性別友善至日常生活，從引領女人迷網頁改版，到領導舉辦 2016 年首屆性別暴力防治駭客松，身為「女人迷日報」app 設計師，期待自己能創造啟發他人的美好時刻。",
-  "TITLE1_EN": "Womany／#CodeforGender",
-  "BIO_EN": "Merci is the service designer at Womany, and the initiator of #CodeforGender where she leads meetups, workshops, hackathons, seeking the combination of technology with gender issue.",
-  "SHOW": true,
-  "ID": 71,
-  "講者確認顯示名稱": "chihao 使用講者確認通信內容"
-},
-{
-  "id": "recbBOxy3jaIK3cyb",
-  "NAME": "MH",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attOyQ3Khn8FdrvnD",
-      "url": "https://dl.airtable.com/zO15fUc5RRiKXKeRgfs8_67.jpg",
-      "filename": "67.jpg",
-      "size": 45532,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/FMcCKRYqR4C5aPpL3ga6_small_67.jpg",
-          "width": 55,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/sAo859xRKurPeUfvyamY_large_67.jpg",
-          "width": 782,
-          "height": 512
-        },
-        "full": {
-          "url": "https://dl.airtable.com/WgQe3BtCT4uCd2IXghHo_full_67.jpg",
-          "width": 1314,
-          "height": 860
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recOgBGMx8wUyB0km"
-  ],
-  "BIO": "台灣公務革新力量聯盟理事長",
-  "TITLE1_EN": "Taiwan Civil Service Innovation Coalition",
-  "BIO_EN": "President of “Taiwan Civil Service Innovation Coalition”, an NGO in Taiwan. ",
-  "SHOW": true,
-  "ID": 67,
-  "講者確認顯示名稱": "chihao 使用提案資料"
-},
-{
   "id": "rec0Bkn0y6gAe3FIx",
   "NAME": "Michael Canares",
   "CROPPED_AVATAR": [
@@ -1214,6 +861,45 @@
   "SHOW": true,
   "ID": 25,
   "講者確認顯示名稱": "chihao 使用提案資料"
+},
+{
+  "id": "recwvllr6PPtSaFbv",
+  "NAME": "sweemeng",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attvGv5g5fmA2tmxB",
+      "url": "https://dl.airtable.com/JhDabbAsRqaErmWan10C_26.jpg",
+      "filename": "26.jpg",
+      "size": 22107,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/UlnKlnPT8SKN4w88VJfa_small_26.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/NETg4WZqS6646xmdWv7w_large_26.jpg",
+          "width": 239,
+          "height": 240
+        },
+        "full": {
+          "url": "https://dl.airtable.com/iqRQ1SPSKOlAOyNSuuLx_full_26.jpg",
+          "width": 239,
+          "height": 240
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recTbtoJkXazxFySn"
+  ],
+  "TWITTER": "@sweemeng",
+  "TITLE1_EN": "Sinar Project",
+  "BIO_EN": "I am the software developer/sysadmin for Sinar Project. ",
+  "SHOW": true,
+  "ID": 26,
+  "講者確認顯示名稱": "chihao 使用 Twitter handle"
 },
 {
   "id": "recYtkmjDq8Doi8ON",
@@ -1371,85 +1057,6 @@
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
-  "id": "rec0D27XWg69ZmSKU",
-  "NAME": "Pellaeon",
-  "TITLE1": "開放文化基金會",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attsCSVOD7XgLN8Me",
-      "url": "https://dl.airtable.com/UNiogSh0S4eQLN7sUs75_53.jpg",
-      "filename": "53.jpg",
-      "size": 22633,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/swLXhF0vQXSF0znuY0Yh_small_53.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/noLEVyBoQYa4BHUy33Lp_large_53.jpg",
-          "width": 400,
-          "height": 400
-        },
-        "full": {
-          "url": "https://dl.airtable.com/9NSqTFlFSIuLDfVU8Lzq_full_53.jpg",
-          "width": 400,
-          "height": 400
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recsBLW3IRjH2UYAI"
-  ],
-  "BIO": "在開放文化基金會推廣資安與隱私。參與台灣自由開源軟體社群 COSCUP、SITCON 和資安社群 HITCON。嗜好是修自己平常踩到的軟體 bug 和研究各種技術，曾經貢獻過的大型專案有 ownCloud 和 bsd-cloudinit 。",
-  "TITLE1_EN": "Open Culture Foundation (OCF)",
-  "BIO_EN": "Pellaeon works to promote information security and privacy at Open Culture Foundation, Taiwan. He also participates in local FOSS and infosec communities and have contributed to many FOSS projects.",
-  "SHOW": true,
-  "ID": 53,
-  "講者確認顯示名稱": "chihao 使用提案資料"
-},
-{
-  "id": "recwvllr6PPtSaFbv",
-  "NAME": "sweemeng",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attvGv5g5fmA2tmxB",
-      "url": "https://dl.airtable.com/JhDabbAsRqaErmWan10C_26.jpg",
-      "filename": "26.jpg",
-      "size": 22107,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/UlnKlnPT8SKN4w88VJfa_small_26.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/NETg4WZqS6646xmdWv7w_large_26.jpg",
-          "width": 239,
-          "height": 240
-        },
-        "full": {
-          "url": "https://dl.airtable.com/iqRQ1SPSKOlAOyNSuuLx_full_26.jpg",
-          "width": 239,
-          "height": 240
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recTbtoJkXazxFySn"
-  ],
-  "TWITTER": "@sweemeng",
-  "TITLE1_EN": "Sinar Project",
-  "BIO_EN": "I am the software developer/sysadmin for Sinar Project. ",
-  "SHOW": true,
-  "ID": 26,
-  "講者確認顯示名稱": "chihao 使用 Twitter handle"
-},
-{
   "id": "recllab2Ompnjts23",
   "NAME": "Tenzin Chokden",
   "CROPPED_AVATAR": [
@@ -1502,48 +1109,91 @@
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
-  "id": "rechVSn8f4piEwap2",
-  "NAME": "Wong Ho Wa",
+  "id": "recIbn1v0V4skUfiR",
+  "NAME": "金錦珍",
   "CROPPED_AVATAR": [
     {
-      "id": "attManfYNGqCmSW9p",
-      "url": "https://dl.airtable.com/hXkm7a3gQ6iHuVdOY1B8_79.jpg",
-      "filename": "79.jpg",
-      "size": 104979,
+      "id": "atttO7aRcL6gzQAya",
+      "url": "https://dl.airtable.com/Ju0uD5QWQUiVGA9D79oo_33.jpg",
+      "filename": "33.jpg",
+      "size": 159636,
       "type": "image/jpeg",
       "thumbnails": {
         "small": {
-          "url": "https://dl.airtable.com/S0WCMqPDTNKf1Iugo9CA_small_79.jpg",
-          "width": 20,
+          "url": "https://dl.airtable.com/gvZzbX5RMCZyCXu2YYBG_small_33.jpg",
+          "width": 27,
           "height": 36
         },
         "large": {
-          "url": "https://dl.airtable.com/wnB5A2zqTv2LjmV9si92_large_79.jpg",
+          "url": "https://dl.airtable.com/Xtj4OC9TNx6UMM03lGNg_large_33.jpg",
           "width": 512,
-          "height": 910
+          "height": 683
         },
         "full": {
-          "url": "https://dl.airtable.com/9ksmQ0VJRUWogeJ4GqTQ_full_79.jpg",
-          "width": 900,
-          "height": 1600
+          "url": "https://dl.airtable.com/ca4N70LVRxCJ5AvmMYuT_full_33.jpg",
+          "width": 1204,
+          "height": 1606
         }
       }
     }
   ],
   "SCHEDULE": [
-    "rec9GyqUkNeaN0n21"
+    "recx9m7zD5cizD0f0"
   ],
-  "BIO": "軟件工程師，Python 開發者，g0vhk.io 發起人，倡議開放數據",
-  "TITLE1_EN": "g0vhk.io",
-  "BIO_EN": "A brief summary to existing civic tech  community and project including PopVote, Civic Data HK, g0vhk.io, collaction.hk and Open Culture Station",
+  "BIO": "大家好！很高興認識您。我叫金錦珍，我有一隻狗，我愛他。我喜歡吃鳳梨酥，哈哈。",
+  "TWITTER": "@partiunion",
+  "NAME_EN": "GJ",
+  "TITLE1_EN": "Parti (partiunion.org)",
+  "BIO_EN": "A democracy activist at Parti. GJ delivers Parti's value, thoughts and action with stories. (partiunion.org)  She likes to know and experience things she matters: dogs and people, feminism, organizing, a technology which can change society, and blockchain. She's been working in a social sector since 2014. ",
   "SHOW": true,
-  "ID": 81,
-  "講者確認顯示名稱": "chihao 使用提案資料"
+  "ID": 33,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
+},
+{
+  "id": "rec1SFvUpwBhHKA1O",
+  "NAME": "子魚",
+  "TITLE1": "vTaiwan／g0v 參與者",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attOaBYrwGL7D8CRQ",
+      "url": "https://dl.airtable.com/Kugbj9XJTgCf5NJAmo06_34.jpg",
+      "filename": "34.jpg",
+      "size": 133407,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/RkaRp0pTQNya4gNYKYZE_small_34.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/uCo0V3oRzhPvOSZ63ECg_large_34.jpg",
+          "width": 512,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/sTsJDwJzSXa6AHLvrSMk_full_34.jpg",
+          "width": 1358,
+          "height": 1358
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recLfBAHIGGQTN3sU"
+  ],
+  "BIO": "毫無反應就只是個自我滿足的宅宅，在 vTaiwan 的坑中無法自拔的 g0ver。",
+  "TWITTER": "@2kanyo",
+  "NAME_EN": "ky（Lisa）",
+  "TITLE1_EN": "vTaiwan, g0ver",
+  "SHOW": true,
+  "ID": 34,
+  "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
   "id": "rec57RLl4fgkRPGhU",
   "NAME": "何明諠",
-  "TITLE1": "台灣人權促進會（Taiwan Association for Human Rights）",
+  "TITLE1": "台灣人權促進會",
   "CROPPED_AVATAR": [
     {
       "id": "attZhLFxcp3ljxYIs",
@@ -1574,8 +1224,47 @@
     "recChJ7rfdqB0oDjm"
   ],
   "BIO": "清華大學電機系、哲學所畢業。儘管人生看似嚴重錯頻，但台權會的工作似乎又巧妙地結合兩者。從事台權會工作至今，被迫不停質疑網際網路表面上的生態運作（特別是使用者隱私與言論背後的運作機制），可能已無法再回到過往的使用者狀態，但又隱隱覺得或許這才是一個健康的狀態也說不定。",
+  "TITLE1_EN": "Taiwan Association for Human Rights",
   "SHOW": true,
   "ID": 35,
+  "講者確認顯示名稱": "chihao 使用提案資料"
+},
+{
+  "id": "recaEPlfSKCXGhARi",
+  "NAME": "Isabel Hou",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attIrJyLaTydMa54D",
+      "url": "https://dl.airtable.com/TsoNpcQTZWbESvZdBBlx_36.jpg",
+      "filename": "36.jpg",
+      "size": 216678,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/SiMPtFPYTcayzTN68sgA_small_36.jpg",
+          "width": 27,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/kvqnTBzgTjCOQM62yylg_large_36.jpg",
+          "width": 512,
+          "height": 681
+        },
+        "full": {
+          "url": "https://dl.airtable.com/KuoM59HRfSOceo34zEns_full_36.jpg",
+          "width": 1539,
+          "height": 2048
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "rec0ztQhg9drkVcry"
+  ],
+  "TITLE1_EN": "g0v",
+  "BIO_EN": "Isabel Hou is the legal counsel of “g0v jothon” and also a seasoned attorney focusing on technological innovation and intellectual property law since 1997. Isabel has served as a legal counsel for various government programs, NGOs, and open source/culture communities.",
+  "SHOW": true,
+  "ID": 36,
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
@@ -1659,6 +1348,46 @@
   "SHOW": true,
   "ID": 38,
   "講者確認顯示名稱": "chihao 使用提案資料"
+},
+{
+  "id": "reczQF85qNDNCKzZx",
+  "NAME": "宇庭",
+  "CROPPED_AVATAR": [
+    {
+      "id": "att78dlZ2MXp7TsrX",
+      "url": "https://dl.airtable.com/FFxYGeIQUK8itDeGxOOQ_39.jpg",
+      "filename": "39.jpg",
+      "size": 25268,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/0p0qh4hDSpC4NBDzXl81_small_39.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/C0GIJStZQ66faPVMeTEA_large_39.jpg",
+          "width": 512,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/fozz91L5TYG8s2RdFhYb_full_39.jpg",
+          "width": 1024,
+          "height": 1024
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recsBLW3IRjH2UYAI"
+  ],
+  "TWITTER": "@yutin1987",
+  "NAME_EN": "YuTin",
+  "TITLE1_EN": "g0v.tw",
+  "BIO_EN": "YuTin, g0v contributor start from the 2012 year, also an internet programmer, and cloud architect. For now a chief officer in a company, focus #OpenGov #OpenSource #news.",
+  "SHOW": true,
+  "ID": 39,
+  "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
   "id": "recw0dp1q0utTdExr",
@@ -1764,87 +1493,6 @@
   "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
-  "id": "rec1SFvUpwBhHKA1O",
-  "NAME": "子魚",
-  "TITLE1": "vTaiwan／g0v 參與者",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attOaBYrwGL7D8CRQ",
-      "url": "https://dl.airtable.com/Kugbj9XJTgCf5NJAmo06_34.jpg",
-      "filename": "34.jpg",
-      "size": 133407,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/RkaRp0pTQNya4gNYKYZE_small_34.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/uCo0V3oRzhPvOSZ63ECg_large_34.jpg",
-          "width": 512,
-          "height": 512
-        },
-        "full": {
-          "url": "https://dl.airtable.com/sTsJDwJzSXa6AHLvrSMk_full_34.jpg",
-          "width": 1358,
-          "height": 1358
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recLfBAHIGGQTN3sU"
-  ],
-  "BIO": "毫無反應就只是個自我滿足的宅宅，在 vTaiwan 的坑中無法自拔的 g0ver。",
-  "TWITTER": "@2kanyo",
-  "NAME_EN": "ky（Lisa）",
-  "TITLE1_EN": "vTaiwan, g0ver",
-  "SHOW": true,
-  "ID": 34,
-  "講者確認顯示名稱": "chihao 訊息確認"
-},
-{
-  "id": "reczQF85qNDNCKzZx",
-  "NAME": "宇庭",
-  "CROPPED_AVATAR": [
-    {
-      "id": "att78dlZ2MXp7TsrX",
-      "url": "https://dl.airtable.com/FFxYGeIQUK8itDeGxOOQ_39.jpg",
-      "filename": "39.jpg",
-      "size": 25268,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/0p0qh4hDSpC4NBDzXl81_small_39.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/C0GIJStZQ66faPVMeTEA_large_39.jpg",
-          "width": 512,
-          "height": 512
-        },
-        "full": {
-          "url": "https://dl.airtable.com/fozz91L5TYG8s2RdFhYb_full_39.jpg",
-          "width": 1024,
-          "height": 1024
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recsBLW3IRjH2UYAI"
-  ],
-  "TWITTER": "@yutin1987",
-  "NAME_EN": "YuTin",
-  "TITLE1_EN": "g0v.tw",
-  "BIO_EN": "YuTin, g0v contributor start from the 2012 year, also an internet programmer, and cloud architect. For now a chief officer in a company, focus #OpenGov #OpenSource #news.",
-  "SHOW": true,
-  "ID": 39,
-  "講者確認顯示名稱": "chihao 訊息確認"
-},
-{
   "id": "rec1AWg17nLsPJ04t",
   "NAME": "崔竟",
   "TITLE1": "守語者聾人事務所",
@@ -1878,6 +1526,7 @@
     "rec8swyLkJ1OJpOOx"
   ],
   "BIO": "守语者（ProSigner）成立于中国武汉市，未来希望向整个亚洲拓展。创办人之一崔竟，来自聋人家庭的聋人，经历“聋人文化”的冲击而扭转人生，当过教师、咖啡馆老板，现为法律研究机构的助理研究员。",
+  "TITLE1_EN": "ProSigner",
   "SHOW": true,
   "ID": 43,
   "講者確認顯示名稱": "chihao 使用講者介紹內文"
@@ -1917,6 +1566,7 @@
   ],
   "BIO": "社團法人台灣數位科技與政策協進會理事，叡揚資訊股份有限公司董事長。創立國內第一家 100% 營收以軟體及服務為業務之叡揚資訊公司，帶領團隊建立軟體工程機制及專案管理方法論，努力建立軟體、服務、知識有價之觀念，建構開拓國際市場的機制與組織，成功進入大陸及日本市場。",
   "NAME_EN": "Perry Chang",
+  "TITLE1_EN": "Digital Taiwan Roundtable",
   "SHOW": true,
   "ID": 44,
   "講者確認顯示名稱": "chihao & pm5 http://www.mgt.ncu.edu.tw/~ckfarn/doc/20100506GSS_Perry_talk.pdf"
@@ -2003,16 +1653,6 @@
   "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
-  "id": "recxnfOAiqjIeUZbO",
-  "NAME": "待公告講者",
-  "SCHEDULE": [
-    "recUUA6c9d2ZXVoPX"
-  ],
-  "NAME_EN": "TBA",
-  "SHOW": true,
-  "ID": 91
-},
-{
   "id": "rec6sMP9TwkIQYfEk",
   "NAME": "戴君翰",
   "TITLE1": "公共數位創新空間",
@@ -2089,46 +1729,6 @@
   "NAME_EN": "Poyu Tseng",
   "SHOW": true,
   "ID": 48,
-  "講者確認顯示名稱": "chihao 訊息確認"
-},
-{
-  "id": "recAYj0HnT0aCJtT3",
-  "NAME": "李仲庭",
-  "TITLE1": "地下勞動合作社",
-  "CROPPED_AVATAR": [
-    {
-      "id": "att0hlwRiympB6Vrp",
-      "url": "https://dl.airtable.com/cXWqNzdmQ022NRIpqfjk_81.jpg",
-      "filename": "81.jpg",
-      "size": 48331,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/kuwdfbS3RzyKlfUZhuYO_small_81.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/B011LedcRoaoI6DYxOs0_large_81.jpg",
-          "width": 512,
-          "height": 512
-        },
-        "full": {
-          "url": "https://dl.airtable.com/DbW9TeJpQtuIgByB4ORj_full_81.jpg",
-          "width": 984,
-          "height": 984
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recLLsXbJtwdxLeTc"
-  ],
-  "BIO": "臺北都會裡安貧樂道的自由工作者；目前是地下勞動合作社負責人，也曾在社運團體、社福機構、資訊公司負責營運管理、研究發展、系統導入等工作。學思背景是社會學與公共行政，實踐領域是社會經濟（Social Economy）與合作社運動、社區營造等，喜歡思考經濟事業如何以人為本、創造社群共好。",
-  "NAME_EN": "Lee, Zhong-ting",
-  "TITLE1_EN": "Underground Worker Co-op.",
-  "SHOW": true,
-  "ID": 83,
   "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
@@ -2215,53 +1815,123 @@
   "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
-  "id": "recOKYQeJPJAEByzp",
-  "NAME": "林祖儀",
-  "TITLE1": "沃草",
-  "SCHEDULE": [
-    "recUUA6c9d2ZXVoPX"
-  ],
-  "TITLE1_EN": "Watchout",
-  "SHOW": true,
-  "ID": 88,
-  "講者確認顯示名稱": "chihao 使用社群普遍知曉的名稱"
-},
-{
-  "id": "recgrnNDKtY5YD6GS",
-  "NAME": "林聰賢",
+  "id": "recVGZtysFMFUOc7z",
+  "NAME": "Billion",
+  "TITLE1": "真的假的",
   "CROPPED_AVATAR": [
     {
-      "id": "attNGhVVBc2FJ2mEJ",
-      "url": "https://dl.airtable.com/zM6hQWNeRciLFxr6weh8_IMG_5351.jpg",
-      "filename": "IMG_5351.jpg",
-      "size": 209733,
+      "id": "attWK50sVPH2HAdyZ",
+      "url": "https://dl.airtable.com/p2KSgSnDTy2sS62DyJJI_51.jpg",
+      "filename": "51.jpg",
+      "size": 885148,
       "type": "image/jpeg",
       "thumbnails": {
         "small": {
-          "url": "https://dl.airtable.com/vjY2Dje0RZCl3wtdvoJ7_small_IMG_5351.jpg",
+          "url": "https://dl.airtable.com/s3VRLviLTAG31ZkxbZ6P_small_51.jpg",
           "width": 27,
           "height": 36
         },
         "large": {
-          "url": "https://dl.airtable.com/sB0ITaF3QAuQSelrrgsZ_large_IMG_5351.jpg",
+          "url": "https://dl.airtable.com/D9SlqHk6RiWiUoFEhnLc_large_51.jpg",
           "width": 512,
           "height": 683
         },
         "full": {
-          "url": "https://dl.airtable.com/wPWOwtMZT0e5E0GOoN8n_full_IMG_5351.jpg",
-          "width": 1138,
-          "height": 1518
+          "url": "https://dl.airtable.com/168ZdRieS5W6CUTGXUit_full_51.jpg",
+          "width": 2250,
+          "height": 3000
         }
       }
     }
   ],
   "SCHEDULE": [
-    "recOSeRYcF26b6Y8K"
+    "recVjYuDM4U3JT6FB"
   ],
-  "BIO": "法律扶助基金會副執行長",
+  "BIO": "我是一隻鶴。在 Cofacts 真的假的裡當 17+N 歲的少女，負責每日庶務。我們做了一個 LINE 上的聊天機器人，讓 chatbot 天天幫你查證文章突破同溫層。",
+  "TITLE1_EN": "Cofacts",
+  "BIO_EN": "Contributed to Cofacts, we do fact-checking and meet-up every 2 month. Cofacts is a collaborative system connecting instant messages and fact-check reports together. ",
   "SHOW": true,
-  "ID": 90,
-  "講者確認顯示名稱": "講者自填"
+  "ID": 51,
+  "講者確認顯示名稱": "chihao 使用提案資料"
+},
+{
+  "id": "recRKavcd0VT0nLrW",
+  "NAME": "Liz",
+  "TITLE1": "iTaigi",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attb4XKYAXWovUaeo",
+      "url": "https://dl.airtable.com/Tzl4Wu9MRz5PsrDN0SDb_52.jpg",
+      "filename": "52.jpg",
+      "size": 7468,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/RxcSIPQXOY8H1stNW1Lg_small_52.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/ZJyUJjDjQ8aZdiLO4hm8_large_52.jpg",
+          "width": 140,
+          "height": 140
+        },
+        "full": {
+          "url": "https://dl.airtable.com/WnYszqbkTfWgKzd5ELkb_full_52.jpg",
+          "width": 140,
+          "height": 140
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "rec9jdNPjk3C6BGs9"
+  ],
+  "BIO": "iTaigi 愛台語坑主，台語工作者，民視台灣學堂「講台語當著時」主講，過去是教育部台語辭典 ê 編輯。一逝 code 都袂曉寫，煞愛做佮 data 有關係 ê 工課，會做甲家己袂收山。",
+  "TITLE1_EN": "iTaigi",
+  "SHOW": true,
+  "ID": 52,
+  "講者確認顯示名稱": "chihao 使用提案資料"
+},
+{
+  "id": "rec0D27XWg69ZmSKU",
+  "NAME": "Pellaeon",
+  "TITLE1": "開放文化基金會",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attsCSVOD7XgLN8Me",
+      "url": "https://dl.airtable.com/UNiogSh0S4eQLN7sUs75_53.jpg",
+      "filename": "53.jpg",
+      "size": 22633,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/swLXhF0vQXSF0znuY0Yh_small_53.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/noLEVyBoQYa4BHUy33Lp_large_53.jpg",
+          "width": 400,
+          "height": 400
+        },
+        "full": {
+          "url": "https://dl.airtable.com/9NSqTFlFSIuLDfVU8Lzq_full_53.jpg",
+          "width": 400,
+          "height": 400
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recsBLW3IRjH2UYAI"
+  ],
+  "BIO": "在開放文化基金會推廣資安與隱私。參與台灣自由開源軟體社群 COSCUP、SITCON 和資安社群 HITCON。嗜好是修自己平常踩到的軟體 bug 和研究各種技術，曾經貢獻過的大型專案有 ownCloud 和 bsd-cloudinit 。",
+  "TITLE1_EN": "Open Culture Foundation (OCF)",
+  "BIO_EN": "Pellaeon works to promote information security and privacy at Open Culture Foundation, Taiwan. He also participates in local FOSS and infosec communities and have contributed to many FOSS projects.",
+  "SHOW": true,
+  "ID": 53,
+  "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
   "id": "recj60tXpMRloe4of",
@@ -2301,6 +1971,47 @@
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
+  "id": "recc0wWf8wLD5q6r5",
+  "NAME": "雨蒼",
+  "TITLE1": "公共數位創新空間",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attWGnTBJ3MYIeGjt",
+      "url": "https://dl.airtable.com/U1PYN20hQ5OGYsxTTNjx_55.jpg",
+      "filename": "55.jpg",
+      "size": 52731,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/gbDTbw3DScWrvLQo52gQ_small_55.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/dUOjbArVQ4iegyAj8dfC_large_55.jpg",
+          "width": 512,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/rk6C2XvSY2Cn3veP7ijw_full_55.jpg",
+          "width": 682,
+          "height": 682
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recEQLdDq2Sg9uRLa"
+  ],
+  "BIO": "自由軟體工作者、公民記者，目前於 PDIS 擔任研究員。",
+  "TWITTER": "@billy3321",
+  "NAME_EN": "Billy Zhe-Wei Lin",
+  "TITLE1_EN": "PDIS",
+  "SHOW": true,
+  "ID": 55,
+  "講者確認顯示名稱": "chihao 訊息確認"
+},
+{
   "id": "reciJNxqBVuM3rizq",
   "NAME": "柯惠晴",
   "TITLE1": "台灣古厝再生協會",
@@ -2337,6 +2048,45 @@
   "SHOW": true,
   "ID": 56,
   "講者確認顯示名稱": "chihao 使用提案資料"
+},
+{
+  "id": "recoPjDqLYy2tRPmT",
+  "NAME": "Johnson Liang",
+  "TITLE1": "真的假的",
+  "CROPPED_AVATAR": [
+    {
+      "id": "att71NXDmyxcq3If0",
+      "url": "https://dl.airtable.com/93IOcw0tROWZboj4a3p1_57.jpg",
+      "filename": "57.jpg",
+      "size": 98281,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/mQCxHznPQT6ftiZTK07S_small_57.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/jyi7OqaORDGvnt2zDgFj_large_57.jpg",
+          "width": 320,
+          "height": 320
+        },
+        "full": {
+          "url": "https://dl.airtable.com/SgxI5kOScKaaxyGyAvyA_full_57.jpg",
+          "width": 320,
+          "height": 320
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recVjYuDM4U3JT6FB"
+  ],
+  "TITLE1_EN": "Cofacts",
+  "BIO_EN": "I am...\n\n- A web developer that works at an Internet company as a day job.\n\n- An open-sourced civic tech supporter, participated & founded several projects that facilitates civic participation of democracy.\n\n- Going to present Cofacts, the voluntary project I have founded in mid 2016. Cofacts is a fact-checking system leveraging chatbots and crowd-sourced reports to help connecting different perspectives. For more information, please visit: http://bit.ly/cofacts-quickstart",
+  "SHOW": true,
+  "ID": 57,
+  "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
   "id": "recNapxxGYhwY2GCa",
@@ -2414,6 +2164,7 @@
   ],
   "BIO": "曾任媒體記者、國會助理、NPO政策研究與倡議專員、公平稅改聯盟發言人。現任台灣勞工陣線研究部主任、貧窮經濟研究室研究員。研究議題包含勞動貧窮、社會經濟、勞動合作社、社會企業、稅制政策。",
   "NAME_EN": "Ching-Shu Hung",
+  "TITLE1_EN": "Taiwan Labour Front",
   "SHOW": true,
   "ID": 59,
   "講者確認顯示名稱": "chihao email 確認"
@@ -2705,6 +2456,45 @@
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
+  "id": "recbBOxy3jaIK3cyb",
+  "NAME": "MH",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attOyQ3Khn8FdrvnD",
+      "url": "https://dl.airtable.com/zO15fUc5RRiKXKeRgfs8_67.jpg",
+      "filename": "67.jpg",
+      "size": 45532,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/FMcCKRYqR4C5aPpL3ga6_small_67.jpg",
+          "width": 55,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/sAo859xRKurPeUfvyamY_large_67.jpg",
+          "width": 782,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/WgQe3BtCT4uCd2IXghHo_full_67.jpg",
+          "width": 1314,
+          "height": 860
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recOgBGMx8wUyB0km"
+  ],
+  "BIO": "台灣公務革新力量聯盟理事長",
+  "TITLE1_EN": "Taiwan Civil Service Innovation Coalition",
+  "BIO_EN": "President of “Taiwan Civil Service Innovation Coalition”, an NGO in Taiwan. ",
+  "SHOW": true,
+  "ID": 67,
+  "講者確認顯示名稱": "chihao 使用提案資料"
+},
+{
   "id": "recuZeZzSMseFu8qc",
   "NAME": "蔡淳任",
   "TITLE1": "台灣文化政策研究學會",
@@ -2786,43 +2576,6 @@
   "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
-  "id": "recFPteifYyLTINxk",
-  "NAME": "蕭舒云",
-  "CROPPED_AVATAR": [
-    {
-      "id": "att09riV7OkwWPsTA",
-      "url": "https://dl.airtable.com/PPzrXTkWRVemJhOHuKWq_41197449_2038360399516466_1944708827387527168_o.jpg",
-      "filename": "41197449_2038360399516466_1944708827387527168_o.jpg",
-      "size": 215212,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/pgIGnBwBSGGLM7fLAusj_small_41197449_2038360399516466_1944708827387527168_o.jpg",
-          "width": 27,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/NPifPqmYTqecUOuuOaqH_large_41197449_2038360399516466_1944708827387527168_o.jpg",
-          "width": 512,
-          "height": 683
-        },
-        "full": {
-          "url": "https://dl.airtable.com/CJzkcktSGCwPKNLpKtf7_full_41197449_2038360399516466_1944708827387527168_o.jpg",
-          "width": 1108,
-          "height": 1478
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recOSeRYcF26b6Y8K"
-  ],
-  "BIO": "喜歡新鮮事的中年女性",
-  "SHOW": true,
-  "ID": 89,
-  "講者確認顯示名稱": "講者自填"
-},
-{
   "id": "recuiPDrKMeiAhWpt",
   "NAME": "許恩恩",
   "TITLE1": "台灣廢除死刑推動聯盟\n",
@@ -2856,9 +2609,50 @@
     "recSeGAjpaZm9OSmg"
   ],
   "BIO": "曾任北大翻牆社社長、公民憲政推動聯盟執行秘書。現為台灣廢除死刑推動聯盟「死刑替代方案公民審議」專案志工。",
+  "TITLE1_EN": "Taiwan Alliance to End the Death Penalty",
   "SHOW": true,
   "ID": 70,
   "講者確認顯示名稱": "chihao 使用提案資料"
+},
+{
+  "id": "recnQtXAKHhIkSvG0",
+  "NAME": "Merci Kuo",
+  "TITLE1": "女人迷／#CodeforGender",
+  "CROPPED_AVATAR": [
+    {
+      "id": "att8ImdwZ8AjSW6ze",
+      "url": "https://dl.airtable.com/iUtxDKQhT22oTr2O2sid_71.jpg",
+      "filename": "71.jpg",
+      "size": 367865,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/Pe1ogdAlRpllpjG1flVS_small_71.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/Kn0KpH2VSleXVCPJGNfV_large_71.jpg",
+          "width": 512,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/F2tSDOhZS1GXWinsEB8i_full_71.jpg",
+          "width": 1200,
+          "height": 1200
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recc415V4ubnKQuWS"
+  ],
+  "BIO": "女人迷服務設計師，#codeforgender 負責人。實踐性別友善至日常生活，從引領女人迷網頁改版，到領導舉辦 2016 年首屆性別暴力防治駭客松，身為「女人迷日報」app 設計師，期待自己能創造啟發他人的美好時刻。",
+  "TITLE1_EN": "Womany／#CodeforGender",
+  "BIO_EN": "Merci is the service designer at Womany, and the initiator of #CodeforGender where she leads meetups, workshops, hackathons, seeking the combination of technology with gender issue.",
+  "SHOW": true,
+  "ID": 71,
+  "講者確認顯示名稱": "chihao 使用講者確認通信內容"
 },
 {
   "id": "recWpEskTXG8rJPzd",
@@ -2942,47 +2736,6 @@
   "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
-  "id": "recIbn1v0V4skUfiR",
-  "NAME": "金錦珍",
-  "CROPPED_AVATAR": [
-    {
-      "id": "atttO7aRcL6gzQAya",
-      "url": "https://dl.airtable.com/Ju0uD5QWQUiVGA9D79oo_33.jpg",
-      "filename": "33.jpg",
-      "size": 159636,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/gvZzbX5RMCZyCXu2YYBG_small_33.jpg",
-          "width": 27,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/Xtj4OC9TNx6UMM03lGNg_large_33.jpg",
-          "width": 512,
-          "height": 683
-        },
-        "full": {
-          "url": "https://dl.airtable.com/ca4N70LVRxCJ5AvmMYuT_full_33.jpg",
-          "width": 1204,
-          "height": 1606
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recx9m7zD5cizD0f0"
-  ],
-  "BIO": "大家好！很高興認識您。我叫金錦珍，我有一隻狗，我愛他。我喜歡吃鳳梨酥，哈哈。",
-  "TWITTER": "@partiunion",
-  "NAME_EN": "GJ",
-  "TITLE1_EN": "Parti (partiunion.org)",
-  "BIO_EN": "A democracy activist at Parti. GJ delivers Parti's value, thoughts and action with stories. (partiunion.org)  She likes to know and experience things she matters: dogs and people, feminism, organizing, a technology which can change society, and blockchain. She's been working in a social sector since 2014. ",
-  "SHOW": true,
-  "ID": 33,
-  "講者確認顯示名稱": "chihao 使用講者介紹內文"
-},
-{
   "id": "rec0n0z8TeiOz7gGE",
   "NAME": "関治之",
   "CROPPED_AVATAR": [
@@ -3061,45 +2814,6 @@
   "講者確認顯示名稱": "chihao 使用提案資料"
 },
 {
-  "id": "rec0yvNWwvUecnquS",
-  "NAME": "陳志銘",
-  "TITLE1": "台北市政府",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attF7cXLj0siotBwa",
-      "url": "https://dl.airtable.com/sbjmDEUIROwxZVkQC9im_82.jpg",
-      "filename": "82.jpg",
-      "size": 99263,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/jawj0XRoRhiS5LO41dQw_small_82.jpg",
-          "width": 48,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/xbc41F9WR8yKxfHN8lpE_large_82.jpg",
-          "width": 679,
-          "height": 512
-        },
-        "full": {
-          "url": "https://dl.airtable.com/IO87L7PQZuFAy6EIyjQQ_full_82.jpg",
-          "width": 1011,
-          "height": 762
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recovSgrDUaLle3CD"
-  ],
-  "BIO": "一個求學時期從未想過會去當公務人員，只因一次高考及格的意外插曲，就讓自己走上這條難以回頭之路，也成為許多人眼中的「非典型」公務員。因為敢於夢想、勇於挑戰，堅持相信人不該被傳統框架所束縛，而是要有能力去突破既定思維，打造可以因應時代變遷的新作法。",
-  "NAME_EN": "Chih-Ming Chen",
-  "SHOW": true,
-  "ID": 84,
-  "講者確認顯示名稱": "chihao email 確認"
-},
-{
   "id": "recydfxQaZ6fCeZfJ",
   "NAME": "陳玩臻",
   "TITLE1": "守語者",
@@ -3137,47 +2851,6 @@
   "SHOW": true,
   "ID": 78,
   "講者確認顯示名稱": "chihao 使用講者介紹內文"
-},
-{
-  "id": "recc0wWf8wLD5q6r5",
-  "NAME": "雨蒼",
-  "TITLE1": "公共數位創新空間",
-  "CROPPED_AVATAR": [
-    {
-      "id": "attWGnTBJ3MYIeGjt",
-      "url": "https://dl.airtable.com/U1PYN20hQ5OGYsxTTNjx_55.jpg",
-      "filename": "55.jpg",
-      "size": 52731,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/gbDTbw3DScWrvLQo52gQ_small_55.jpg",
-          "width": 36,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/dUOjbArVQ4iegyAj8dfC_large_55.jpg",
-          "width": 512,
-          "height": 512
-        },
-        "full": {
-          "url": "https://dl.airtable.com/rk6C2XvSY2Cn3veP7ijw_full_55.jpg",
-          "width": 682,
-          "height": 682
-        }
-      }
-    }
-  ],
-  "SCHEDULE": [
-    "recEQLdDq2Sg9uRLa"
-  ],
-  "BIO": "自由軟體工作者、公民記者，目前於 PDIS 擔任研究員。",
-  "TWITTER": "@billy3321",
-  "NAME_EN": "Billy Zhe-Wei Lin",
-  "TITLE1_EN": "PDIS",
-  "SHOW": true,
-  "ID": 55,
-  "講者確認顯示名稱": "chihao 訊息確認"
 },
 {
   "id": "rec2oDPPgckNj6lZ5",
@@ -3254,7 +2927,406 @@
   "BIO": "成功大學資訊工程系助理教授，網上慣稱是「jserv」，專注於系統軟體開發。歷任聯發科技、台達電子、鴻海科技集團，和工研院的技術顧問，並長期貢獻於開放原始碼。",
   "TWITTER": "@jserv",
   "NAME_EN": "jserv",
+  "TITLE1_EN": "National Cheng Kung University, Taiwan",
   "SHOW": true,
   "ID": 80,
   "講者確認顯示名稱": "chihao 使用提案資料"
+},
+{
+  "id": "rechVSn8f4piEwap2",
+  "NAME": "Wong Ho Wa",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attManfYNGqCmSW9p",
+      "url": "https://dl.airtable.com/hXkm7a3gQ6iHuVdOY1B8_79.jpg",
+      "filename": "79.jpg",
+      "size": 104979,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/S0WCMqPDTNKf1Iugo9CA_small_79.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/wnB5A2zqTv2LjmV9si92_large_79.jpg",
+          "width": 512,
+          "height": 910
+        },
+        "full": {
+          "url": "https://dl.airtable.com/9ksmQ0VJRUWogeJ4GqTQ_full_79.jpg",
+          "width": 900,
+          "height": 1600
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "rec9GyqUkNeaN0n21"
+  ],
+  "BIO": "軟件工程師，Python 開發者，g0vhk.io 發起人，倡議開放數據",
+  "TITLE1_EN": "g0vhk.io",
+  "BIO_EN": "A brief summary to existing civic tech  community and project including PopVote, Civic Data HK, g0vhk.io, collaction.hk and Open Culture Station",
+  "SHOW": true,
+  "ID": 81,
+  "講者確認顯示名稱": "chihao 使用提案資料"
+},
+{
+  "id": "recLcBKTDWdZ5n4xp",
+  "NAME": "g0v 公民科技創新獎助金 2018 獲獎團隊",
+  "TITLE1": "g0v 揪松團",
+  "CROPPED_AVATAR": [
+    {
+      "id": "att3I2KaCzi15CE5N",
+      "url": "https://dl.airtable.com/49HwdJ0DTxSCkBIxy1td_power.png",
+      "filename": "power.png",
+      "size": 13493,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/YjJsOTlQDOvHxE6DTeeO_small_power.png",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/oOqbrDakRiWnSKsrJ1ct_large_power.png",
+          "width": 400,
+          "height": 400
+        },
+        "full": {
+          "url": "https://dl.airtable.com/GcraAW8ESk2z9ZEbScTM_full_power.png",
+          "width": 400,
+          "height": 400
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recL6A9ldkzf03s84"
+  ],
+  "BIO": "揪松團是主辦大黑客松與基礎松的工作小組（task force），2012 年底開始舉辦雙月大松，由 clkao、ipa 處理大松行政事務。2014 年後取名為「揪松團」（jothon group），並於 2016 年增加人手，重啟社群基礎建設計畫，希望在大黑客松之餘，線上線下跨界協作更為順暢。2017 年起籌辦 g0v 公民科技創新獎助金（Civic Tech Prototype Grant）。目前揪松團成員有 clkao、ipa、kirby、ttcat、isabel、ronnywang、bess。",
+  "NAME_EN": "g0v Civic Tech Prototype Grant 2018 Grantees",
+  "TITLE1_EN": "g0v jothon",
+  "SHOW": true,
+  "ID": 82,
+  "講者確認顯示名稱": "chihao 不是自然人無需確認"
+},
+{
+  "id": "recAYj0HnT0aCJtT3",
+  "NAME": "李仲庭",
+  "TITLE1": "地下勞動合作社",
+  "CROPPED_AVATAR": [
+    {
+      "id": "att0hlwRiympB6Vrp",
+      "url": "https://dl.airtable.com/cXWqNzdmQ022NRIpqfjk_81.jpg",
+      "filename": "81.jpg",
+      "size": 48331,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/kuwdfbS3RzyKlfUZhuYO_small_81.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/B011LedcRoaoI6DYxOs0_large_81.jpg",
+          "width": 512,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/DbW9TeJpQtuIgByB4ORj_full_81.jpg",
+          "width": 984,
+          "height": 984
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recLLsXbJtwdxLeTc"
+  ],
+  "BIO": "臺北都會裡安貧樂道的自由工作者；目前是地下勞動合作社負責人，也曾在社運團體、社福機構、資訊公司負責營運管理、研究發展、系統導入等工作。學思背景是社會學與公共行政，實踐領域是社會經濟（Social Economy）與合作社運動、社區營造等，喜歡思考經濟事業如何以人為本、創造社群共好。",
+  "NAME_EN": "Lee, Zhong-ting",
+  "TITLE1_EN": "Underground Worker Co-op.",
+  "SHOW": true,
+  "ID": 83,
+  "講者確認顯示名稱": "chihao 訊息確認"
+},
+{
+  "id": "rec0yvNWwvUecnquS",
+  "NAME": "陳志銘",
+  "TITLE1": "台北市政府",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attF7cXLj0siotBwa",
+      "url": "https://dl.airtable.com/sbjmDEUIROwxZVkQC9im_82.jpg",
+      "filename": "82.jpg",
+      "size": 99263,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/jawj0XRoRhiS5LO41dQw_small_82.jpg",
+          "width": 48,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/xbc41F9WR8yKxfHN8lpE_large_82.jpg",
+          "width": 679,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/IO87L7PQZuFAy6EIyjQQ_full_82.jpg",
+          "width": 1011,
+          "height": 762
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recovSgrDUaLle3CD"
+  ],
+  "BIO": "一個求學時期從未想過會去當公務人員，只因一次高考及格的意外插曲，就讓自己走上這條難以回頭之路，也成為許多人眼中的「非典型」公務員。因為敢於夢想、勇於挑戰，堅持相信人不該被傳統框架所束縛，而是要有能力去突破既定思維，打造可以因應時代變遷的新作法。",
+  "NAME_EN": "Chih-Ming Chen",
+  "TITLE1_EN": "Taipei City Government",
+  "SHOW": true,
+  "ID": 84,
+  "講者確認顯示名稱": "chihao email 確認"
+},
+{
+  "id": "recoOnkLZXpl72MZC",
+  "NAME": "Derek Alton",
+  "TITLE1": "加拿大政府",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attATADl9KkHUR5Pc",
+      "url": "https://dl.airtable.com/eCszyzA4QZujvchQJI17_83.jpg",
+      "filename": "83.jpg",
+      "size": 26560,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/JBEr5QMzSfm5aguv19bB_small_83.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/k5vYaqeDSCiffG2uyPQO_large_83.jpg",
+          "width": 400,
+          "height": 400
+        },
+        "full": {
+          "url": "https://dl.airtable.com/6ZP8NSzTy24HzWlMzPDZ_full_83.jpg",
+          "width": 400,
+          "height": 400
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recst4GJ61s2kNAVL"
+  ],
+  "TWITTER": "@DerekAlton",
+  "TITLE1_EN": "Government of Canada",
+  "BIO_EN": "As a community organizer and democratic activist for the past 10 years, Derek Alton is a passionate change maker. He is currently a Strategic Partnerships Specialist for the Digital Collaboration team with the Government of Canada. Derek and the team along with partners across the globe are creating a digital public space constructed on the foundations of open source platforms. It currently operates at the intersection of open international government (policy) and digital government movements (technology) where organizations are working together to build the space - together.\n\nThe digital public space is a major step toward a more innovative and open way of identifying and co-creating programs, engagements, and research across the globe. It is designed for co-creation in all forms, but more importantly, it demonstrates the beginning of a cultural shift of horizontal governance and decision-making.",
+  "SHOW": true,
+  "ID": 85,
+  "講者確認顯示名稱": "chihao 使用講者介紹內文"
+},
+{
+  "id": "rec8iFD4IwvAYxqgg",
+  "NAME": "Felipe Ventura",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attLN4p7WrPJBZ0mG",
+      "url": "https://dl.airtable.com/uCuMcwHqT2uqwrxtmTYJ_1316570.png",
+      "filename": "1316570.png",
+      "size": 239428,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/58nEhxB7QEesMfTKPL2u_small_1316570.png",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/t8yg7IFKTcSwu7sLFPkq_large_1316570.png",
+          "width": 400,
+          "height": 400
+        },
+        "full": {
+          "url": "https://dl.airtable.com/wQ7FS69ATcKOwbetEW0P_full_1316570.png",
+          "width": 400,
+          "height": 400
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recLLsXbJtwdxLeTc"
+  ],
+  "TWITTER": "@fvntr",
+  "BIO_EN": "Felipe Ventura is a software engineer currently based in the Bay Area.  He has fought with service workers unions like IWW 660 and SEIU for better working conditions and is currently organizing with Techqueria, a decentralized community of Latinx professionals in the tech industry with chapters across the US. ",
+  "SHOW": true,
+  "ID": 87,
+  "講者確認顯示名稱": "講者自填"
+},
+{
+  "id": "recOKYQeJPJAEByzp",
+  "NAME": "林祖儀",
+  "TITLE1": "沃草",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attGeNGUlKZ3hsbu4",
+      "url": "https://dl.airtable.com/baVXUIICQWS7xx0fjrfV_10858540_924346884251022_8919304033097588466_n.jpg",
+      "filename": "10858540_924346884251022_8919304033097588466_n.jpg",
+      "size": 95157,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/W9neQ98AQBqJQ1kWDYUO_small_10858540_924346884251022_8919304033097588466_n.jpg",
+          "width": 36,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/zZYGDOJjS72lwLLkRqWP_large_10858540_924346884251022_8919304033097588466_n.jpg",
+          "width": 512,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/Urc0F6LNQDqyyl9LF8lY_full_10858540_924346884251022_8919304033097588466_n.jpg",
+          "width": 822,
+          "height": 822
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recUUA6c9d2ZXVoPX"
+  ],
+  "BIO": "沃草共同創辦人、財金作家、批踢踢粉絲團主編、割闌尾計畫發言人、臺灣罷免法規修法推動者。 現為沃草執行長，與沃草夥伴投入〈國會無雙〉〈公民學院〉〈給問擂台〉〈議題實驗室〉〈中正紀念堂轉型給問嗎〉等專案。沃草為亞洲第一個以社會企業形式營運之公民參政平台，致力「降低公民參與政治的門檻」為願景。",
+  "TITLE1_EN": "Watchout",
+  "SHOW": true,
+  "ID": 88,
+  "講者確認顯示名稱": "chihao 使用社群普遍知曉的名稱"
+},
+{
+  "id": "recFPteifYyLTINxk",
+  "NAME": "蕭舒云",
+  "CROPPED_AVATAR": [
+    {
+      "id": "att09riV7OkwWPsTA",
+      "url": "https://dl.airtable.com/PPzrXTkWRVemJhOHuKWq_41197449_2038360399516466_1944708827387527168_o.jpg",
+      "filename": "41197449_2038360399516466_1944708827387527168_o.jpg",
+      "size": 215212,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/pgIGnBwBSGGLM7fLAusj_small_41197449_2038360399516466_1944708827387527168_o.jpg",
+          "width": 27,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/NPifPqmYTqecUOuuOaqH_large_41197449_2038360399516466_1944708827387527168_o.jpg",
+          "width": 512,
+          "height": 683
+        },
+        "full": {
+          "url": "https://dl.airtable.com/CJzkcktSGCwPKNLpKtf7_full_41197449_2038360399516466_1944708827387527168_o.jpg",
+          "width": 1108,
+          "height": 1478
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recOSeRYcF26b6Y8K"
+  ],
+  "BIO": "喜歡新鮮事的中年女性",
+  "SHOW": true,
+  "ID": 89,
+  "講者確認顯示名稱": "講者自填"
+},
+{
+  "id": "recgrnNDKtY5YD6GS",
+  "NAME": "林聰賢",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attNGhVVBc2FJ2mEJ",
+      "url": "https://dl.airtable.com/zM6hQWNeRciLFxr6weh8_IMG_5351.jpg",
+      "filename": "IMG_5351.jpg",
+      "size": 209733,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/vjY2Dje0RZCl3wtdvoJ7_small_IMG_5351.jpg",
+          "width": 27,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/sB0ITaF3QAuQSelrrgsZ_large_IMG_5351.jpg",
+          "width": 512,
+          "height": 683
+        },
+        "full": {
+          "url": "https://dl.airtable.com/wPWOwtMZT0e5E0GOoN8n_full_IMG_5351.jpg",
+          "width": 1138,
+          "height": 1518
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recOSeRYcF26b6Y8K"
+  ],
+  "BIO": "法律扶助基金會副執行長",
+  "SHOW": true,
+  "ID": 90,
+  "講者確認顯示名稱": "講者自填"
+},
+{
+  "id": "recxnfOAiqjIeUZbO",
+  "NAME": "待公告講者",
+  "SCHEDULE": [
+    "recUUA6c9d2ZXVoPX"
+  ],
+  "NAME_EN": "TBA",
+  "SHOW": true,
+  "ID": 91
+},
+{
+  "id": "recBJ58Rs0ozb1Xla",
+  "NAME": "蔡志宏",
+  "TITLE1": "行政院科技會報辦公室",
+  "CROPPED_AVATAR": [
+    {
+      "id": "attnbs5vV1OcHLTmH",
+      "url": "https://dl.airtable.com/KhcMH8VFQIakvuTpfPhz_tch.png",
+      "filename": "tch.png",
+      "size": 56459,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/4i4pAQaR72SorWxUDJAd_small_tch.png",
+          "width": 28,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/zRLGCBdHRcmXge4RATKg_large_tch.png",
+          "width": 169,
+          "height": 214
+        },
+        "full": {
+          "url": "https://dl.airtable.com/hOJfFgQvSeIDcRRhanMA_full_tch.png",
+          "width": 169,
+          "height": 214
+        }
+      }
+    }
+  ],
+  "SCHEDULE": [
+    "recOSeRYcF26b6Y8K"
+  ],
+  "BIO": "行政院科技會報辦公室執行秘書，國立台灣大學電機工程學系教授，加州大學洛杉磯分校（UCLA）電機工程博士。曾任行政院科技顧問組副執行秘書、亞洲矽谷計畫執行中心人資長、中華電信獨立董事、台灣通訊學會理事長、AT&T Bell實驗室研究員。研究領域為寬頻政策、頻譜規劃、計畫管理、網路規劃。",
+  "TITLE1_EN": "Board of Science and Technology, Executive Yuan",
+  "SHOW": true,
+  "ID": 92
 }]
