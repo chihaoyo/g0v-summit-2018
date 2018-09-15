@@ -755,7 +755,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Achieving community goals with open-source and Fedora",
-  "ABSTRACT_EN": "The Tibetan community is one of the most targeted areas and has been the focal point of brazen computer spying network called GhostNet in the past years. It has safeguarded itself with help of open source tools and the fedora community.\n\nWith examples from GhostNet, one of the biggest cyber spying network discovered yet in the world, this session gives an introductions to people how they can use Open Source to improve their security-controls, mitigate attacks and build a community to use the power of open source communities. This sessions is an invitation to all who want to learn about the tibetan community and how they can use and integrate open source into their daily life and organizations to meet their needs.\n\nOpen Source Security Test Tools and Methods are essential to provide protection and resilience unbiased from the commercial agenda´s of the security solution industry.",
+  "ABSTRACT_EN": "The Tibetan community is one of the most targeted areas and has been the focal point of brazen computer spying network called GhostNet in the past years. It has safeguarded itself with help of open source tools and the fedora community.\n\nWith examples from GhostNet, one of the biggest cyber spying network discovered yet in the world, this session gives an introductions to people how they can use Open Source to improve their security-controls, mitigate attacks and build a community to use the power of open source communities. This sessions is an invitation to all who want to learn about the tibetan community and how they can use and integrate open source into their daily life and organizations to meet their needs.\n\nOpen Source Security Test Tools and Methods are essential to provide protection and resilience unbiased from the commercial agenda’s of the security solution industry.",
   "TYPE": "talk",
   "ID": "58",
   "TRACK": "跨境跨界",
@@ -890,7 +890,7 @@
   ],
   "SHOW": true,
   "TITLE_EN": "Open data and open gov for investigative journalism",
-  "ABSTRACT_EN": "Corruption happens when there is a lack of transparency. Those in power that benefit from a corrupt system do not have incentive to make data and information open and easily accessible. This talk will introduce open data and civic tech methods and resources for investigative journalists on where to look and how to make use of limited data and information to unmask government corruption at local and international level",
+  "ABSTRACT_EN": "Corruption happens when there is a lack of transparency. Those in power that benefit from a corrupt system do not have incentive to make data and information open and easily accessible. This talk will introduce open data and civic tech methods and resources for investigative journalists on where to look and how to make use of limited data and information to unmask government corruption at local and international level.",
   "TYPE": "talk",
   "ID": "109",
   "TRACK": "追資料",
@@ -1095,6 +1095,7 @@
   "VENUE": "R1",
   "START": "2018-10-07T05:30:00.000Z",
   "END": "2018-10-07T05:50:00.000Z",
+  "ABSTRACT": "開放發展柬埔寨（ODC）自各方匯集難以取得的資料，整理後釋出。任何人都能安全地存取這些客觀、政治中立的資料，讓公民能做出知情的選擇。資料的範疇涵蓋社會、環境、公共服務以及經濟，使用者可以與網站上的數位地圖互動，過濾資料圖層，得到他們需要的資料。ODC 已經成為柬埔寨公民科技生態系中的重要資源，同時也是其他開發中國家與公民共享知識的參考模型。【譯】",
   "SPEAKER": [
     "recHdyept2G9q1eNx"
   ],
@@ -1152,6 +1153,7 @@
   "VENUE": "R0",
   "START": "2018-10-07T05:50:00.000Z",
   "END": "2018-10-07T06:10:00.000Z",
+  "ABSTRACT": "從日本 Code for Japan 來的 Hal 將與聽眾分享兩個獨特的專案。（一）去年，我們讓十八位私人企業員工，從各自的辦公室到十二個地方政府當兼職公務員。公民社群缺乏資源？讓企業支持。（二）資料學院：一系列為公務員設計的工作坊，提高地方政府的資料利用程度。【譯】",
   "SPEAKER": [
     "rec0n0z8TeiOz7gGE"
   ],
@@ -1223,12 +1225,13 @@
   "VENUE": "R0",
   "START": "2018-10-07T06:10:00.000Z",
   "END": "2018-10-07T06:30:00.000Z",
+  "ABSTRACT": "延續開放資料研究院（ODI）第一年的創新計畫，這場短講將檢視這個計畫以及開放科技的歷史，探尋開放資料的未來。我們的觀點是：相較於區塊鏈的零和模型，git 和開源社群的協作開發、維護模型才是資料治理的未來。【譯】",
   "SPEAKER": [
     "rec3AtjRbmRKWMt59"
   ],
   "SHOW": true,
   "TITLE_EN": "Data collaboration for better public services and innovation",
-  "ABSTRACT_EN": "Building on the first year of the Open Data Institute’s data innovation programme, this talk will explore and chalenge this model to look at the history of open technology for clues to where the future of open data lies. We will make the case for why git and the open source community - with its collaborative models for development and maintenance - rather than the zero-sum vision of blockchains, is the blueprint for data governance we ought to strive for.",
+  "ABSTRACT_EN": "Building on the first year of the Open Data Institute’s data innovation programme, this talk will explore and challenge this model to look at the history of open technology for clues to where the future of open data lies. We will make the case for why git and the open source community - with its collaborative models for development and maintenance - rather than the zero-sum vision of blockchains, is the blueprint for data governance we ought to strive for.",
   "TYPE": "talk",
   "ID": "67",
   "TRACK": "公私協力",
@@ -1242,6 +1245,7 @@
   "VENUE": "R1",
   "START": "2018-10-07T06:10:00.000Z",
   "END": "2018-10-07T06:30:00.000Z",
+  "ABSTRACT": "《國家寶藏》這個公民科技專案已經在台灣的歷史研究社群中引起廣泛討論。在一個以歷史檔案、官方文件為主的研究領域，《國家寶藏》帶入了開放資料的概念。這個專案做了什麼？未來又將如何發展？【譯】",
   "SPEAKER": [
     "recLFCTqZQIEPiyAw"
   ],
@@ -1350,6 +1354,7 @@
   "VENUE": "ALL",
   "START": "2018-10-07T07:30:00.000Z",
   "END": "2018-10-07T08:00:00.000Z",
+  "ABSTRACT": "在緬甸，一個小小的公民科技社群，要如何讓打開政府及國會，讓它們釋出資料？",
   "SPEAKER": [
     "recZZVe7ohA019Wem"
   ],
