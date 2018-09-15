@@ -29,7 +29,7 @@
       }
     }
   ],
-  "CLASS": "EVANGELIST",
+  "CLASS": "COHOST",
   "NAME-CH": "財團法人開放文化基金會",
   "BIO-CH": "財團法人開放文化基金會（Open Culture Foundation，簡稱 OCF）成立的主要目的，是希望能夠藉由法人組織的力量，協助台灣資訊軟體界的開放源碼社群，包含開放原始碼軟體、開放資料、開放政府（公民科技）。三個主要領域的發展和應用。",
   "URL": "https://ocf.tw/",
@@ -65,7 +65,7 @@
       }
     }
   ],
-  "CLASS": "EVANGELIST",
+  "CLASS": "COHOST",
   "NAME-CH": "g0v 零時政府揪松團",
   "BIO-CH": "「 揪松團」是 g0v 社群籌辦雙月黑客松的工作小組，除了籌畫每雙月的百人黑客松 ( 大松 ) 外，2016 年起亦積極推動社群基礎建設，並於 2016 年底推出公民科技創新獎助金計畫。",
   "URL": "https://hack.g0v.tw/",
@@ -101,7 +101,7 @@
       }
     }
   ],
-  "CLASS": "EVANGELIST",
+  "CLASS": "COHOST",
   "NAME-CH": "中央研究院資訊科學研究所",
   "BIO-CH": "中央研究院資訊科學研究所於 1977 年開始設立籌備處，歷經五年籌備， 於 1982 年 9 月正式成立研究所，是中央研究院數理組十一個單位之一。目前編制內有 39 位研究人員，另外有 29 位博士後研究學者，將近 300 位專任之資訊技術人員與非全時之研究助理，支援資訊領域之研究與系統之開發。「件件工作，反映自我，凡經我手，必為佳作」是全體同仁一致秉持的工作信念，重視工作之卓越品質，發揮最佳綜效之團隊精神。",
   "URL": "http://www.iis.sinica.edu.tw/",
@@ -141,6 +141,54 @@
   "NAME-CH": "台灣數位科技與政策協進會",
   "BIO-CH": "基於數位科技對於台灣競爭力之重要性，我們結合具共同理念與理想的產、官、學、研人士，成立全國性的「台灣數位科技與政策協進會」，期望藉此匯集專業與智慧，整合數位科技對各行各業發展所需的法規與政策，對政府建言並提供各界參考，以產生對數位科技產業進行結構性翻轉的效益。\n本會為依法設立，非以營利為目的之社會團體，以促進各行各業結合數位科技發展，及建議政府制定前瞻性相關政策，促使數位科技相關產業具國際競爭優勢為宗旨。",
   "URL": "https://digitaltaiwan.org/",
+  "SHOW": true
+},
+{
+  "id": "recNmJNbO28J2vAhG",
+  "NAME-CH": "行政院科技會報辦公室",
+  "CLASS": "EVANGELIST",
+  "URL": "https://www.bost.ey.gov.tw/"
+},
+{
+  "id": "recFr9qkQGet2OuQl",
+  "NAME-CH": "財團法人資訊工業策進會",
+  "CLASS": "EVANGELIST",
+  "URL": "https://www.iii.org.tw/"
+},
+{
+  "id": "recmpeKVQdfXB296a",
+  "NAME": "Industrial Development Bureau, Ministry of Economic Affairs",
+  "BIO": "The mission of the IDB is to promote industrial development in Taiwan, providing professional, innovative and comprehensive services efficiently and proactively that meet the needs of the industry, and facilitating industry upgrade and transformation. It works tirelessly to help Taiwanese companies enhance their productivity and competitive edge on the global stage, thereby better adapt to a rapidly changing world.",
+  "CROPPED_LOGO": [
+    {
+      "id": "attbRlGqsgkY4YLLp",
+      "url": "https://dl.airtable.com/jpOgHeLKR16Um23IaflH_IDB%20logo.png",
+      "filename": "IDB logo.png",
+      "size": 117294,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/qYtcfiDQRFyHVXGYxVaW_small_IDB%20logo.png",
+          "width": 50,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/nEZiA3XRB3eVSLX4dcgw_large_IDB%20logo.png",
+          "width": 713,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/5MRhqvEQqEget01Mc7yw_full_IDB%20logo.png",
+          "width": 1364,
+          "height": 979
+        }
+      }
+    }
+  ],
+  "CLASS": "PROGRAM_PARTNER",
+  "NAME-CH": "經濟部工業局",
+  "BIO-CH": "本局掌管全國工業發展任務，秉持專業、效率、主動、創新的服務精神（核心價值），以產業界需求為導向，提供產業全方位服務，致力於帶領台灣工業創新升級、轉型，積極輔導廠商強化經營體質，提高生產力及國際競爭力，並協助企業因應環境之變化。",
+  "URL": "https://www.moeaidb.gov.tw/",
   "SHOW": true
 },
 {
@@ -215,42 +263,6 @@
   "NAME-CH": "資料視覺化李慕約公司",
   "BIO-CH": "資料視覺化幫助使用者看到資料。簡單的部份，是讓介面看起來漂亮。困難的部份，是讓介面有用。\n企業組織內的決策者日理萬機。我們的服務幫助客戶找出問題，發展一個框架可以分析這一個問題，並用一個畫面的時間，把這問題解釋清楚，讓組織內的人可以一同採取行動。\n\n李慕約與王向榮 (Ronny Wang) 是資料視覺化李慕約公司的創辦人。我們的服務獲得國際獎項肯定，客戶包含電信業、金融業、世界衛生組織。",
   "URL": "https://blog.muyueh.com/",
-  "SHOW": true
-},
-{
-  "id": "recmpeKVQdfXB296a",
-  "NAME": "Industrial Development Bureau, Ministry of Economic Affairs",
-  "BIO": "The mission of the IDB is to promote industrial development in Taiwan, providing professional, innovative and comprehensive services efficiently and proactively that meet the needs of the industry, and facilitating industry upgrade and transformation. It works tirelessly to help Taiwanese companies enhance their productivity and competitive edge on the global stage, thereby better adapt to a rapidly changing world.",
-  "CROPPED_LOGO": [
-    {
-      "id": "attbRlGqsgkY4YLLp",
-      "url": "https://dl.airtable.com/jpOgHeLKR16Um23IaflH_IDB%20logo.png",
-      "filename": "IDB logo.png",
-      "size": 117294,
-      "type": "image/png",
-      "thumbnails": {
-        "small": {
-          "url": "https://dl.airtable.com/qYtcfiDQRFyHVXGYxVaW_small_IDB%20logo.png",
-          "width": 50,
-          "height": 36
-        },
-        "large": {
-          "url": "https://dl.airtable.com/nEZiA3XRB3eVSLX4dcgw_large_IDB%20logo.png",
-          "width": 713,
-          "height": 512
-        },
-        "full": {
-          "url": "https://dl.airtable.com/5MRhqvEQqEget01Mc7yw_full_IDB%20logo.png",
-          "width": 1364,
-          "height": 979
-        }
-      }
-    }
-  ],
-  "CLASS": "ACTIVIST",
-  "NAME-CH": "經濟部工業局",
-  "BIO-CH": "本局掌管全國工業發展任務，秉持專業、效率、主動、創新的服務精神（核心價值），以產業界需求為導向，提供產業全方位服務，致力於帶領台灣工業創新升級、轉型，積極輔導廠商強化經營體質，提高生產力及國際競爭力，並協助企業因應環境之變化。",
-  "URL": "https://www.moeaidb.gov.tw/",
   "SHOW": true
 },
 {
@@ -710,4 +722,16 @@
   "BIO-CH": "我們相信台灣可以更好，而讓台灣更好的力量，來自於更多主動參與、向外關注的公民，所以，我們致力於降低公民參與政治的門檻，提供資訊、觀點，建造各式發聲、對話的平台，讓台灣人更有力量。沃草的英文名字 Watchout，原意是提防和警戒。只要我們每個小小公民都能時時張大眼睛、提高警覺，政客就不容易為所欲為，台灣的公民社會才能茁壯。",
   "URL": "https://watchout.tw/",
   "SHOW": true
+},
+{
+  "id": "recbsQVCqsMHH26AM",
+  "NOTE": "共力夥伴"
+},
+{
+  "id": "recoFCo5upoHBvSI1",
+  "NAME-CH": "資策會",
+  "NOTE": "共力夥伴"
+},
+{
+  "id": "recdA9ZuYirQflHK2"
 }]
