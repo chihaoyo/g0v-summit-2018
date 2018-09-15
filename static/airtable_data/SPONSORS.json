@@ -1,5 +1,39 @@
 [
 {
+  "id": "recbsQVCqsMHH26AM",
+  "NAME-CH": "g0v Summit 2018",
+  "NAME": "g0v Summit 2018",
+  "CLASS": "ORGANIZER",
+  "CROPPED_LOGO": [
+    {
+      "id": "attm8UqR9HQ3N1Be7",
+      "url": "https://dl.airtable.com/v3nOAUR1SOSweQqIXs5B_download.svg.png",
+      "filename": "download.svg.png",
+      "size": 20006,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/npM3egnfSmKwSqzA3dk2_small_download.svg.png",
+          "width": 72,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/9bxcaOANRvCfsYaU2qSE_large_download.svg.png",
+          "width": 800,
+          "height": 400
+        },
+        "full": {
+          "url": "https://dl.airtable.com/BeKFfGBSRmdh7990Z5tr_full_download.svg.png",
+          "width": 800,
+          "height": 400
+        }
+      }
+    }
+  ],
+  "URL": "https://summit.g0v.tw/",
+  "SHOW": true
+},
+{
   "id": "rec26P2u36prFyuYM",
   "NAME": "Open Culture Foundation",
   "BIO": "The Open Culture Foundation (OCF), is a nonpartisan, nonprofit organization, founded in 2014 by several members of Taiwan’s open source community. Our main goal is to support local communities advocate the use of open technologies in broader sectors, including open source software, open hardware, and open data.",
@@ -722,10 +756,6 @@
   "BIO-CH": "我們相信台灣可以更好，而讓台灣更好的力量，來自於更多主動參與、向外關注的公民，所以，我們致力於降低公民參與政治的門檻，提供資訊、觀點，建造各式發聲、對話的平台，讓台灣人更有力量。沃草的英文名字 Watchout，原意是提防和警戒。只要我們每個小小公民都能時時張大眼睛、提高警覺，政客就不容易為所欲為，台灣的公民社會才能茁壯。",
   "URL": "https://watchout.tw/",
   "SHOW": true
-},
-{
-  "id": "recbsQVCqsMHH26AM",
-  "NOTE": "共力夥伴"
 },
 {
   "id": "recoFCo5upoHBvSI1",
