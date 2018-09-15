@@ -1,9 +1,7 @@
 [
 {
   "id": "recbsQVCqsMHH26AM",
-  "NAME-CH": "g0v Summit 2018",
   "NAME": "g0v Summit 2018",
-  "CLASS": "ORGANIZER",
   "CROPPED_LOGO": [
     {
       "id": "attm8UqR9HQ3N1Be7",
@@ -30,6 +28,8 @@
       }
     }
   ],
+  "CLASS": "ORGANIZER",
+  "NAME-CH": "g0v Summit 2018",
   "URL": "https://summit.g0v.tw/",
   "SHOW": true
 },
@@ -179,14 +179,14 @@
 },
 {
   "id": "recNmJNbO28J2vAhG",
-  "NAME-CH": "行政院科技會報辦公室",
   "CLASS": "EVANGELIST",
+  "NAME-CH": "行政院科技會報辦公室",
   "URL": "https://www.bost.ey.gov.tw/"
 },
 {
   "id": "recFr9qkQGet2OuQl",
-  "NAME-CH": "財團法人資訊工業策進會",
   "CLASS": "EVANGELIST",
+  "NAME-CH": "財團法人資訊工業策進會",
   "URL": "https://www.iii.org.tw/"
 },
 {
@@ -759,8 +759,8 @@
 },
 {
   "id": "recoFCo5upoHBvSI1",
-  "NAME-CH": "資策會",
-  "NOTE": "共力夥伴"
+  "NOTE": "共力夥伴",
+  "NAME-CH": "資策會"
 },
 {
   "id": "recdA9ZuYirQflHK2"
