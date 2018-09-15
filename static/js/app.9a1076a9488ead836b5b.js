@@ -4845,7 +4845,7 @@ var esExports = { render: render, staticRenderFns: staticRenderFns }
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_CtaButton_vue__ = __webpack_require__(172);
 /* unused harmony namespace reexport */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_97e99a10_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_CtaButton_vue__ = __webpack_require__(402);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_7d7d93b7_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_CtaButton_vue__ = __webpack_require__(402);
 function injectStyle (ssrContext) {
   __webpack_require__(401)
 }
@@ -4860,12 +4860,12 @@ var __vue_template_functional__ = false
 /* styles */
 var __vue_styles__ = injectStyle
 /* scopeId */
-var __vue_scopeId__ = "data-v-97e99a10"
+var __vue_scopeId__ = "data-v-7d7d93b7"
 /* moduleIdentifier (server only) */
 var __vue_module_identifier__ = null
 var Component = normalizeComponent(
   __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_CtaButton_vue__["a" /* default */],
-  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_97e99a10_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_CtaButton_vue__["a" /* default */],
+  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_7d7d93b7_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_CtaButton_vue__["a" /* default */],
   __vue_template_functional__,
   __vue_styles__,
   __vue_scopeId__,
@@ -5715,7 +5715,7 @@ var esExports = { render: render, staticRenderFns: staticRenderFns }
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_HeroImage_vue__ = __webpack_require__(232);
 /* unused harmony namespace reexport */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_5e6a02ae_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_HeroImage_vue__ = __webpack_require__(587);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_ab39ef92_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_HeroImage_vue__ = __webpack_require__(587);
 function injectStyle (ssrContext) {
   __webpack_require__(575)
 }
@@ -5730,12 +5730,12 @@ var __vue_template_functional__ = false
 /* styles */
 var __vue_styles__ = injectStyle
 /* scopeId */
-var __vue_scopeId__ = "data-v-5e6a02ae"
+var __vue_scopeId__ = "data-v-ab39ef92"
 /* moduleIdentifier (server only) */
 var __vue_module_identifier__ = null
 var Component = normalizeComponent(
   __WEBPACK_IMPORTED_MODULE_0__babel_loader_node_modules_vue_loader_lib_selector_type_script_index_0_HeroImage_vue__["a" /* default */],
-  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_5e6a02ae_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_HeroImage_vue__["a" /* default */],
+  __WEBPACK_IMPORTED_MODULE_1__node_modules_vue_loader_lib_template_compiler_index_id_data_v_ab39ef92_hasScoped_true_transformToRequire_video_src_poster_source_src_img_src_image_xlink_href_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_HeroImage_vue__["a" /* default */],
   __vue_template_functional__,
   __vue_styles__,
   __vue_scopeId__,
@@ -5867,8 +5867,8 @@ var esExports = { render: render, staticRenderFns: staticRenderFns }
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"hero-image-container"}},[(_vm.isSmallScreen)?_c('HeroImageMobile'):_c('HeroImageDesktop'),_vm._v(" "),_c('span',{class:_vm.isSmallScreen && 'small-screen-text-layout',attrs:{"id":"hero-image-text"}},[_c('div',{attrs:{"id":"slogan"}},[_vm._v("開源 公民 生態系")]),_vm._v(" "),_c('div',{attrs:{"id":"time"}},[_vm._v("2018.10.5-2018.10.7")]),_vm._v(" "),_c('div',{attrs:{"id":"location"}},[_c('TW',[_vm._v("台北")]),_vm._v(" "),_c('EN',[_vm._v("Taipei")]),_vm._v(" "),_c('TW',[_vm._v("中央研究院 人文社會科學館")]),_vm._v(" "),_c('EN',[_vm._v("Academia Sinica")]),_vm._v(" "),_c('a',{attrs:{"target":"_blank","href":"https://www.google.com.tw/maps/place/Joint+Library+of+Humanities+and+Social+Sciences,+Academia+Sinica/@25.041189,121.6128625,19z/data=!4m8!1m2!2m1!1z5Lit5aSu56CU56m26Zmi5Lq65paH6aSo!3m4!1s0x3442ab46ae2ef65b:0x53ceacf197917004!8m2!3d25.041087!4d121.6117"}},[_c('TW',[_vm._v("地圖")]),_vm._v(" "),_c('EN',[_vm._v("Map")])],1)],1),_vm._v(" "),_c('CtaButton',{attrs:{"href":"https://g0v-summit2018.kktix.cc/events/conf","block":""}},[_c('TW',[_vm._v("一般票")]),_vm._v(" "),_c('EN',[_vm._v("Registration")])],1),_vm._v(" "),_c('CtaButton',{attrs:{"href":"https://g0v-summit2018.kktix.cc/events/conf-donate","block":""}},[_c('TW',[_vm._v("個人贊助功德票")]),_vm._v(" "),_c('EN',[_vm._v("Personal Donation")])],1)],1)],1)}
-var staticRenderFns = []
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{attrs:{"id":"hero-image-container"}},[(_vm.isSmallScreen)?_c('HeroImageMobile'):_c('HeroImageDesktop'),_vm._v(" "),_c('span',{class:_vm.isSmallScreen && 'small-screen-text-layout',attrs:{"id":"hero-image-text"}},[_vm._m(0),_vm._v(" "),_c('div',{attrs:{"id":"slogan"}},[_vm._v("開源 公民 生態系")]),_vm._v(" "),_c('div',{attrs:{"id":"time"}},[_vm._v("2018.10.5-2018.10.7")]),_vm._v(" "),_c('div',{attrs:{"id":"location"}},[_c('TW',[_vm._v("台北")]),_vm._v(" "),_c('EN',[_vm._v("Taipei")]),_vm._v(" "),_c('TW',[_vm._v("中央研究院 人文社會科學館")]),_vm._v(" "),_c('EN',[_vm._v("Academia Sinica")])],1),_vm._v(" "),_c('CtaButton',{attrs:{"block":!_vm.isSmallScreen,"href":"https://g0v-summit2018.kktix.cc/events/conf"}},[_c('TW',[_vm._v("一般票")]),_vm._v(" "),_c('EN',[_vm._v("Registration")])],1),_vm._v(" "),_c('CtaButton',{attrs:{"block":!_vm.isSmallScreen,"href":"https://g0v-summit2018.kktix.cc/events/conf-donate"}},[_c('TW',[_vm._v("個人贊助功德票")]),_vm._v(" "),_c('EN',[_vm._v("Personal Donation")])],1)],1)],1)}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"slogon"},[_c('div',{attrs:{"id":"title"}},[_vm._v("亞洲最大公民科技盛會")]),_vm._v(" "),_c('div',{attrs:{"id":"subtitle"}},[_vm._v(" The Largest Civic Tech Event in Asia")])])}]
 var esExports = { render: render, staticRenderFns: staticRenderFns }
 /* harmony default export */ __webpack_exports__["a"] = (esExports);
 
@@ -6838,4 +6838,4 @@ var store = new __WEBPACK_IMPORTED_MODULE_1_vuex__["a" /* default */].Store({
 
 /***/ })
 ],[246]);
-//# sourceMappingURL=app.85b59ae1c57e3ab1335d.js.map
+//# sourceMappingURL=app.9a1076a9488ead836b5b.js.map
